@@ -34,7 +34,7 @@ class Diagnosis2Diseases(object):
     def query_postgres(self):
         """
         执行SQL语句，查询postgres数据库
-        :return:
+        :return: 存储文本数据的list
         """
         postgres = self.link_2_postgres()
         seq_num = "dia_icd = " + str(self.seq_num)
@@ -45,47 +45,65 @@ class Diagnosis2Diseases(object):
                 set search_path to mimiciii;
                 
                 select
-                    --distinct on(ad.hadm_id)
-                    --ad.hadm_id,
-                    --ad.subject_id,
-                    --distinct on(ad.hadm_id)
-                    ad.hadm_id,
-                    --distinct on(note.hadm_id)
-                    --pa.gender,
-                    --inmv.patientweight,
-                    ad.diagnosis,
-                    dia_icd.icd9_code,
-                    dia_icd.seq_num
-                    --drg.description,
-                    --note.hadm_id,
-                    --drg.hadm_id
-                    --note.text
-                    --drg.description,
-                    --note.text    
+                    --入院号
+                    distinct on(ad.hadm_id)
+                    ad.hadm_id,--入院号
+                    drg.hadm_id,--入院号
+                    note.hadm_id,--入院号
+                    dia_icd.hadm_id,--入院号
+                    ---以上四个数据理论上是重复的，只是为了检验是否比对一致
+                    
+                    --信息
+                    pa.gender,--性别
+                    round((cast(ad.admittime as date)-cast(pa.dob as date))/365.2),--年龄
+                    --体重由于inputevents表中的patientsweight只有2万多条，估计是有很多人没有体重这一记录，所以不采用
+                    ad.admission_type,--入院类型
+                    ad.marital_status,--婚姻状态
+                    ad.ethnicity,--人种
+                    ad.religion,--宗教信仰
+                    --后期可能还需要加入一些医学生理数据的信息
+                    
+                    --诊断文本
+                    ad.diagnosis,--诊断文本
+                    drg.description,--诊断相关组文本
+                    note.text,--出院总结
+                    
+                    --疾病码及文本
+                    dia_icd.seq_num,--疾病ICD-9码优先级
+                    dia_icd.icd9_code,--疾病ICD-9码
+                    icd_dia.short_title,--对应ICD-9码的短文本
+                    icd_dia.long_title--对应ICD-0码的长文本   
                 from
                     admissions as ad,--入院表
                     drgcodes as drg,--诊断相关组表
-                    noteevents as note,--注释表
-                    patients as pa,--病人表
-                    inputevents_mv as inmv, --输入表
-                    diagnoses_icd as dia_icd --诊断ICD表
-                    d_icd_diagnosis as icd_dia --诊断ICD码对应表
+                    noteevents as note, --注释表
+                    patients as pa, --病人表
+                    diagnoses_icd as dia_icd, --诊断ICD表
+                    d_icd_diagnoses as icd_dia --ICD码对应表
                 where
-                    --ad.hadm_id = drg.hadm_id and
-                    --ad.hadm_id = note.hadm_id
-                    --ad.subject_id = pa.subject_id and
-                    --pa.subject_id = inmv.subject_id --先以subject_id连接pa表格inmv表，检查数量，25110条，太少放弃
-                    --ad.hadm_id = inmv.hadm_id --以hadm_id连接ad表和inmv表，21879条，为什么这么少呢？
-                    ad.hadm_id = dia_icd.hadm_id and --以hadm_id连接ad表和dia_icd表
+                    ad.hadm_id = drg.hadm_id and
+                    ad.hadm_id = note.hadm_id and
+                    ad.subject_id = pa.subject_id and
+                    icd_dia.icd9_code = dia_icd.icd9_code and
+                    ad.hadm_id = dia_icd.hadm_id and
                     dia_icd.seq_num = 1
-                                
-                            ;
+                    
+                    ;
             """))
+        # 在数据库中不做判断属性是否为空值的操作，防止检索时间过久
         original_data = postgres_obj.fetchall()
         data = []
         for row in tqdm(original_data, desc='convert data from tuple to list', leave=False):
-            if row[0] is not None:
-                data.append(list(row))
+            check = set(row[0:3])  # 判断前四项的hadm_id属性是否一致
+            if len(check) == 1:
+                if None not in row:  # 判断每条记录中的每一个属性是否有空值
+                    data.append(row[3:])
+                else:
+                    print('此条记录有空值属性，不添加！')  # 新生儿没有婚姻状态，显然是空值，这种情况要不要排除？
+                    print(row)
+            else:
+                print('此条记录前四项校验失败，不添加！')
+
         print(len(data))
 
 
@@ -97,49 +115,3 @@ class Diagnosis2Diseases(object):
 
 dia_2_dis = Diagnosis2Diseases(1)
 dia_2_dis.query_postgres()
-
-"""
-set search_path to mimiciii;
-                            CREATE INDEX test_index ON noteevents(hadm_id);
-                            select 
-                                --distinct on (note.hadm_id)
-                                note.hadm_id as "入院号",
-                                ad.hadm_id as "入院号",
-                                drg.hadm_id as "入院号"
-                                /*
-                                round( (cast(ad.admittime as date)-cast(pa.dob as date))/365.2, 0) as "年龄",
-                                inmv.patientweight as "体重",
-                                pa.gender as "性别",
-                                ad.admission_type as "入院类型",
-                                ad.insurance as "保险状态",
-                                ad.religion as "宗教信仰",
-                                ad.marital_status as "婚姻状态",
-                                ad.ethnicity as "人种",
-                        
-                                ad.diagnosis as "入院诊断短文本",
-                                drg.description as "病人诊断相关组短文本",
-                                note.text as "出院病人总结报告长文本",
-                                
-                                dia.seq_num as "病人诊断疾病优先级",
-                                dia.icd9_code as "诊断疾病对应的ICD-9编码",
-                                icd_dia.short_title as "疾病ICD-9编码对应的短文本描述",
-                                icd_dia.long_title as "疾病ICD-9编码对应的长文本描述"
-                                */
-                            from
-                                admissions as ad, --入院表
-                                noteevents as note, --病人注释表
-                                drgcodes as drg, --诊断相关组表
-                                inputevents_mv as inmv, --输入表
-                                patients as pa, --病人表
-                                diagnoses_icd as dia, --病人ICD疾病表
-                                d_icd_diagnoses as icd_dia --ICD-9疾病描述表
-                            where
-                                ad.hadm_id = note.hadm_id and
-                                drg.hadm_id = ad.hadm_id and
-                                drg.hadm_id = note.hadm_id and
-                                inmv.hadm_id = ad.hadm_id and
-                                ad.subject_id = pa.subject_id and
-                                dia.hadm_id = ad.hadm_id and
-                                dia.seq_num = 1 and
-                                icd_dia.icd9_code = dia.icd9_code 
-"""
