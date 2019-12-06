@@ -8,4 +8,5 @@
 - [ ] 根据需求，处理原始数据，特别是noteevents表的text属性文本待处理
 
 # 检索并初步处理完成的文件地址
-- 诊断文本-疾病文本 [百度网盘](https://pan.baidu.com/s/1lx1Z5bIXcKhPzTRmYyMw2w) `pntm`
+- 诊断文本-疾病文本 [百度网盘-1](https://pan.baidu.com/s/1lx1Z5bIXcKhPzTRmYyMw2w) `pntm`
+- 诊断问呢-治疗文本 [百度网盘-2](https://pan.baidu.com/s/1mCnwEj0I3rNYe1pstJDHlA)`vu9e`
