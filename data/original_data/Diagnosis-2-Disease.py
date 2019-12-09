@@ -106,10 +106,10 @@ class Diagnosis2Diseases(object):
                     data.append(list(row[3:]))
                 else:
                     pass
-                    print('此条记录有空值属性，不添加！')  # 新生儿没有婚姻状态，显然是空值，这种情况要不要排除？
+                    # print('此条记录有空值属性，不添加！')  # 新生儿没有婚姻状态，显然是空值，这种情况要不要排除？
             else:
                 pass
-                print('此条记录前四项校验失败，不添加！')
+                # print('此条记录前四项校验失败，不添加！')
 
         print('筛选后的数据条数为{}'.format(len(data)))
         return data
@@ -223,7 +223,7 @@ class Diagnosis2Diseases(object):
             one.append(self._normalize_text(line[7]))  # 诊断文本处理
             one.append(self._normalize_text(line[8]))  # 诊断相关组文本处理
             one.append(self._process_text(line[9]))  # 出院总结文本处理
-            one.append('female' if line[1] == 'f' else 'male')  # 性别处理
+            one.append('female' if line[1] == 'F' else 'male')  # 性别处理
             age = int(float(str((line[2]).quantize(Decimal('0.0'))).split("'")[0]))  # 年龄从字符转化为数值
             one.append(self._normalize_text(self.age_2_word(age if age == 89 else age)))  # 年龄处理
             for item in range(3, 7, 1):
