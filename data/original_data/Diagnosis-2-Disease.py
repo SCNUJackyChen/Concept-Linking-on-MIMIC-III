@@ -105,17 +105,13 @@ class Diagnosis2Diseases(object):
                 if None not in row:  # 判断每条记录中的每一个属性是否有空值
                     data.append(list(row[3:]))
                 else:
+                    pass
                     print('此条记录有空值属性，不添加！')  # 新生儿没有婚姻状态，显然是空值，这种情况要不要排除？
-                    # print(row)
             else:
+                pass
                 print('此条记录前四项校验失败，不添加！')
 
         print('筛选后的数据条数为{}'.format(len(data)))
-        print('展示数据前10条')
-        for idx, line in enumerate(data):
-            print(line)
-            if idx >= 10:
-                break
         return data
 
     def _normalize_text(self, text):
@@ -194,6 +190,26 @@ class Diagnosis2Diseases(object):
         else:
             print("number must below 1000");
 
+    def _process_text(self, text):
+        """
+        处理noteevents表的text文本
+        :return: 新切分生成的字段或者原字段
+        """
+        d_1 = 'Discharge Diagnosis:'  # text文本中的出院诊断字段
+        d_2 = 'Discharge Diagnoses:'  # text文本中的出院诊断字段的另一种写法
+        d_3 = d_1.upper()  # 大写
+        d_4 = d_2.upper()
+        special_text = [d_1, d_2, d_3, d_4]  # 字段集合
+
+        new_text = None  # 新生成的text文本
+        for i in special_text:
+            if re.search(i, text):  # 如果text有当前文本字段
+                    new_text = text.split(i)[1].split('\n\n')[0]  # 用当前字段切分文本 TODO 后面切分字符可能有多种情况
+                    new_text = self._normalize_text(new_text)  # 文本规范化
+                    break
+
+        return new_text if new_text else new_text
+
     def process_text(self, data):
         """
         处理从postgres数据库中检索出的文本数据
@@ -206,7 +222,7 @@ class Diagnosis2Diseases(object):
             one = []
             one.append(self._normalize_text(line[7]))  # 诊断文本处理
             one.append(self._normalize_text(line[8]))  # 诊断相关组文本处理
-            one.append(line[9])  # TODO 出院总结文本待处理
+            one.append(self._process_text(line[9]))  # 出院总结文本处理
             one.append('female' if line[1] == 'f' else 'male')  # 性别处理
             age = int(float(str((line[2]).quantize(Decimal('0.0'))).split("'")[0]))  # 年龄从字符转化为数值
             one.append(self._normalize_text(self.age_2_word(age if age == 89 else age)))  # 年龄处理
@@ -229,6 +245,7 @@ class Diagnosis2Diseases(object):
                 one.append(father.get()[0])
                 one.append(self._normalize_text(father.get()[1]))
             process_data.append(one)
+
         return process_data
 
 
@@ -246,15 +263,3 @@ csv_writer = csv.writer(output, dialect='excel')
 for row in tqdm(total_text, desc='开始写入csv文件...', leave=False):
     csv_writer.writerow(row)
 print('成功写入diagnosis-2-disease.csv文件！')
-
-exit()
-with open('diagnosi-2-disease.txt', mode='w', encoding='utf-8') as txt_file:
-    for row in tqdm(total_text, desc='开始写入txt文件...', leave=False):
-        for item in row:
-            txt_file.write(item)
-            txt_file.write(' ')
-        txt_file.write('\n')
-print('成功写入diagnosis-2-diseases.txt文件！')
-
-
-
