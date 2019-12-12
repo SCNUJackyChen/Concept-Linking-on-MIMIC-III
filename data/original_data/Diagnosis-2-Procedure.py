@@ -192,23 +192,53 @@ class Diagnosis2Procedure(object):
 
     def _process_text(self, text):
         """
-        处理noteevents表的text文本
-        :return: 新切分生成的字段或者原字段
+        考虑多种切分情况的text文本切分函数
+        :param text: 带切分的文本
+        :return: 切分后的文本
         """
         d_1 = 'Discharge Diagnosis:'  # text文本中的出院诊断字段
-        d_2 = 'Discharge Diagnoses:'  # text文本中的出院诊断字段的另一种写法
-        d_3 = d_1.upper()  # 大写
+        d_2 = 'Discharge Diagnoses:'  # 以上字段的另外一种写法
+        d_3 = d_1.upper()  # 以上字段大写
         d_4 = d_2.upper()
-        special_text = [d_1, d_2, d_3, d_4]  # 字段集合
 
-        new_text = None  # 新生成的text文本
-        for i in special_text:
-            if re.search(i, text):  # 如果text有当前文本字段
-                    new_text = text.split(i)[1].split('\n\n')[0]  # 用当前字段切分文本 TODO 后面切分字符可能有多种情况
-                    new_text = self._normalize_text(new_text)  # 文本规范化
-                    break
+        d_5 = 'Discharge Condition:'
+        d_6 = d_5.upper()  # 以上字段大写
+        dia = [d_1, d_2, d_3, d_4]  # discharge diagnosis\diagnoses字段集合
+        dia_con = [d_5, d_6]  # # discharge condition字段集合
 
-        return new_text if new_text else new_text
+        d_7 = 'HISTORY OF PRESENT ILLNESS:'
+        d_8 = 'DISCHARGE STATUS:'  # 在medications前
+        d_9 = 'Dictated By:'  # or [  # 最后
+        d_10 = 'CHIEF COMPLAINT:'
+        d_11 = 'DISCHARGE MEDICATIONS:'
+        other = [d_10, d_7, d_8, d_11, d_9]  # 其他特殊字段
+
+        new_text = None  # 新切分字段
+
+        for i in dia:
+            if re.search(i, text):
+                new_text = text.split(i)[1].split('\n\n')[0]  # 用discharge diagnosis\diagnoses切分text
+                if len(new_text) != 0:
+                    new_text = self._normalize_text(new_text)  # 切分后的字段不空，处理返回
+                    return new_text
+                else:  # 切分后为空，特殊情况，继续切分
+                    new_text = text.split(i)[1]  # 从discharge diagnosis\diagnose处切分开
+                    for j in dia_con:  # 寻找discharge condition
+                        if re.search(j, new_text):  # 如果一次切分后的字段中有discharge condition，再次切分
+                            new_text = new_text.split(j)[0]  # 从discharge condition处切开
+                            if len(new_text) != 0:  # 二次切分后的字段不空，则处理后返回；为空说明就真的没有
+                                new_text = self._normalize_text(new_text)
+                            return new_text
+                    new_text = text.split(i)[1]  # 从discharge diagnosis\diagnoses处切分开
+                    for k in other:
+                        if re.search(k, new_text):
+                            new_text = new_text.split(k)[0]  # 从特殊字符处再切分开
+                            if len(new_text) != 0:  # 二次特殊字符切分后不为空，则处理后返回；为空说明有错误，报出来
+                                return self._normalize_text(new_text)
+                            else:
+                                print('有错误，终止程序！需要debug！')
+                                break
+                    # discharge diagnosis切分后字段中没有discharge condition，说明是其他的特殊情况，再次切分
 
     def process_text(self, data):
         """
