@@ -240,6 +240,26 @@ class Diagnosis2Diseases(object):
                                 break
                     # discharge diagnosis切分后字段中没有discharge condition，说明是其他的特殊情况，再次切分
 
+    def _process_desc(self, desc):
+        """
+        处理诊断相关组文本，替换缩略词
+        :param desc: 诊断相关组description文本
+        :return: 替换掉缩略词后的description文本
+        """
+        desc = desc.lower()
+        acronym_list = ['w cc/mcc', 'w mcc', 'w cc', 'w noncc', 'w/o mcc', 'w/o cc/mcc']
+        corresponding_list = ['with CC or Major CC', 'with Major CC', 'with CC and without Major CC',
+                              'with NonCC and without CC or Major CC', 'with CC or Non CC and without Major CC',
+                              'with nonCC and without CC or Major CC']  # CC = comorbid conditions
+        new_desc = None
+        for idx, i in enumerate(acronym_list):
+            if re.search(i, desc, re.IGNORECASE):
+                new_cc = re.sub('CC', 'comorbid conditions', corresponding_list[idx], re.IGNORECASE)
+                new_desc = re.sub(i, new_cc, desc, re.IGNORECASE)
+                break
+
+        return new_desc if new_desc else desc
+
     def process_text(self, data):
         """
         处理从postgres数据库中检索出的文本数据
@@ -251,7 +271,7 @@ class Diagnosis2Diseases(object):
         for line in tqdm(data, desc='处理数据中...', leave=False):
             one = []
             one.append(self._normalize_text(line[7]))  # 诊断文本处理
-            one.append(self._normalize_text(line[8]))  # 诊断相关组文本处理
+            one.append(self._normalize_text(self._process_desc(line[8])))  # 诊断相关组文本处理
             one.append(self._process_text(line[9]))  # 出院总结文本处理
             one.append('female' if line[1] == 'F' else 'male')  # 性别处理
             age = int(float(str((line[2]).quantize(Decimal('0.0'))).split("'")[0]))  # 年龄从字符转化为数值
