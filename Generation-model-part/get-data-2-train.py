@@ -16,10 +16,10 @@ from data_visual.data_visual_map import InputTargetLengthVisual
 
 un_repeat = False  # 是否对输入序列进行去重
 add_dia = True  # 是否对diagnosis文本加入diagnosis
-add_desc = True  # 是否对diagnosis文本加上description
+add_desc = False  # 是否对diagnosis文本加上description
 add_text = False  # 是否对diagnosis文本加上text文本
 add_father = False # 是否对concept加上father文本
-father = False  # 是否单独写出father文本
+father = True  # 是否单独写出father文本
 max_len = 100  # 序列token最大长度
 
 file_path = os.path.abspath('..') + '\\data\\original_data\\diagnosis-2-disease.csv'
@@ -97,7 +97,7 @@ with open('dia-2-dis\\train-con.txt', mode='w', encoding='utf-8') as train_con:
 
 with open('dia-2-dis\\train-father.txt', mode='w', encoding='utf-8') as train_father:
     for i in train_y:
-        train_father.write(i[1] if i[1] else '\n')
+        train_father.write(i[1] if i[1] else 'None')
         train_father.write('\n')
 
 with open('dia-2-dis\\val-dia.txt', mode='w', encoding='utf-8') as val_dia:
@@ -112,7 +112,7 @@ with open('dia-2-dis\\val-con.txt', mode='w', encoding='utf-8') as val_con:
 
 with open('dia-2-dis\\val-father.txt', mode='w', encoding='utf-8') as val_father:
     for i in val_y:
-        val_father.write(i[1] if i[1] else '\n')
+        val_father.write(i[1] if i[1] else 'None')
         val_father.write('\n')
 
 with open('dia-2-dis\\infer-dia.txt', mode='w', encoding='utf-8') as infer_dia:
@@ -127,5 +127,5 @@ with open('dia-2-dis\\infer-con.txt', mode='w', encoding='utf-8') as infer_con:
 
 with open('dia-2-dis\\infer-father.txt', mode='w', encoding='utf-8') as infer_father:
     for i in infer_y:
-        infer_father.write(i[1] if i[1] else '\n')
+        infer_father.write(i[1] if i[1] else 'None')
         infer_father.write('\n')

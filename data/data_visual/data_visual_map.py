@@ -67,5 +67,5 @@ class InputTargetLengthVisual(object):
         显示柱状图和直方图
         :return:
         """
-        self._bar_map()
+        # self._bar_map()
         self._his_map()
