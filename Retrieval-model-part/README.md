@@ -3,10 +3,11 @@
 这个模块为了生成模型服务，它的功能在于短时间内快速筛选出包含有目标医疗概念的候选集，
 是一种粗略的检索方法。经过匹配模型的预处理，选出与查询最相似的top K个概念。
 ## 方法
-对于医疗文本，我们采取BioNLP作为预训练好的词向量，利用SIF方法计算每条文本的句向量，
+对于医疗文本，我们采取[BioNLP](https://github.com/cambridgeltl/BioNLP-2016)作为预训练好的[词向量](https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8)，利用SIF方法计算每条文本的句向量，
 再利用余弦相似度筛选出与查询最相似的top K个候选概念。
 ## 精度
 在top-50数据集上，表现如下（覆盖率=候选集中包含正确对应概念的查询数/总查询数）
+
 | TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP |
 | -------------------- | ----- | -------- | ---------- |
 | top5                 | 0.72  | 0.68     | **0.79**   |
@@ -25,7 +26,7 @@ down the size of candidates of concepts in an efficient way. Given a query, this
 generate the most similar top K concepts of it.
 
 ## Method
-For clinic text, we leverage BioNLP as pre-trained word embeddings, and SIF method is used
+For clinic text, we leverage [BioNLP](https://github.com/cambridgeltl/BioNLP-2016) as pre-trained [word embeddings](https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8), and SIF method is used
 for calculating sentence embeddings for each text. Finally, the cosine similarity has been
 computed in order to search for the top K candidates of concepts.
 
@@ -34,10 +35,14 @@ In the top-50 dataset, our method has the following performance.
 (The number represents coverage of top K candidates, which means the ratio of how many queries can
 get their corresponding concepts in top K. e.g, top5-0.79 means 79% of the queries in dataset
 can find their corresponding concepts in top 5 candidates.)
- | TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP |
- | -------------------- | ----- | -------- | ---------- |
- | top5                 | 0.72  | 0.68     | **0.79**   |
- | top10                | 0.8   | 0.78     | **0.88**   |
- | top15                | 0.85  | 0.84     | **0.93**   |
- | top20                | 0.87  | 0.88     | **0.95**   |
- | top25                | 0.92  | 0.94     | **0.97**   |
+
+| TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP |
+| -------------------- | ----- | -------- | ---------- |
+| top5                 | 0.72  | 0.68     | **0.79**   |
+| top10                | 0.8   | 0.78     | **0.88**   |
+| top15                | 0.85  | 0.84     | **0.93**   |
+| top20                | 0.87  | 0.88     | **0.95**   |
+| top25                | 0.92  | 0.94     | **0.97**   |  
+
+
+
