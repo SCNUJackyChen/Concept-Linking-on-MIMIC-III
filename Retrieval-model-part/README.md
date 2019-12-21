@@ -7,18 +7,16 @@
 再利用余弦相似度筛选出与查询最相似的top K个候选概念。
 ## 精度
 在top-50数据集上，表现如下（覆盖率=候选集中包含正确对应概念的查询数/总查询数）
-  TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP 
-  ------------- | -------------| ------------- | -------------  
- top5                 | 0.72  | 0.68     | **0.79**   
- top10                | 0.8   | 0.78     | **0.88**   
- top15                | 0.85  | 0.84     | **0.93**   
- top20                | 0.87  | 0.88     | **0.95**   
- top25                | 0.92  | 0.94     | **0.97**   
 
-  TOP-50  Code dataset  | TFIDF 
-  ------------- | ------------- 
- 单元格内容  | 单元格内容 
- 单元格内容l  | 单元格内容
+| TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP |
+| -------------------- | ----- | -------- | ---------- |
+| top5                 | 0.72  | 0.68     | **0.79**   |
+| top10                | 0.8   | 0.78     | **0.88**   |
+| top15                | 0.85  | 0.84     | **0.93**   |
+| top20                | 0.87  | 0.88     | **0.95**   |
+| top25                | 0.92  | 0.94     | **0.97**   |
+
+
 
 #  MIMIC-III Concept Linking -- Retrieval-Model-Part
 ## Introduction
@@ -37,10 +35,11 @@ In the top-50 dataset, our method has the following performance.
 (The number represents coverage of top K candidates, which means the ratio of how many queries can
 get their corresponding concepts in top K. e.g, top5-0.79 means 79% of the queries in dataset
 can find their corresponding concepts in top 5 candidates.)
- TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP 
- -------------------- | ----- | -------- | ---------- 
- top5                 | 0.72  | 0.68     | **0.79**   
- top10                | 0.8   | 0.78     | **0.88**   
- top15                | 0.85  | 0.84     | **0.93**   
- top20                | 0.87  | 0.88     | **0.95**   
- top25                | 0.92  | 0.94     | **0.97**   
+
+| TOP-50  Code dataset | TFIDF | SIF+CBOW | SIF+BioNLP |
+| -------------------- | ----- | -------- | ---------- |
+| top5                 | 0.72  | 0.68     | **0.79**   |
+| top10                | 0.8   | 0.78     | **0.88**   |
+| top15                | 0.85  | 0.84     | **0.93**   |
+| top20                | 0.87  | 0.88     | **0.95**   |
+| top25                | 0.92  | 0.94     | **0.97**   |  
