@@ -1,0 +1,459 @@
+septicemia
+coronary atherosclerosis
+other diseases of lung
+postoperative infection
+none
+coronary atherosclerosis
+septicemia
+subendocardial infarction
+subendocardial infarction
+diseases of pancreas
+pulmonary embolism and infarction
+coronary atherosclerosis
+other diseases of endocardium
+pneumonitis due to solids and liquids
+of other anterior wall
+coronary atherosclerosis
+systolic heart failure
+chronic liver disease and cirrhosis
+septicemia
+staphylococcal septicemia
+pneumonitis due to solids and liquids
+chronic or unspecified with hemorrhage
+acute kidney failure
+septicemia
+diabetes with ketoacidosis
+other and ill defined cerebrovascular disease
+of other inferior wall
+septicemia
+diastolic heart failure
+septicemia
+atrial fibrillation and flutter
+of other inferior wall
+none
+other specified alcohol induced mental disorders
+secondary malignant neoplasm of other specified sites
+septicemia
+coronary atherosclerosis
+subdural hemorrhage following injury without mention of open intracranial wound
+other diseases of lung
+coronary atherosclerosis
+coronary atherosclerosis
+coronary atherosclerosis
+coronary atherosclerosis
+cerebral artery occlusion unspecified
+septicemia
+other specified alcohol induced mental disorders
+chronic liver disease and cirrhosis
+coronary atherosclerosis
+systolic heart failure
+coronary atherosclerosis
+coronary atherosclerosis
+atrial fibrillation and flutter
+other diseases of lung
+heart failure
+septicemia due to other gram negative organisms
+septicemia
+of other anterior wall
+coronary atherosclerosis
+other diseases of lung
+coronary atherosclerosis
+aortic aneurysm and dissection
+subendocardial infarction
+diabetes with ketoacidosis
+subendocardial infarction
+carotid artery
+diastolic heart failure
+septicemia
+septicemia
+pulmonary embolism and infarction
+septicemia
+pulmonary embolism and infarction
+other diseases of endocardium
+septicemia due to other gram negative organisms
+subendocardial infarction
+septicemia due to other gram negative organisms
+heart failure
+coronary atherosclerosis
+none
+cerebral artery occlusion unspecified
+other diseases of lung
+other diseases of lung
+none
+pneumonitis due to solids and liquids
+septicemia
+cerebral embolism
+coronary atherosclerosis
+coronary atherosclerosis
+subendocardial infarction
+acute kidney failure
+diastolic heart failure
+postoperative infection
+subendocardial infarction
+subendocardial infarction
+atrial fibrillation and flutter
+obstructive chronic bronchitis
+cardiac dysrhythmias
+septicemia
+cardiac dysrhythmias
+colon
+cerebral embolism
+subdural hemorrhage following injury without mention of open intracranial wound
+heart failure
+coronary atherosclerosis
+coronary atherosclerosis
+none
+subendocardial infarction
+septicemia
+of other inferior wall
+subendocardial infarction
+coronary atherosclerosis
+coronary atherosclerosis
+none
+diseases of pancreas
+cerebral artery occlusion unspecified
+other diseases of lung
+chronic liver disease and cirrhosis
+septicemia
+septicemia due to other gram negative organisms
+other diseases of endocardium
+single liveborn born in hospital
+cardiac dysrhythmias
+diabetes with ketoacidosis
+acute kidney failure
+subendocardial infarction
+acute kidney failure
+other diseases of lung
+other diseases of endocardium
+subdural hemorrhage following injury without mention of open intracranial wound
+subendocardial infarction
+none
+septicemia due to other gram negative organisms
+other diseases of lung
+coronary atherosclerosis
+subendocardial infarction
+other and unspecified intracranial hemorrhage
+diseases of pancreas
+subdural hemorrhage following injury without mention of open intracranial wound
+heart failure
+other diseases of endocardium
+other diseases of lung
+gastrointestinal hemorrhage
+coronary atherosclerosis
+coronary atherosclerosis
+other diseases of endocardium
+pulmonary embolism and infarction
+gastrointestinal hemorrhage
+septicemia
+cardiac dysrhythmias
+single liveborn born in hospital
+single liveborn born in hospital
+coronary atherosclerosis
+hemorrhage or hematoma or seroma complicating a procedure
+other diseases of endocardium
+none
+gastrointestinal hemorrhage
+dissection of aorta
+secondary malignant neoplasm of other specified sites
+coronary atherosclerosis
+coronary atherosclerosis
+subendocardial infarction
+other diseases of endocardium
+pulmonary embolism and infarction
+of other anterior wall
+systolic heart failure
+other diseases of lung
+pneumonitis due to solids and liquids
+other diseases of lung
+heart failure
+gastrointestinal hemorrhage
+septicemia
+pneumonitis due to solids and liquids
+septicemia
+pulmonary embolism and infarction
+diseases of pancreas
+coronary atherosclerosis
+obstructive chronic bronchitis
+septicemia due to other gram negative organisms
+other diseases of endocardium
+systolic heart failure
+other diseases of endocardium
+septicemia
+acute kidney failure
+coronary atherosclerosis
+coronary atherosclerosis
+subendocardial infarction
+heart failure
+cardiac dysrhythmias
+aortic aneurysm and dissection
+septicemia due to other gram negative organisms
+coronary atherosclerosis
+atrial fibrillation and flutter
+other diseases of endocardium
+other diseases of endocardium
+chronic liver disease and cirrhosis
+other and ill defined cerebrovascular disease
+diastolic heart failure
+coronary atherosclerosis
+staphylococcal septicemia
+coronary atherosclerosis
+obstructive chronic bronchitis
+septicemia due to other gram negative organisms
+gastrointestinal hemorrhage
+gastrointestinal hemorrhage
+systolic heart failure
+colon
+septicemia due to other gram negative organisms
+heart failure
+pneumonitis due to solids and liquids
+other diseases of endocardium
+coronary atherosclerosis
+septicemia
+coronary atherosclerosis
+none
+subendocardial infarction
+acute kidney failure
+none
+of other anterior wall
+gastrointestinal hemorrhage
+of other anterior wall
+cerebral embolism
+none
+hemorrhage or hematoma or seroma complicating a procedure
+cerebral artery occlusion unspecified
+none
+acute kidney failure
+infection and inflammatory reaction due to internal prosthetic device implant and graft
+staphylococcal septicemia
+coronary atherosclerosis
+septicemia
+other diseases of endocardium
+other diseases of endocardium
+malignant neoplasm of trachea bronchus and lung
+septicemia
+cerebral artery occlusion unspecified
+carotid artery
+other diseases of endocardium
+pneumonitis due to solids and liquids
+septicemia
+subdural hemorrhage following injury without mention of open intracranial wound
+other and ill defined cerebrovascular disease
+pneumonitis due to solids and liquids
+subendocardial infarction
+other diseases of lung
+heart failure
+aortic aneurysm and dissection
+none
+cerebral artery occlusion unspecified
+septicemia
+pneumonitis due to solids and liquids
+aortic aneurysm and dissection
+acute kidney failure
+coronary atherosclerosis
+postoperative infection
+acute kidney failure
+malignant neoplasm of trachea bronchus and lung
+septicemia
+diabetes with ketoacidosis
+pulmonary embolism and infarction
+none
+atrial fibrillation and flutter
+malignant neoplasm of trachea bronchus and lung
+diastolic heart failure
+septicemia
+heart failure
+other diseases of endocardium
+cardiac dysrhythmias
+other diseases of lung
+coronary atherosclerosis
+none
+none
+none
+subendocardial infarction
+obstructive chronic bronchitis
+secondary malignant neoplasm of other specified sites
+pulmonary embolism and infarction
+septicemia
+other diseases of endocardium
+diabetes with ketoacidosis
+septicemia due to other gram negative organisms
+diastolic heart failure
+septicemia
+postoperative infection
+septicemia
+diseases of pancreas
+acute kidney failure
+coronary atherosclerosis
+coronary atherosclerosis
+coronary atherosclerosis
+other diseases of endocardium
+coronary atherosclerosis
+diabetes with ketoacidosis
+secondary malignant neoplasm of other specified sites
+other diseases of endocardium
+carotid artery
+septicemia
+other diseases of lung
+other and ill defined cerebrovascular disease
+coronary atherosclerosis
+coronary atherosclerosis
+of other anterior wall
+malignant neoplasm of trachea bronchus and lung
+hemorrhage or hematoma or seroma complicating a procedure
+pulmonary embolism and infarction
+other and unspecified intracranial hemorrhage
+gastrointestinal hemorrhage
+of other anterior wall
+subendocardial infarction
+atrial fibrillation and flutter
+of other anterior wall
+chronic or unspecified with hemorrhage
+subendocardial infarction
+colon
+none
+postoperative infection
+chronic or unspecified with hemorrhage
+other diseases of endocardium
+heart failure
+diabetes with ketoacidosis
+other and ill defined cerebrovascular disease
+cerebral artery occlusion unspecified
+heart failure
+gastrointestinal hemorrhage
+septicemia
+none
+septicemia
+cerebral embolism
+subendocardial infarction
+septicemia
+other and unspecified intracranial hemorrhage
+coronary atherosclerosis
+coronary atherosclerosis
+septicemia
+acute kidney failure
+septicemia due to other gram negative organisms
+single liveborn born in hospital
+single liveborn born in hospital
+septicemia
+hemorrhage or hematoma or seroma complicating a procedure
+coronary atherosclerosis
+septicemia
+septicemia
+secondary malignant neoplasm of other specified sites
+systolic heart failure
+none
+cerebral artery occlusion unspecified
+diseases of pancreas
+subendocardial infarction
+coronary atherosclerosis
+dissection of aorta
+subendocardial infarction
+none
+chronic or unspecified with hemorrhage
+subendocardial infarction
+diseases of pancreas
+chronic liver disease and cirrhosis
+heart failure
+none
+cardiac dysrhythmias
+coronary atherosclerosis
+other diseases of endocardium
+none
+coronary atherosclerosis
+diabetes with ketoacidosis
+other diseases of lung
+none
+septicemia
+of other inferior wall
+gastrointestinal hemorrhage
+septicemia
+other diseases of lung
+subendocardial infarction
+none
+none
+coronary atherosclerosis
+aortic aneurysm and dissection
+diastolic heart failure
+coronary atherosclerosis
+septicemia
+septicemia
+obstructive chronic bronchitis
+pulmonary embolism and infarction
+septicemia
+hemorrhage or hematoma or seroma complicating a procedure
+none
+other diseases of lung
+postoperative infection
+staphylococcal septicemia
+none
+none
+septicemia
+coronary atherosclerosis
+of other inferior wall
+subendocardial infarction
+none
+other and ill defined cerebrovascular disease
+none
+infection and inflammatory reaction due to internal prosthetic device implant and graft
+subendocardial infarction
+postoperative infection
+atrial fibrillation and flutter
+septicemia
+septicemia due to other gram negative organisms
+coronary atherosclerosis
+colon
+coronary atherosclerosis
+acute kidney failure
+coronary atherosclerosis
+chronic or unspecified with hemorrhage
+aortic aneurysm and dissection
+none
+postoperative infection
+none
+other diseases of lung
+septicemia
+subendocardial infarction
+subendocardial infarction
+postoperative infection
+subendocardial infarction
+septicemia
+septicemia
+septicemia
+postoperative infection
+coronary atherosclerosis
+systolic heart failure
+infection and inflammatory reaction due to internal prosthetic device implant and graft
+coronary atherosclerosis
+coronary atherosclerosis
+none
+none
+septicemia
+coronary atherosclerosis
+none
+of other anterior wall
+diastolic heart failure
+coronary atherosclerosis
+hemorrhage or hematoma or seroma complicating a procedure
+subendocardial infarction
+secondary malignant neoplasm of other specified sites
+subendocardial infarction
+acute kidney failure
+systolic heart failure
+none
+septicemia
+other diseases of lung
+coronary atherosclerosis
+other diseases of endocardium
+coronary atherosclerosis
+coronary atherosclerosis
+septicemia
+coronary atherosclerosis
+subendocardial infarction
+atrial fibrillation and flutter
+infection and inflammatory reaction due to internal prosthetic device implant and graft
+other diseases of endocardium
+coronary atherosclerosis
+other diseases of endocardium
+infection and inflammatory reaction due to internal prosthetic device implant and graft
+of other inferior wall
+septicemia

@@ -1,0 +1,930 @@
+ich telemetry intracranial hemorrhage or cerebral infarction
+acute renal failure low platelet count renal biopsy coagulation platelet disorders
+spinal cord injury nstemi spinal procedures with major comorbid conditions
+coronary artery disease cardiac valve procedures w o cardiac catheterization
+metastatic cancer to spine craniotomy except for trauma
+aortic aneurysm aortic valve replacement resection aneurysm thoracic ascending aorta vis aortic valve replacement with homograft sda cardiac valve other major cardiothoracic proc without cardiac catheter
+sepsis malfunction reaction comp of cardiac or vasc device or proc
+gi bleed renal failure septicemia disseminated infections
+motor vehicle accident with unspecified injuries other disorders of the liver
+aortic injury other operating room procedures for multiple significant trauma
+tracheal leak respiratory failure tracheostomy w long term mechanical ventilation w o extensive procedure
+shortness of breath fever septicemia disseminated infections
+congestive heart failure extensive procedure unrelated to principal diagnosis
+r femur liver laceration limb reattachment hip and femur procedure for multiple significant trauma
+aortic stenosis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization
+sepsis major respiratory infections inflammations
+endometritis acute respiratory distress syndrome postpartum post abortion diagnoses without operating room procedure
+mitral valve disorder mvr cabg maze cardiac valve oth maj cardiothoracic proc w card cath with comorbid conditions and without major comorbid conditions
+aortic aneurysm back pain peripheral vascular disorders with noncomorbid conditions and without comorbid conditions or major cc
+gastrointestinal bleed telemetry gastrointestinal hemorrhage with complications comorbidities
+weakness telemetry tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure
+congestive heart failure mitral valve replacement possible coronary artery bypass graft sda cardiac valve procedures w o cardiac catheterization
+gastrointestinal bleed cirrhosis alcoholic hepatitis
+femur fracture hip femur procedures except major joint with major comorbid conditions
+t spine infection o r procedure for other complications of treatment
+brain mass craniotomy age with complications comorbidities
+coronary artery disease carotid intervention stent placement extracranial vascular procedures
+hyponatremia other endocrine disorders
+spinal dural fistula sda other vascular procedures
+sepsis septicemia age 
+upper gi bleed other anemia disorders of blood blood forming organs
+paraesophageal hernia sda major stomach esophageal duodenal procedures
+intestinal disorder sda major small large bowel procedures with major comorbid conditions
+melanoma fever septicemia disseminated infections
+vocal cord disfunction ecmo or trach w mv hrs or pdx exc face mouth neck w maj o r 
+acute subdural hematoma traumatic stupor coma coma hr with major comorbid conditions
+hemoptysis respiratory neoplasms with comorbid conditions and without major comorbid conditions
+aortic stenosis cardiac valve procedures w o cardiac catheterization
+mitral regurgitation minimally invasive mitral valve repair vs replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter
+aortic stenosis aortic valve replacement ascending aorta replacement coronary artery bypass graft cardiac valve oth maj cardiothoracic proc w card cath with comorbid conditions and without major comorbid conditions
+atrial fibrillation telemetry hypotension cardiac arrhythmia conduction disorders
+gi bleed gastrointestinal hemorrhage with complications comorbidities
+hip pain o r procedure for other complications of treatment
+syncope telemetry pulmonary edema respiratory failure
+bradycardia extensive operating room procedure unrelated to principal diagnosis
+dyspnea telemtry pulmonary edema respiratory failure
+upper gi bleed other unspecified gastrointestinal hemorrhage
+blunt trauma spinal fusion except cervical with comorbid conditions or non comorbid conditions and without major cc
+non healing ulcer right leg other vascular procedures
+post ercp disorders of the gallbladder biliary tract
+aortic stenosis congestive heart failure myocardial infarction pulmonary edema respiratory failure
+myocardial infarction cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure
+pancreatitis pancreas liver shunt procedures with major comorbid conditions
+sepsis major small large bowel procedures with major comorbid conditions
+seizures seizure
+intracranial hemorrhage intracranial hemorrhage
+subdural hematoma craniotomy age without complications comorbidities
+l fracture sda dorsal lumbar fusion proc except for curvature of back
+severe cardiomyopathy mitral valve disease cardiac valve procedures w o cardiac catheterization
+small bowel obstruction inguinal femoral hernia procedures age with complications comorbidities
+right sided weakness extensive operating room procedure unrelated to principal diagnosis
+fever infections of the upper respiratory tract
+carotid stenosis carotid angiogram extracranial vascular procedures with cc
+newborn neonate with other significant problems
+lower gastrointestinal bleed diverticulitis diverticulosis
+sepsis septicemia disseminated infections
+hyperkalemia renal failure
+unstable angina coronary bypass with ptca
+altered mental status poisoning toxic effects of drugs age with complications comorbidities
+symptomatic r carotid stenosis extracranial vascular procedures
+carotid stenisis carotid stent extracranial vascular procedures with cc
+pneumonia simple pneumonia pleurisy with major comorbid conditions
+lower gi bleed diverticulitis diverticulosis
+breast cancer sda total mastectomy for malignancy with complications comorbidities
+neuroleptic malignant syndrome other disorders of nervous system without complication comorbidities
+subarachnoid hemorrhage extracranial vascular procedures
+intraventricular hemorrhage ventricular shunt procedures with comorbid conditions and without major comorbid conditions
+upper gi bleed other digestive system diagnoses
+urosepsis mental status changes circulatory disorders with acute myocardial infarction major complication discharged alive
+intracranial hemorrhage extracranial vascular procedures
+v fib arrest percutaneous cardiovascular procedures without acute myocardial infarction with coronary artery stent implant
+right ventricular lead malfunction inappropriate implantable cardioverter defibrillator fring right ventricular implantable cardioverter defibrillator lead extraction sda cardiac defibrillator implant w o cardiac cath with major comorbid conditions
+congestive heart failure circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses
+elevated stemi percutaneous cardiovascular procedure with mcv diagnosis
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+congestive heart failure heart failure shock
+right brain glioblastoma multiforme sda craniotomy endovascular intracranial procedures with comorbid conditions and without major comorbid conditions
+abdominal pain septicemia or severe sepsis w mv hours
+gerd sda major stomach esophageal duodenal procedures
+trauma left subdural hematoma craniotomy age with complications comorbidities
+sepsis septicemia disseminated infections
+fever cardiac valve procedures w cardiac catheterization
+altered mental status opioid abuse dependence
+pes planovalguls deformity sda soft tissue procedures with complications comorbidities
+mitral valve disease cardiac valve other major cardiothoracic proc without cardiac catheter
+right colon tumor sda major small large bowel procedures with complications comorbidities
+complete heart block other cardiac pacemaker implantation
+congestive heart failure cardiac defibrillator implant with cardiac catheterization with acute myocardial infarction ami heart failure or shock
+brain tumor sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc
+rash other skin subcutaneous tissue breast disorders
+rhabdomyalasis telemetry wound debridement skin graft except hand for musculoskeletal connective tissue disorders age with complications comorbidities
+coronary artery disease coronary bypass without cardiac catheter
+pulmonary edema cath coronary bypass with cardiac catheter
+lower gi bleed other pneumonia
+anemia respiratory system diagnosis w ventilator support hours
+asthma chronic obst pulm disease chronic obstructive pulmonary disease
+intracranial hemorrhage craniotomy for trauma
+failure to thrive major gastrointestinal peritoneal infections
+hemoptosis respiratory neoplasms with major comorbid conditions
+intracranial hemorrhage intracranial hemorrhage
+fever septicemia disseminated infections
+lower gastrointestinal bleed a fib g i hemorrhage with major comorbid conditions
+failed right total hip replacement sda hip joint replacement
+altered mental status major respiratory infections inflammations
+s p liver transplant tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure
+cellulitis septicemia disseminated infections
+fever digestive malignancy
+pneumonia dysphagia septicemia age 
+colitis septicemia disseminated infections
+mitral regurgitation mitral valve replacement heart port minimally invasive sda cardiac valve procedures w o cardiac catheterization
+gallstone pancreatitis cholecystectomy except by laparoscope without common duct exploration with complications comorbidities
+dyspnea percutaneous cardiovascular procedures w o ami
+high blood sugar gastroenteritis diabetes with comorbid conditions and without major comorbid conditions
+thoracic aortic dissection sda other vascular procedures
+cervical ca sda pelvic evisceration radical hysterectectomy radical gyn procs
+blomyscin respiratory toxicity respiratory system diagnosis with ventilator support
+atrial septal defect repair atrial septal defect sda cardiac valve procedures w o cardiac catheterization
+coronary artery disease coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+upper gi bleed peptic ulcer gastritis
+hyperkalemia electrolyte disorders except hypovolemia related
+newborn prematurity without major problems
+anemia heart failure
+chest pain percutaneous cardiovascular procedure with drug eluding stent with acute myocardial infarction
+gastrointestinal bleed peptic ulcer gastritis
+gastrointestinal bleed g i hemorrhage with major comorbid conditions
+coronary artery disease coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+sepsis hiv with major related condition
+acute subdural hematoma traumatic stupor coma coma hr with comorbid conditions and without major comorbid conditions
+stroke telemetry transient ischemic attack cva precerebral occulusion w infarct
+myocardial infarction acute coronary syndrome cath coronary bypass w cardiac cath or percutaneous cardiac procedure
+acute subdural hematoma craniotomy for trauma
+s p motor vehicle accident multiple significant trauma w o o r procedure
+breast cancer sda total mastectomy for malignancy with complications comorbidities
+sepsis other kidney urinary tract diagnoses with major comorbid conditions
+hypertensive urgency acute renal failure renal failure with major comorbid conditions
+bacteremia kidney stones disorders of liver except malignancy cirrhosis alcoholic hepatitis with complications comorbidities
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure
+motor vehicle accident with unspecified injuries shoulder elbow or forearm proc exc major joint proc with major comorbid conditions
+non q wave mi coronary bypass with cardiac catheter
+cerebral aneurysm sda extracranial vascular procedures
+pulmonary embolism other resp system o r procedures with comorbid conditions and without major comorbid conditions
+meningioma sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc
+coronary artery disease cardiac valve procedures w o cardiac catheterization
+acute myocardial infarction cath percutaneous cardiovascular procedure with drug eluding stent with acute myocardial infarction
+coronary artery disease coronary bypass without cardiac catheter
+subdural hematoma craniotomy age with complications comorbidities
+renal failure non bacterial gastroenteritis nausea vomiting
+sepsis peptic ulcer gastritis
+chest pain telemetry pulmonary embolism
+congestive heart failure cardiac valve procedures w cardiac catheterization
+upper gi bleed other esophageal disorders
+mitral stenosis mitral valve replacement vs repair sda cardiac valve procedures w o cardiac catheterization
+respiratory arrest respiratory system diagnosis with ventilator support
+intracranial hemorrhage extracranial vascular procedures
+non healing leg ulcer other vascular procedures with complications cormorbidities
+abdominal pain transurethral procedures with complications comorbidities
+pneumonia tracheostomy w long term mechanical ventilation w o extensive procedure
+sternal wound infection operating room procedure for infectious parasitic diseases
+chest pain percutaneous cardiovascular procedures w ami
+intracranial hemorrhage intracranial hemorrhage
+pancreatitis other hepatobiliary or pancreas operating room procedures
+facial trauma musculoskeletal other procedures for multiple significant trauma
+ascending cholangitis disorders of the biliary tract with complications comorbidities
+abdominal perforation major small large bowel procedures
+dyspnea other infectious parasitic diseases diagnoses with major comorbid conditions
+new brain mass craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc
+blunt trauma head trauma w coma hr or hemorrhage
+intracranial hemorrhage traumatic stupor coma coma hr with major comorbid conditions
+aortic dissection cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions
+portal vein occlusion septicemia age 
+cardiac tamponade pericardial tap major cardiovascular procedures with complications comorbidities
+hypotension gastric ileal bypass septicemia age 
+trauma bicycle vs car other operating room procedures for multiple significant trauma
+subarachnoid hemorrhage telemetry craniotomy age with complications comorbidities
+congestive heart failure percutaneous cardiovascular procedure with mcv diagnosis
+asthma exacerbation bronchitis asthma age with complications comorbidities
+status post motor vehicle accident with injuries facial bone procedures except major cranial facial bone procedures
+cancer of kidney sda kidney ureter major bladder procedures for neoplasm
+fever medical back problems with major comorbid conditions
+thrombocytopenia anemia acute leukemia
+st elevation myocardial infraction circulatory disorders with acute myocardial infarction major complication discharged alive
+coronary artery disease cath coronary bypass with ptca
+subarachnoid hemorrhage intracranial hemorrhage stroke w infarction
+pcp pneumonia hiv with major related condition
+wound infection post operative post traumatic other device infections
+coronary artery disease mitral regurgitation cardiac valve procedures w o cardiac catheterization
+etoh cirrhosis pancreatitis ercp disorders of the gallbladder biliary tract
+chest pain telemetry heart failure
+stroke intracranial hemorrhage stroke w infarction
+atrial fibrillation thoracoscopic maze procedure left other cardiothoracic procedures with comorbid conditions and without major comorbid conditions
+diarrhea seizure
+pneumonia respiratory system diagnosis w ventilator support hours
+gastrointestinal bleed pancreas liver shunt procedures with complications comorbidities
+lower extremity rest pain other vascular procedures with complications and comorbidities
+coronary artery disease  coronary bypass w o cardiac cath or percutaneous cardiac procedure
+respiratory failure simple pneumonia pleurisy age 
+sepsis infectious parasitic diseases including hiv w o r procedure
+subclavian steal phenomenma sda extracranial vascular procedures
+aortic stenosis aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter
+sepsis hypotension acute renal failure septicemia disseminated infections
+intracranial hemorrhage intracranial hemorrhage or cerebral infarction with noncomorbid conditions and without comorbid conditions or major cc
+chest pain major cardiovascular procedures with complications comorbidities
+metastatic rectal cancer bile duct obstruction placement of metallic stent to bile duct remote west inr suite sda digestive malignancy
+ruq pain septicemia disseminated infections
+respiratory arrest spinal disorders injuries
+dvt intractable pain other vascular procedures
+ovarian cancer other digestive system operating room procedures with complications comorbidities
+retroperitoneal mass sda myeloprolif disord or poorly diff neopl w maj o r proc with comorbid conditions and without major comorbid conditions
+paraesophageal hernia sda major stomach esophageal duodenal procedures
+blunt trauma s p motor vehicle accident tracheostomy w long term mechanical ventilation w extensive procedure
+abdominal pain major gastrointestinal disorders peritoneal infections with comorbid conditions and without major comorbid conditions
+shortness of breath telemetry septicemia or severe sepsis w o mv hours with major comorbid conditions
+pneumonia respiratory system diagnosis w ventilator support hours
+sepsis septicemia disseminated infections
+sepsis kidney urinary tract infections with comorbid conditions or non comorbid conditions and without major cc
+non st segment elevation myocardial infarction congestive heart failure heart failure shock
+vanco desentsitization kidney urinary tract infections
+abdominal pain other vascular procedures
+sepsis other circulatory system diagnoses with major comorbid conditions
+effusion sda major cardiovascular procedures without complications comorbidities
+ascending aortic aneurysm resection aortic ascending aneurysm possible coronary artery bypass graft major cardiovascular procedures with complications comorbidities
+pneumonia right middle lobe septicemia age 
+non st elevation myocardial infarction left heart catheterization coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+sepsis septicemia age 
+carotid stenosis carotid angiogram and stent extracranial vascular procedures without cc
+s p motor vehicle accident musculoskeletal other procedures for multiple significant trauma
+gasstrointestinal bleed disorders of liver except malignancy cirrhosis alcoholic hepatitis with complications comorbidities
+chest pain coronary bypass with cardiac catheterization without mcv diagnosis
+hypotension other disorders of nervous system with complications comorbidities
+pancreatitis major pancreas liver shunt procedures
+sepsis cellulitis telemetry renal failure
+aortic dissection telemetry other cardiothoracic procedures
+gastrointestinal bleed complications of treatment with complications comorbidities
+sepsis pulmonary edema respiratory failure
+stroke head bleed with shift cranio w major dev impl acute complex cns pdx with major comorbid conditions or chemo implant
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+pneumonia chronic obstructive pulmonary disease with major comorbid conditions
+hemoptysis pneumonia other pneumonia
+lymphoma mental status changes extensive operating room procedure unrelated to principal diagnosis
+pneumonia mental status changes respiratory system diagnosis with ventilator support
+pancreatitis pancreas liver shunt procedures with complications comorbidities
+coronary artery disease cardiogenic shock left anterior descending artery angioplasty stent perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents
+abdominal pain nausea vomiting disorders of pancreas except malignancy
+hypotension post dialysis syncope collapse
+airway obstruction sda tracheostomy w long term mechanical ventilation w o extensive procedure
+hypotensive episode syncope collapse with complications comorbidities
+chf cad copd coronary bypass w o cardiac cath or percutaneous cardiac procedure
+respiratory distress respiratory system diagnosis w ventilator support hours
+failed lead placment biventricular lead placement via left thoracotomy sda cardiac defibrillator heart assist anomaly
+chest pain cardiac catheterization percutaneous cardiovascular procedures w o ami
+acute renal failure septicemia disseminated infections
+st elevation myocardial infarction circulatory disorders with acute myocardial infarction major complication discharged alive
+hyperkalemia respiratory system diagnosis with ventilator support
+abdominal aortic aneurysm major cardiovasc procedures with comorbid conditions or non comorbid conditions and without major cc
+inguinal hernia inguinal femoral umbilical hernia procedures
+ventricular tachycardia ventricular tachycardia ablation sda percutaneous cardiovascular procedures w o ami
+bleeding from trach other respiratory diagnosis except signs symptoms minor diagnoses
+anemia hypotension heart failure
+pneumonia electrolyte disorders except hypovolemia related
+fall from a horse other o r procedures for injuries with comorbid conditions and without major comorbid conditions
+s p motor vehicle accident other multiple significant trauma
+encephalopathy liver transplant with major comorbid conditions or intestinal transplant
+infected r leg iv antibiotics skin graft or debridement for skin ulcer or cellulitis with complications comorbidities
+csf leak craniotomy age except for trauma
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+ventricular tachycardia cardiac arrhythmia conduction disorders with complications comorbidities
+ rhabdomylsis other disorders of nervous system
+elevated white count post op post trauma other device infections w o r procedure
+pneumonia respiratory failure septicemia disseminated infections
+pyelonephritis septicemia disseminated infections
+hemangioma other digestive system abdominal procedures
+hyperthermia renal failure
+congestive heart failure chronic obst pulm disease pneumonia respiratory infections inflammations with major comorbid conditions
+hyponatremia urinary tract infection septicemia disseminated infections
+myocardial infarction cath percutaneous cardiovascular procedures w ami
+cervical spinal stenosis sda cervical spinal fusion other back neck proc exc disc excis decomp
+aortic stenosis aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter
+aneurysm sda extracranial vascular procedures
+bleeding liver mass disorders of liver except malig cirr alc hepa with major comorbid conditions
+sepsis unresponsive chronic lymphocytic leukemia septicemia age 
+myocardial infarct circulatory disorders with acute myocardial infarction major complication discharged alive
+vtach telemetry cardiac defibrillator heart assist anomaly
+hematuria kidney ureter major bladder procedures for neoplasm
+pancolitis connective tissue disorders
+hypoxia nstemi pneumonia respiratory system diagnosis w ventilator support hours
+mitral insufficiency mitral valve replacement redo aortic valve replacement via redo stenotomy vs right thoracotomy peptic ulcer gastritis
+mitral stenosis mitral valve replacement cardiac valve procedures w cardiac catheterization
+tachycardia hypoxia fever other respiratory system diagnoses with major comorbid conditions
+sepsis septicemia age 
+paratracheal mass sda major respiratory chest procedures
+acute cholangitis disorders of the gallbladder biliary tract
+hypotension disorders of pancreas except malignancy
+bleeding hepatoma hepatobiliary diagnostic procedure for non malignancy
+chronic lymphocytic leukemia shortness of breath tracheostomy w long term mechanical ventilation w o extensive procedure
+ thyroid storm endocrine disorders with noncomorbid conditions and without comorbid conditions or major cc
+melanoma failure to thrive craniotomy except for trauma
+lower gastrointestinal bleed o r procedure for other complications of treatment
+aortic dilatation circulatory disorders except acute myocardial infarction with cardiac catheter without complex diagnoses
+s p motor vehicle accident musculoskeletal other procedures for multiple significant trauma
+carotid stenosis sda extracranial vascular procedures
+coronary artery disease cath with brachy s b percutaneous cardiovascular procedures without acute myocardial infarction without coronary artery stent implant
+lower gi bleed other unspecified gastrointestinal hemorrhage
+abdominal abscess postoperative or post traumatic infections w o r proc with major comorbid conditions
+type a dissection cardiac valve procedures w o cardiac catheterization
+chronic renal failure coronary bypass w cardiac cath or percutaneous cardiac procedure
+lower gi bleed gastrointestinal hemorrhage with complications comorbidities
+pneumonia major respiratory infections inflammations
+gastric adenocarcinoma sda major stomach esophageal duodenal procedures
+gi bleed other hepatobiliary pancreas abdominal procedures
+abdominal pain infectious parasitic diseases including hiv w o r procedure
+pneumonia respiratory system diagnosis w ventilator support hours
+stroke telemetry transient ischemic attack intracranial hemorrhage
+sepsis septicemia age 
+right foot cellulitis other vascular procedures
+urinary tract infection pyelonephritis septicemia disseminated infections
+congestive heart failure heart failure
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+lung cancer hemoptysis other respiratory system operating room procedures with complications comorbidities
+blunt trauma other back neck disorders fractures injuries
+sepsis respiratory system diagnosis with ventilator support
+respiratory failure respiratory system diagnosis with ventilator support
+acute myelogenous leukemia fever acute leukemia without major operating room procedure age 
+sepsis other digestive system operating room procedures with complications comorbidities
+asthma copd exacerbation pulmonary edema respiratory failure
+pancreatitis trach w mv hrs or pdx exc face mouth neck w o maj o r 
+thyroid goiter sda thyroid procedures
+weakness percutaneous cardiovascular procedures w o ami
+etoh withdrawal alcohol abuse dependence
+tumor right tumor sda hip femur procedures for non trauma except joint replacement
+chest pain percutaneous cardiovascular procedures w ami
+diverticulitis sda major small large bowel procedures with major comorbid conditions
+st elevated myocardial infarction percutaneous cardiovascular procedures w ami
+intraparenchymal hemorrhage head trauma w coma hr or hemorrhage
+fever post operative post traumatic other device infections
+subarachnoid hemorrhage tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+poltrauma musculoskeletal other procedures for multiple significant trauma
+aortic stenosis bental procedure with homograft sda cardiac valve other major cardiothoracic proc without cardiac catheter
+cord compression spinal procedures with comorbid conditions and without major comorbid conditions or spinal neurostimulators
+respiratory failure pulmonary edema respiratory failure
+altered mental status craniotomy except for trauma
+fever septicemia disseminated infections
+prostate abscess infectious parasitic diseases including hiv w o r procedure
+pneumonia tracheostomy w long term mechanical ventilation w extensive procedure
+diverticular stricture sda major small large bowel procedures with major comorbid conditions
+stroke tia periph cranial nerve other nerv syst proc with major comorbid conditions
+neutropenia other circulatory system diagnoses with complications comorbidities
+gerd sda stomach esophageal duodenal procedures age with complications comorbidities
+abdominal pain major small large bowel procedures
+hypotension hypovolemia related electrolyte disorders
+coronary artery disease coronary bypass with cardiac catheterization without mcv diagnosis
+b cell lymphoma vre chemotherapy
+supraventricular tachycardia other kidney urinary tract diagnoses signs symptoms
+congestive heart failure renal failure
+acute coronary syndrome perc cardiovasc proc w o coronary artery stent with major comorbid conditions
+dysphagia endoscopy esophagitis gastroent misc digest disorders with comorbid conditions or non comorbid conditions and without major cc
+delerium malfunction reaction comp of cardiac or vasc device or proc
+pneumonia major respiratory infections inflammations
+lower gi bleed major cardiovasc procedures with major comorbid conditions
+headache migraine other headaches
+pneumonia respiratory system diagnosis with ventilator support
+achalasia sda stomach esophageal duodenal procedures age with complications comorbidities
+urinary tract infection pyelonephritis urinary stones w o esw lithotripsy with major comorbid conditions
+status post ventricular fibrillation arrest cardiac cath cardiac defib implant w cardiac cath w o ami hf shock with major comorbid conditions
+chest pain disorders of pancreas except malignancy
+sepsis septicemia age 
+hepatic failure hepatic coma other major acute liver disorders
+st elevated myocardial infarction cardiac cath percutaneous cardiovascular procedure with non drug eluting stent with mcv diagnosis
+urinary tract infection femur fx s p fall fractures of femur with comorbid conditions or non comorbid conditions and without major cc
+diarrhea percutaneous cardiovascular procedures without acute myocardial infarction with coronary artery stent implant
+sepsis acute renal failure percutaneous cardiovascular procedures with acute myocardial infarction
+cholecystitis disorders of the gallbladder biliary tract
+newborn prematurity without major problems
+upper airway obstruction tracheostomy for face mouth neck diagnoses
+airway obstruction bronchoscopy with stent tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+c fxs rib fxs major chest trauma with major comorbid conditions
+motorcycle accident ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure
+aortic stenosis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization
+chest pain hypertension coronary artery disease cath coronary bypass with cardiac catheterization without mcv diagnosis
+gastorintestinal bleed digestive malignancy with complications comorbidities
+hanging tracheostomy w long term mechanical ventilation w o extensive procedure
+chest pain septicemia disseminated infections
+dyspnea interstitial lung disease with major comorbid conditions
+hyperglycemia left sided weakness diabetes
+pancreatitis major gastrointestinal peritoneal infections
+upper gastrointestinal bleed gastrointestinal hemorrhage with complications comorbidities
+ro mi pneumonia tracheostomy except for face mouth neck diagnoses
+renal failure diabetes mellitus fever unknown origin bone diseases arthropathies with major comorbid conditions
+chest pain shortness of breath other antepartum diagnoses with medical complications
+non healing ulcer left foot peripheral vascular disorders with complications comorbidities
+stroke telemetry tia intracranial hemorrhage
+foreign body in throat other digestive system diagnoses
+small bowel obstruction major small large bowel procedures
+pneumonia chronic obstructive pulmonary disease
+subarachnoid hemorrhage intra cranial vascular procedure with principal diagnosis of hemorrhage
+congestive heart failure cardiac defibrillator heart assist anomaly
+congestive heart failure heart failure shock
+sepsis septicemia disseminated infections
+st elevated myocardial infarction respiratory system diagnosis w ventilator support hours
+abdominal abcess septicemia or severe sepsis w o mv hours with major comorbid conditions
+congestive heart failure mitral regurgitation cardiac valve procedures w o cardiac catheterization
+resp failure multiple sclerosis other pneumonia
+lower gi bleed g i hemorrhage with comorbid conditions and without major comorbid conditions
+carotid stenosis carotid stent extracranial vascular procedures with cc
+chest pain perc cardiovasc proc w drug eluting stent with major comorbid conditions or vessels stents
+left renal tumor sda kidney ureter major bladder procedures for neoplasm
+multiple trauma soft tissue procedures with major comorbid conditions
+coronary artery disease cardiomyopathy cath percutaneous cardiovascular procedures without acute myocardial infarction with coronary artery stent implant
+chest pain cardiac cath percutaneous cardiovascular procedures w o ami
+sepsis operating room procedure for infectious parasitic diseases
+mr mitral valve replacement heart port minimally invasive sda cardiac valve other major cardiothoracic proc without cardiac catheter
+upper gi bleed g i hemorrhage with comorbid conditions and without major comorbid conditions
+neck pain cervical spinal fusion other back neck proc exc disc excis decomp
+anemia gi bleed other unspecified gastrointestinal hemorrhage
+ischemic bowel non bacterial gastroenteritis nausea vomiting
+c spine fracture spinal procedures
+chronic obst pulm disease chronic obstructive pulmonary disease
+hypotension other circulatory system diagnoses with major comorbid conditions
+myocardial infarction cardiac cath percutaneous cardiovascular procedures with acute myocardial infarction
+symptomatic carotid stenosis right ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure
+seziure intracranial hemorrhage
+fever of an unknown origin circulatory disorders with acute myocardial infarction major complication discharged alive
+gastrointestinal bleed major esophageal disorders with major comorbid conditions
+clotted dialysis access open wound right arm other vascular procedures with complications cormorbidities
+carotid stenosis carotid angiogram and stent extracranial vascular procedures without cc
+coronary artery disease presyncope end stage renal disease percutaneous cardiovascular procedure with non drug eluting stent with mcv diagnosis
+cardiac dz  circulatory disorders with acute myocardial infarction major complication discharged alive
+constipation septicemia disseminated infections
+s p motor vehicle accident other operating room procedures for multiple significant trauma
+subarachnoid hemorrhage telemetry craniotomy age with complications comorbidities
+acute myocardial infarction percutaneous cardiovascular procedures with acute myocardial infarction
+ruptured diaphram fractured femur extensive abdominal thoraic procedures for mult significant trauma
+angina cath coronary bypass with ptca
+angioedema allergic reactions with comorbid conditions or non comorbid conditions and without major cc
+sepsis septicemia age 
+dyspnea heart failure shock with major comorbid conditions
+abdominal aortic aneurysm sda other vascular procedures
+lung hernia doe other respiratory chest procedures
+chest pain telemetry chest pain
+coronary artery disease percutaneous cardiovascular procedures w ami
+hypotension other circulatory system diagnoses
+left cerebral vascular accident tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+liver failure other hepatobiliary or pancreas operating room procedures
+morbid obestiy sda operating room procedures for obesity
+acute renal failure kidney ureter procedures for non neoplasm with comorbid conditions and without major comorbid conditions
+upper gi bleed major esophageal disorders
+endocarditis cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions
+low hct hypoxia fever other infectious parasitic diseases diagnoses with major comorbid conditions
+left renal mass sda kidney urinary tract procedures for malignancy
+abdominal mass sda extensive procedure unrelated to principal diagnosis
+coronary artery disease coronary bypass without cardiac catheter
+respiratory distress respiratory system diagnosis w ventilator support hours
+supraventricular tachycardia vt ablation major cardiovascular procedures with complications comorbidities
+acute renal failure septicemia disseminated infections
+cardiac arrest acute myocardial infarction
+esophageal ca sda major stomach esophageal duodenal procedures
+abdominal pain peripheral cranial autonomic nerve disorders
+coronary artery disease aortic valve replacement sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+acute myocardial infarction cath percutaneous cardiovascular procedures with acute myocardial infarction
+hyponatremia pneumonia dehydration extensive operating room procedure unrelated to principal diagnosis
+congestive heart failure cath circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses
+uti and ams malfunction reaction complic of genitourinary device or proc
+myocardial infarction percutaneous cardiovascular procedure with mcv diagnosis
+non st elevation myocardial infarction syncope cardiac catheterization cardiac defibrillator heart assist anomaly
+intracranial hemorrhage craniotomy except for trauma
+dyspnea dysphagia esophagitis gastroent misc digest disorders with comorbid conditions or non comorbid conditions and without major cc
+coronary artery disease cardiac cath percutaneous cardiovascular procedures w ami
+anemia hematuria other kidney urinary tract diagnoses signs symptoms
+lt femur fracture hip femur procedures except major joint age with complications comorbidities
+aortic aneurysm ascending aortic aneurysm repair major cardiovascular procedures with complications comorbidities
+acute leukemia acute leukemia
+chest pain coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+back infection wound debridement skin graft except hand for musculoskeletal connective tissue disorders age with complications comorbidities
+chest pain telemetry other kidney urinary tract procedures with comorbid conditions and without major comorbid conditions
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+stroke telemetry transient ischemic attack intracranial hemorrhage
+headache craniotomy except for trauma
+chest pain abdominal pain
+lower gi bleed gastrointestinal hemorrhage with complications comorbidities
+hyponatremia electrolyte disorders except hypovolemia related
+pneumonia septicemia disseminated infections
+coronary artery disease coronary artery bypass graft with mvr sda cardiac valve procedures w o cardiac catheterization
+abscess major respiratory infections inflammations
+acute cholangitis septicemia w mechanical ventilator w hours age 
+coronary artery disease coronary artery bypass graft coronary bypass w cardiac cath or percutaneous cardiac procedure
+upper gi bleed peptic ulcer gastritis
+hypokalemia diabetic ketoacidosis diabetes
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+hydrocephalus other disorders of nervous system
+stroke telemetry transient ischemic attack seizures with major comorbid conditions
+chf mitral regurgitation coronary bypass without cardiac catheter
+gastro intestinal bleeding other digestive system abdominal procedures
+sepsis pneumonia septicemia age 
+new brain mass confusion seizures craniotomy except for trauma
+congestive heart failure s p avr cardiac valve other major cardiothoracic proc without cardiac catheter
+acute pancreatitis disorders of pancreas except malignancy with comorbid conditions and without major comorbid conditions
+chest pain pneumonia cardiac valve other major cardiothoracic procedures with cardiac catheter
+subglottic stenosis ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure
+acute coronary syndrome coronary bypass w o cardiac cath or percutaneous cardiac procedure
+intercerebral hemorrhage sda major cranial facial bone procedures
+mitral regurgitation cath major cardiovascular procedures with complications comorbidities
+carotid stenosis extracranial vascular procedures
+upper gi bleed gastrointestinal hemorrhage with complications comorbidities
+chest wall hematoma other o r procedures for lymphatic hematopietic other neoplasms
+trigeminal neurolgia sda craniotomy endovascular intracranial procedures with major comorbid conditions
+s p jump from moving vehicle trauma to the skin subcutaneous tissue breast age without complications comorbidities
+aspiration poisoning toxic effects of drugs age with complications comorbidities
+angina coronary bypass w o cardiac cath or percutaneous cardiac procedure
+cerebrovascular accident head bleed intracranial hemorrhage
+hemothorax pneumothorax with complications comorbidities
+trigeminal neuralgia sda cranial peripheral nerve disorders with comorbid conditions or non comorbid conditions and without major cc
+chest pain percutaneous cardiovascular procedures w ami
+st elevated myocardial infarction perc cardiovasc proc w drug eluting stent with major comorbid conditions or vessels stents
+central airway obstruction respiratory malignancy
+liver donor sda pancreas liver shunt procedures with complications comorbidities
+head bleed telemetry craniotomy age with complications comorbidities
+ventral hernia sda major small large bowel procedures
+stridor pulmonary edema respiratory failure
+urinary tract infection pyelonephritis non extensive o r proc unrelated to principal diagnosis with major comorbid conditions
+rule out myocardial infarction telemetry acute myocardial infarction discharged alive with major comorbid conditions
+lower gastrointestinal bleed other digestive system diagnoses with major comorbid conditions
+acute cerebral infarction specific cerebrovascular disorders except transient ischemic attack
+urinary tract infection pyelonephritis signs symptoms with major comorbid conditions
+claudication sda other vascular procedures
+coronary artery disease cath percutaneous cardiovascular procedures w o ami
+coronary artery disease coronary artery bypass graft with avr sda tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+morbid obesity sda o r procedures for obesity with major comorbid conditions
+aortic stenosis aortic valve replacement mitral valve replacement maze sda cardiac valve procedures w o cardiac catheterization
+sub dural hematoma craniotomy age with complications comorbidities
+colitis major gastrointestinal peritoneal infections
+chest pain percutaneous cardiovascular procedure with mcv diagnosis
+pneumonia major respiratory infections inflammations
+claudication bilateral lower extremity angiogram other vascular procedures with complications cormorbidities
+unstable angina cath extensive operating room procedure unrelated to principal diagnosis
+chest pain cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions
+pneumonia mental status change simple pneumonia pleurisy age with complications comorbidities
+intracranial hemorrhage craniotomy for trauma
+tylenol overdose poisoning toxic effects of drugs with major comorbid conditions
+myocardial infarction percutaneous cardiovascular procedures w ami
+seizure tracheostomy w long term mechanical ventilation w o extensive procedure
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter
+chest pain acute myocardial infarction
+sepsis telemetry hiv with major related condition
+pneumonia trach w mv hrs or pdx exc face mouth neck w o maj o r 
+subdural hematoma craniotomy endovascular intracranial procedures with major comorbid conditions
+cardiac arrest cardiac defibrillator implant with cardiac catheterization
+brain tumor other respiratory system operating room procedures with complications comorbidities
+pancreatic mass sda major pancreas liver shunt procedures
+tylenol overdose poisoning of medicinal agents
+right nasal carcinoma operating room procedure with diagnoses of other contact with health services
+small bowel obstruction major small large bowel procedures with complications comorbidities
+peripheral vascular disease peripheral angiogram other vascular procedures with complications cormorbidities
+pneumonia major chest procedures
+vt arrest cardiac defibrillator implant with cardiac catheterization without acute myocardial infarction ami heart failure or shock
+chest pain cath coronary bypass w cardiac cath or percutaneous cardiac procedure
+thoracic aortic aneursym sda other vascular procedures
+metastatic colon cancer spinal fusions except cervical with curvature of the spine or malignancy
+myocardial infarction cath percutaneous cardiovascular procedure with drug eluding stent with acute myocardial infarction
+coronary artery disease coronary bypass without cardiac catheter
+altered mental status respiratory system diagnosis w ventilator support hours
+seizure seizure
+sepsis telemetry septicemia disseminated infections
+left hip infection o r procedure for other complications of treatment
+hip fracture hip femur procedures except major joint age with complications comorbidities
+rule out myocardial infarction telemetry hypertension peripheral vascular disorders with complications comorbidities
+left leg cellulitis colonoscopy cellulitis age with complications comorbidities
+sepsis septicemia age 
+pneumonia respiratory malignancy
+coronary artery disease mitral regurgitation coronary bypass w o cardiac cath with major comorbid conditions
+neutropenia major hematologic immunologic diag exc sickle cell crisis coagul
+blunt trauma multiple significant trauma w o o r procedure
+lower gib red blood cell disorders with major comorbid conditions
+ischemic foot major cardiovasc procedures with major comorbid conditions
+peridontal abscess telemetry post op post trauma other device infections w o r procedure
+upper gi bleed peptic ulcer gastritis
+overdose poisoning toxic effects of drugs age with complications comorbidities
+per op liver liver transplant
+aortic valve disease aortic valve replacement homograft sda cardiac valve other major cardiothoracic proc without cardiac catheter
+subdural hemorrhage head trauma w coma hr or hemorrhage
+uti pyelonephritis septicemia or severe sepsis w o mv hours with major comorbid conditions
+coronary artery disease angioplasty coronary bypass with ptca
+fever septicemia disseminated infections
+gangrene extracranial vascular procedures
+dehydration leukocytosis abdominal pain stomach esophageal duodenal procedures age with complications comorbidities
+end stage renal disease failed av graft sepsis moderately extensive procedure unrelated to principal diagnosis
+brbpr blood loss anemia other vascular procedures
+respiratory failure pulmonary edema respiratory failure
+lower gi bleed g i hemorrhage with major comorbid conditions
+subcarinal mass lymphoma and leukemia with major o r procedure with cc
+altered mental status disorders of liver except malig cirr alc hepa with major comorbid conditions
+aneursym sda craniotomy age except for trauma
+gastrointestinal bleed complications of treatment with complications comorbidities
+atrial fibrillation rapid ventricular response cardiac arrhythmia conduction disorders with noncomorbid conditions and without comorbid conditions or major cc
+diabetic foot ulcer fever telemetry methicillin resistant staph aureus operating room procedure for infectious parasitic diseases
+encephalopathy nonspecific cerebrovascular disorders with complications comorbidities
+coronary artery disease cardiac intervention percutaneous cardiovascular procedures w ami
+sepsis infectious parasitic diseases including hiv w o r procedure
+chest pain perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents
+abdominal pain intestinal obstruction
+incarcerated hernia major small large bowel procedures
+thoracoabdominal aneurysm thoraco abdominal aneurysm repair sda other cardiothoracic procedures
+seizure seizures with comorbid conditions or non comorbid conditions and without major cc
+newborn neonate bwt g normal newborn or neonate w other problem
+fever acute subacute endocarditis with major comorbid conditions
+uti pyelonephritis kidney urinary tract infections
+adult respiraroty distress syndrome pancreatitis disorders of pancreas except malignancy
+hodgkin s disease bone marrow transplant bone marrow transplant
+pneumonia congestive heart failure heart failure
+asa overdose poisoning toxic effects of drugs age without complications comorbidities
+unstable angina extensive operating room procedure unrelated to principal diagnosis
+dyspnea sarcoid flare pneumonia interstitial lung disease
+poly substance overdose poisoning of medicinal agents
+aortic stenosis aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter
+stemi cardiac cath percutaneous cardiovascular procedure with mcv diagnosis
+s p motorcycle accident knee lower leg procedures except foot
+upper gi bleed other unspecified gastrointestinal hemorrhage
+sepsis operating room procedure for infectious parasitic diseases
+hypoxic shortness of breath septicemia or severe sepsis w mv hours
+cecum sda major small large bowel procedures
+intracranial hemorrhage intracranial hemorrhage
+congestive heart failure telemetry transcatheter aortic valve implant tavi w direct aortic approach cardiac valve oth maj cardiothoracic proc w card cath with comorbid conditions and without major comorbid conditions
+sepsis septicemia age 
+brain tumor multiple sclerosis cerebellar ataxia with major comorbid conditions
+intracranial hemorrhage craniotomy endovascular intracranial procedures with major comorbid conditions
+intracranial hemorrhage periph cranial nerve other nerv syst proc with comorbid conditions and without major comorbid conditions or periph neurostim
+peripheral vascular disease amputation for circulatory system disorders except upper limb toe
+pulmonary embolism pulmonary embolism
+no st elevation mi pancreatitis disorders of pancreas except malignancy
+sepsis cardiac arrhythmia conduction disorders with major comorbid conditions
+sepsis septicemia or severe sepsis w o mv hours with major comorbid conditions
+shortness of breath failure to thrive chronic obstructive pulmonary disease with major comorbid conditions
+intraparenchymal hemorrhage intracranial hemorrhage
+intracranial hemorrhage intracranial hemorrhage
+cerebellar infarct cva precerebral occulusion w infarct
+s p blunt trauma to head tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+spondylosis sda dorsal lumbar fusion proc except for curvature of back
+status epilepticus seizure
+liver mass pvt head bleed hepatic coma other major acute liver disorders
+constipation sda major small large bowel procedures
+fever infectious parasitic diseases w o r procedure with major comorbid conditions
+gastrointestinal bleed major gastrointestinal peritoneal infections
+hypernatremia alcohol abuse dependence
+cerebrovascular accident intracranial hemorrhage or cerebral infarction
+colitis esophagitis gastroent misc digest disorders with major comorbid conditions
+hyperglycemia seizure seizure
+apnea respiratory system diagnosis with ventilator support
+hairy cell leukemia major o r procedures for lymphatic hematopietic other neoplasms
+urosepsis kidney urinary tract infections
+necrotizing fasciitis wound debridement skin graft except hand for musculoskeletal connective tissue disorders age with complications comorbidities
+altered mental status renal failure
+r o cerebrovascular accident coronary bypass without cardiac catheterization with mcv diagnosis
+asthma pulmonary edema respiratory failure
+gastrointestinal bleed gastrointestinal hemorrhage with complications comorbidities
+coronary artery disease coronary artery bypass graft with mvr redo avr sda cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions
+subarachnoid hemorrhage telemetry seizure headache age without complications comorbidities
+pleural effusions other circulatory system diagnoses
+spinal lesion sda dorsal lumbar fusion proc except for curvature of back
+pneumonia septicemia w mechanical ventilator w hours age 
+diverticulitis major small large bowel procedures with complications comorbidities
+liver transplant liver transplant
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+diabetic ketoacidosis diabetes with comorbid conditions and without major comorbid conditions
+chest pain aortic stenosis cardiac valve oth maj cardiothoracic proc w card cath with major comorbid conditions
+sepsis septicemia or severe sepsis w mv hours
+coronary artery disease aortic valve ascending aorta replacement coronary artery bypass graft with avr sda cardiac valve procedures w o cardiac catheterization
+stroke specific cerebrovascular disorders except transient ischemic attack
+s p motor vehicle accident bilat femur fractures limb reattachment hip and femur procedure for multiple significant trauma
+mitral stenosis repair vs replacement mitral valve cardiac valve procedures w cardiac catheterization
+unstable angina cath cardiac valve other major cardiothoracic procedures with cardiac catheter
+pancreatitis disorders of pancreas except malignancy
+pneumonia septicemia disseminated infections
+abdominal aortic aneurysm major thoracic abdominal vascular procedures
+respiratory failure respiratory system diagnosis with ventilator support
+pleural effusion sda major chest procedures with noncomorbid conditions and without comorbid conditions or major cc
+anemia cath percutaneous cardiovascular procedures without acute myocardial infarction with coronary artery stent implant
+status post cabg saphenous veing graft right coronary artery psuedoaneurysm sda other cardiothoracic procedures
+myasthenia gravis telemetry respiratory system diagnosis w ventilator support hours
+lung ca sda major chest procedures
+cirrhosis fever hiv with major related condition
+pericardial effusion other myeloproliferative diseases or poorly diffused neoplasm diagnoses with complications comorbidities
+hypotension septicemia disseminated infections
+pulmonary embolism respiratory system diagnosis w ventilator support hours
+aortic stenosis avr coronary artery bypass graft cardiac valve procedures w cardiac catheterization
+pcom extracranial vascular procedures
+aortic insufficiency cath cardiac valve procedures w cardiac catheterization
+unstable angina telemetry cath percutaneous cardiovascular procedures without acute myocardial infarction with coronary artery stent implant
+seizure seizure
+coronary artery disease urinary tract infection elevated troponin coronary bypass w o cardiac cath or percutaneous cardiac procedure
+rectal sheath hematoma other kidney urinary tract diagnoses with major comorbid conditions
+copd exacerbation pulmonary edema respiratory failure
+abdominal pain cholangitis other hepatobiliary pancreas abdominal procedures
+mitral regurgitation mitral valve replacement aortic valve replacement maze cardiac valve procedures w o cardiac catheterization
+mitral regurgitation cath circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses
+chest pain rule out coronary artery disease cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure
+aortic stenosis cardiac valve procedures w o cardiac catheterization
+ initiate dialysis renal failure
+pneumonia other pneumonia
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+facial fracture pelvic fracture extensive abdominal thoraic procedures for mult significant trauma
+coronary artery disease angina angioplasty percutaneous cardiovascular procedure with drug eluding stent without acute myocardial infarction
+gi bleed sepsis other infectious parasitic diseases diagnoses
+aortic stenosis coronary artery bypass graft with avr sda cardiac valve procedures w o cardiac catheterization
+left distal radial fracture right tibial plateau fracture knee lower leg procedures except foot
+hepatic cirrhosis salt study disorders of liver except malignancy cirrhosis alcoholic hepatitis with complications comorbidities
+upper gastrointestinal bleed g i hemorrhage with comorbid conditions and without major comorbid conditions
+respiratory distress major respiratory infections inflammations
+chest pain coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+partial small bowel obstruction major small large bowel procedures with comorbid conditions and without major comorbid conditions w major gi dx
+unable to stand gastrointestinal hemorrhage with complications comorbidities
+aortic dissection peripheral vascular disorders with complications comorbidities
+urinary tract infection kidney urinary tract infections
+subdural hematoma hypertensive urgency craniotomy except for trauma
+ portal vein thrombosis septicemia or severe sepsis w o mv hours with major comorbid conditions
+chronic renal failure sda kidney transplant
+endocarditis cardiac valve oth maj cardiothoracic proc w card cath with major comorbid conditions
+altered mental status seizures with comorbid conditions or non comorbid conditions and without major cc
+aortic regurgitation aortic and mitral valve replacement sda cardiac valve procedures w o cardiac catheterization
+chest pain percutaneous cardiovascular procedures with acute myocardial infarction
+drug overdose poisoning toxic effects of drugs age with complications comorbidities
+renal failure respiratory system diagnosis with ventilator support
+mental status change hiv with or without other related condition
+sepsis other infectious parasitic diseases
+scrotal infection moderately extensive procedure unrelated to principal diagnosis
+acute renal failure bradycardia renal failure
+esophageal rupture stomach esophageal duodenal procedures age with complications comorbidities
+gun shot wound to face brain contusion laceration compliated skull fx coma hr or no coma
+complete heart block perm cardiac pacemaker implant w o ami heart failure or shock
+right upper lobe nodule sda lymphoma leukemia w major o r procedure with noncomorbid conditions and without comorbid conditions or major cc
+bacteremia other circulatory system diagnoses with major comorbid conditions
+pneumonia heart failure
+hip fracture hip femur procedures for trauma except joint replacement
+sepsis disorders of the biliary tract with complications comorbidities
+gastric cancer sda major stomach esophageal duodenal procedures
+sepsis septicemia age 
+bradycardia atrial fibrillation perm cardiac pacemaker implant w o ami heart failure or shock
+elevated creatnine septicemia age 
+stroke craniotomy except for trauma
+hyponatremia endocrine disorders with complications comorbidities
+tounge swelling allergic reactions
+cholecystitis disorders of the biliary tract with major comorbid conditions
+pea arrest asthma
+chest pain r o myocardial infarction coronary bypass with cardiac catheter
+right aka stump infection other cardiac pacemaker implantation
+acute renal failure cardiac catheterization w circ disord exc ischemic heart disease
+stroke telemetry transient ischemic attack cva precerebral occulusion w infarct
+abdominal pain pancreas liver shunt procedures with major comorbid conditions
+facial laceration wound debridement skin graft except hand for musculoskeletal connective tissue disorders age with complications comorbidities
+asthma flare chronic obstructive pulmonary disease
+bradycardia hypotension other circulatory system diagnoses
+dyspnea chronic obstructive pulmonary disease with comorbid conditions and without major comorbid conditions
+esoph ca fb in esoph other digestive system diagnoses
+syncope bradycardia perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents
+ruptured abdominal aortic aneurysm major cardiovascular procedures with complications comorbidities
+pericardial effusion circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses
+pedestrian struck multiple trauma wound debridement skin graft except hand for musculoskeletal connective tissue disorders age with complications comorbidities
+dka dehydration renal failure
+malignant hypertension hypertension
+gastrointestinal bleed septicemia disseminated infections
+coronary artery disease cath coronary bypass w cardiac cath or percutaneous cardiac procedure
+upper gi bleed peptic ulcer gastritis
+decompensated heart failure circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses
+hemoptysis extensive procedure unrelated to principal diagnosis
+bacteremia diabetic ketoacidosis other circulatory system diagnoses with complications comorbidities
+coronary artery disease off pump coronary artery bypass sda coronary bypass w o cardiac cath or percutaneous cardiac procedure
+small bowel obstruction heart failure
+variceal bleed cirrhosis pancreas liver shunt procedures with complications comorbidities
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+blunt trauma trauma to the skin subcut tiss breast with comorbid conditions or non comorbid conditions and without major cc
+le edema coronary bypass w o cardiac cath or percutaneous cardiac procedure
+thoracic spine injury trauma musculoskeletal other procedures for multiple significant trauma
+unstable angina coronary bypass without cardiac catheter
+aortic stenosis mr aortic and mitral valve replacement cardiac valve procedures w o cardiac catheterization
+pulmonary embolism thrombectomy other respiratory system operating room procedures with complications comorbidities
+ocaine chest pain pleural effusion renal failure with major comorbid conditions
+newborn normal newborn
+acute coronary syndrome telemtry percutaneous cardiovascular procedures w ami
+pneumonia heart failure shock with major comorbid conditions
+lung mass respiratory malignancy
+newborn normal newborn
+coronary artery disease cardiac valve procedures w o cardiac catheterization
+gangrene chest pain heart failure
+pneumonia hiv w multiple major hiv related conditions
+pneumonia other respiratory system diagnoses with comorbid conditions or non comorbid conditions and without major cc
+sepsis unresponsive other disorders of nervous system with complications comorbidities
+large bowel obstruction major small large bowel procedures with complications comorbidities
+anterior floor of mouth ca sda tracheostomy for face mouth neck diagnoses
+sepsis septicemia disseminated infections
+aortic dissection circulatory disorders with acute myocardial infarction expired
+mental status changes alcohol drug abuse or dependence with complications and comorbidities
+pancreatitis tracheostomy except for face mouth neck diagnoses
+sepsis septicemia disseminated infections
+dehydration major gastrointestinal peritoneal infections
+altered mental status respiratory system diagnosis with ventilator support
+chest pain cath percutaneous cardiovascular procedure with mcv diagnosis
+coronary artery disease stent placement coronary bypass without cardiac catheter
+lower gi bleed other digestive system diagnoses
+non st elevation mi percutaneous cardiovascular procedures w ami
+stemi percutaneous cardiovascular procedures w ami
+intraparenchymal hemorrhage intracranial hemorrhage
+mental status changes pulmonary edema respiratory failure
+stroke tia infectious parasitic diseases w o r procedure with major comorbid conditions
+ventral septal defect mitral valve replacement ventral septal defect sda cardiac valve procedures w o cardiac catheterization
+seizures total hip replacement pulmonary edema respiratory failure
+hemothorax other complications of treatment
+perforated appendix appendectomy with complicated principal diagnosis with complications comorbidities
+right frontal lesion sda craniotomy except for trauma
+upper gastrointestinal bleed peptic ulcer gastritis
+congestive heart failure heart failure
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+overdose drug alcohol abuse or dependence left against medical advice
+intraparenchymal hemorrhage head trauma w coma hr or hemorrhage
+severe pancreatitis infected pseudocyst sda peritoneal adhesiolysis with comorbid conditions and without major comorbid conditions
+necrotizing fascititis cellulitis other bacterial skin infections
+pneumonia major respiratory infections inflammations
+fever line sepsis other circulatory system diagnoses with complications comorbidities
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+cholecystitis cholecystectomy except laparoscopic
+diabetic ketoacidosis diabetes with major comorbid conditions
+hypotension gastrointestinal bleed acute renal failure sepsis septicemia age 
+aortic stenosis aortic valve replacement sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions
+congetive heart failure coronary bypass with cardiac catheterization with mcv diagnosis
+pontine bleed intracranial hemorrhage or cerebral infarction
+atrial fibrillation acute myocardial infarction
+congestive heart failure perc cardiovasc proc w drug eluting stent with comorbid conditions or non comorbid conditions and without major cc
+asthma copd exacerbation septicemia disseminated infections
+chest pain cath coronary bypass with cardiac catheter
+gastrointestinal bleed altered mental status respiratory system diagnosis w ventilator support hours
+intracranial hemorrhage intracranial hemorrhage or cerebral infarction with noncomorbid conditions and without comorbid conditions or major cc
+ischemic right foot other vascular procedures with complications cormorbidities
+upper gastrointestinal bleed peptic ulcer gastritis
+femur fracture hip femur procedures except major joint with major comorbid conditions
+chest pain cardiac valve procedures w cardiac catheterization
+etoh unresponsive alcohol abuse dependence
+liver and renal failure liver transplant
+gastrointestinal bleed other digestive system diagnoses
+aortic stenosis aortic and mitral valve replacement ascending aorta replacement sda cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions
+congestive heart failure major respiratory infections inflammations
+gastric cancer stomach esophageal duodenal proc with major comorbid conditions
+dehisence of wound complications of treatment with complications comorbidities
+pneumonia other pneumonia
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure
+chest pain percutaneous cardiovascular procedures without acute myocardial infarction without coronary artery stent implant
+chest pain chronic obstructive pulmonary disease
+stenosis of larynx sda respiratory system diagnosis w ventilator support hours
+hemoptysis extensive procedure unrelated to principal diagnosis
+motor vehicle accident with unspecified injuries extensive abdominal thoraic procedures for mult significant trauma
+kidney cancer r o cord compression spinal fusion except cervical with complications and comorbidities
+lower gi bleed l fibular fx alcohol abuse dependence
+abdominal pain major biliary tract procedures
+chronic back pain alcohol drug abuse or dependence with complications and comorbidities
+subdural hematoma craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc
+congestive heart failure heart failure
+septic shock malfunction reaction comp of cardiac or vasc device or proc
+ventricular tachycardia heart failure ventricular tachycardia ablation remote west sda cardiac valve oth maj cardiothoracic proc w card cath with major comorbid conditions
+carotid stenosis r sda extracranial vascular procedures without cc
+leukocytosis septicemia or severe sepsis w o mv hours with comorbid conditions or non comorbid conditions and without major cc
+right lower lobe lung ca sda major respiratory chest procedures
+seizure seizure
+coronary artery disease coronary artery bypass graft with avr sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions
+chest pain cath coronary bypass with cardiac catheter
+brain tumor sda lymphoma non acute leukemia
+upper gastrointestinal bleed other infectious parasitic diseases
+gastrointestinal bleed gastrointestinal hemorrhage with complications comorbidities
+cardiac arrest cath percutaneous cardiovascular procedures with acute myocardial infarction
+altered mental status renal failure
+change in mental status low platelets leukema craniotomy age with complications comorbidities
+crohn s disease sda major small large bowel procedures
+urinary tract infection other kidney urinary tract diagnoses signs symptoms
+pulmonary embolis other circulatory system diagnoses
+pulmonary embolis other respiratory system operating room procedures with complications comorbidities
+upper gi bleed other esophageal disorders
+acute myocardial infarction coronary bypass with cardiac catheter
+hyponatremia other endocrine disorders
+aortic stenosis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization
+malignant acites sda other digestive system operating room procedures with complications comorbidities
+s p cardiac arrest toxic effects of non medicinal substances
+hypotension syncope collapse
+ischemic bowel major small large bowel procedures
+sepsis major gastrointestinal disorders peritoneal infections with comorbid conditions and without major comorbid conditions
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter
+subdural bleed craniotomy age with complications comorbidities
+tongue swelling allergic reaction allergic reactions
+cerebrovascular accident telemetry intracranial hemorrhage stroke w infarction
+s p motor vehicle accident tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+failure to thrive respiratory malignancy
+sepsis septicemia age 
+pancreatitis disorders of pancreas except malignancy
+stroke telemetry transient ischemic attack intracranial hemorrhage or cerebral infarction with major comorbid conditions
+chest pain coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc
+newborn normal newborn
+hyperkalemia hyperglycemia diabetes
+upper gi bleed peptic ulcer gastritis
+cardiac tamponade other circulatory system procedures
+congestive heart failure heart failure
+abd pain ekg changes telemetry tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses
+diabetic ketoacidosis tti pyelonephritis diabetes with comorbid conditions and without major comorbid conditions
+dyspnea cardiac valve oth maj cardiothoracic proc w card cath with major comorbid conditions
+diplopia renal failure with major comorbid conditions
+airway obstruction flexible bronchoscopy radial endobronchial ultrasound ebus bronchial aveolar lavage brush possible transbronchial biopsy left upper lobe fluoroscopy other circulatory system procedures
+subdural hematoma craniotomy for trauma
+sepsis electrolyte disorders except hypovolemia related
+diabetic ketoacidosis brain mass craniotomy except for trauma
+confusion low oxygen pulmonary embolism
+right foot ulcer cellulitis diabetes other circulatory system operating room procedures
+wound infection post operative post traumatic other device infections
+congestive heart failure cardiac valve other major cardiothoracic proc without cardiac catheter
+pancreatitis complications of treatment with complications comorbidities
+lower gi bleed other digestive system operating room procedures with complications comorbidities
+renal cancer sda kidney urinary tract procedures for malignancy
+coronary artery disease coronary artery bypass graft sda cardiac valve procedures w o cardiac catheterization
+tertiary syphilis other infectious parasitic diseases diagnoses with noncomorbid conditions and without comorbid conditions or major cc
+peripheral vascular disease sda major cardiovascular procedures with complications comorbidities
+congestive heart failure heart failure shock with major comorbid conditions
+left hip fracture lung cancer hip femur procedures except major joint age with complications comorbidities
+shortness of breath heart failure shock
+upper gastrointestinal bleed other unspecified gastrointestinal hemorrhage
+aortic stenosis aortic valve replacement limited access sda cardiac valve other major cardiothoracic proc without cardiac catheter
+congestive heart failure renal failure
+thrombotic thrombocytopenic pupura stroke major hematologic immunologic diag exc sickle cell crisis coagul
+syringomyelia sda spinal procedures without cc
