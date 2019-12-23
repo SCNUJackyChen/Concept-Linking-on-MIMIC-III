@@ -92,20 +92,24 @@ def split_data(src_file, un_repeat, add_dia, add_desc, add_text, add_father, fat
     with open(out_path + '\\train-dia.txt', mode='w', encoding='utf-8') as train_dia:  # 写训练diagnosis数据
         for idx, i in enumerate(train_x):
             train_dia.write(i)
-            if idx != len(train_x) - 1: train_dia.write('\n')
+            if idx != len(train_x) - 1:
+                train_dia.write('\n')
     with open(out_path + '\\train-con.txt', mode='w', encoding='utf-8') as train_con:  # 写训练concept数据
         for idx, i in enumerate(train_y):
             train_con.write(i[0])
-            if idx != len(train_y): train_con.write('\n')
+            if idx != len(train_y) - 1:
+                train_con.write('\n')
     with open(out_path + '\\train-father.txt', mode='w', encoding='utf-8') as train_father:  # 写选了concept父概念数据
         for idx, i in enumerate(train_y):
             train_father.write(i[1] if i[1] else 'none')
-            if idx != len(train_y): train_father.write('\n')
+            if idx != len(train_y) - 1:
+                train_father.write('\n')
 
     with open(out_path + '\\val-dia.txt', mode='w', encoding='utf-8') as val_dia:  # 写验证diagnosis数据
         for idx, i in enumerate(val_x):
             val_dia.write(i)
-            if idx != len(val_x): val_dia.write('\n')
+            if idx != len(val_x) - 1:
+                val_dia.write('\n')
     with open(out_path + '\\val-con.txt', mode='w', encoding='utf-8') as val_con:  # 写验证concept数据
         for idx, i in enumerate(val_y):
             val_con.write(i[0])
