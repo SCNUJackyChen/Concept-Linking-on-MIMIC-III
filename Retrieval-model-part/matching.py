@@ -39,7 +39,7 @@ class MatchingModel():
         self.se = SIF(self.w2v_model)
         self.se.train(self.sens)
 
-    def query(self,query_sen,topk=25):
+    def query(self, query_sen, topk=25):
         cands = self.se.sv.similar_by_sentence(query_sen,model=self.se,topn=topk,indexable=self.sens.items)
         most_sim = [(x[0],x[2]) for x in cands]
         return most_sim
