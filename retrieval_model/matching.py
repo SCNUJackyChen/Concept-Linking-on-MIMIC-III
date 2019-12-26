@@ -7,8 +7,10 @@ import numpy as np
 from sklearn.preprocessing import normalize,scale,MinMaxScaler
 import logging
 
+
 class MatchingModel():
-    def __init__(self,file_path,model_path):
+
+    def __init__(self, file_path, model_path):
         self.corpus = []
         self.concepts = []
         self.sens = []
