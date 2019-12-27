@@ -19,7 +19,7 @@ def get_candidate_4_test(train_concept, candidate_k, infer_dia):
     :return: 分别存储为两个文件，一个存放diagnosis+对应的concept，一个存放对应的匹配概率
     """
     match_model = MatchingModel(train_concept, os.path.abspath('..') +
-                                '\\retrieval_model\\PubMed-shuffle-win-2.bin')
+                                '\\retrieval_model\\BioNLP-word-embedding.bin')
     with open(infer_dia, 'r', encoding='utf-8') as dia_f:
         infer_diagnosis = dia_f.readlines()
         for dia in infer_diagnosis:
@@ -27,9 +27,9 @@ def get_candidate_4_test(train_concept, candidate_k, infer_dia):
             for con in candidate_cons:
                 print(con)
 
-train_concept = os.path.abspath('.') + '\\split_data\\dia--dis\\full\\train-con.csv'
+train_concept = os.path.abspath('.') + '\\original_data\\split_data\\dia--dis\\full\\train-con.csv'
 candidate_k = 25
-infer_diagnosis = os.path.abspath('.') + '\\split_data\\dia--dis\\full\\infer-dia.txt'
+infer_diagnosis = os.path.abspath('.') + '\\original_data\\split_data\\dia--dis\\full\\infer-dia.txt'
 
 get_candidate_4_test(train_concept, candidate_k, infer_diagnosis)
 

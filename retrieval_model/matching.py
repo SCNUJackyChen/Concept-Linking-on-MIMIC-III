@@ -24,15 +24,15 @@ class MatchingModel():
 
     def _read(self):
         print('loading model...')
-        self.w2v_model = gensim.models.KeyedVectors.load_word2vec_format(self.model_path,binary=True)
+        self.w2v_model = gensim.models.KeyedVectors.load_word2vec_format(self.model_path, binary=True)
         print('loading data...')
-        with open(self.file_path,'r') as file:
+        with open(self.file_path, 'r', encoding='utf-8') as file:
             reader = csv.reader(file)
             next(reader)
             for row in reader:
                 self.corpus.append(row[0].split())
                 self.concepts.append(row[1])
-        self.concepts =[c.split() for c in list(set(self.concepts))]
+        self.concepts = [c.split() for c in list(set(self.concepts))]
 
 
     def _train(self):
@@ -42,8 +42,8 @@ class MatchingModel():
         self.se.train(self.sens)
 
     def query(self, query_sen, topk=25):
-        cands = self.se.sv.similar_by_sentence(query_sen,model=self.se,topn=topk,indexable=self.sens.items)
-        most_sim = [(x[0],x[2]) for x in cands]
+        cands = self.se.sv.similar_by_sentence(query_sen, model=self.se, topn=topk, indexable=self.sens.items)
+        most_sim = [(x[0], x[2]) for x in cands]
         return most_sim
 
 
