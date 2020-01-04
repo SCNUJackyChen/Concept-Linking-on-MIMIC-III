@@ -1,0 +1,3239 @@
+newborn
+ascites hyperkalemia
+gastrointestinal bleed
+uti pyelonephritis
+nonhodgkins lymphoma fever
+diarrhea
+aortic dissection
+fever
+pelvic fracture
+sepsis
+bone pain metastatic cancer
+c section primary
+kidney transplant
+diabetic ketoacidosis pneumonia
+asthma chronic obst pulm disease
+prenephric hematoma
+mitral valve disorder mitral valve replacement aortic valve replacement sda
+gastrointestinal bleed
+chest trauma
+amyl nitrate overdose
+metastatic melanoma brain metastasis
+hypotension
+sepsis
+drug refractory atrial fibrillation pulmonary vein isolation remote west jet ventilation sda
+non st elevation myocardial infarction cardiac catheterization
+aortic stenosis avr coronary artery bypass graft sda
+non st elevation mi
+chest pain
+heart failure
+iliac vein thrombosis
+chronic renal failure sda
+pneumonia
+overdose
+respiratory failure kidney failure methicillin resistant staph aureus vre
+ ventricular tachycardia ablation remote west 
+unstable angina
+liver failure
+renal failure respiratory failure
+end stage liver disease
+fever unknown origen
+renal failure
+sepsis
+stemi cardiac cath
+congestive heart failure pneumonia
+asthma copd exacerbation
+renal cell carcinoma sda
+renal failure
+fever
+cholecystitis
+aortic stenosis avr coronary artery bypass graft sda
+gastrointestinal bleed
+sepsis
+cholangitis
+right knee oa sda
+acute subdural hematoma
+lower gi bleed
+thalamic bleed
+chest pain
+meningioma sda
+thoracic aortic aneurysm
+cerebrovascular accident
+root abscess
+necrotizing fascititis
+non q wave myocardial infarction cardiac cath
+coronary artery disease
+cholangitis rapid atrial fibrillation
+hypothermia
+fever epilepsy
+gastrointestinal bleed
+ volvulus
+aneurysm craniotomy
+subdural hemorrhage jaw fracture
+polysubstance overdose
+coronary artery disease ett cath
+post arrest
+uti bladder cancer
+neck tumor
+change in mental status hypotension bradycardia
+chest pain
+sepsis
+cholangitis
+r o myocardial infarction
+pleural effusion
+coronary artery disease coronary artery bypass graft with avr mvr replacement sda
+s p motor vehicle accident
+cholelithiasis
+aneurysm sda
+s p mi cath
+intracranial hemorrhage
+brain aneurysm sda
+coronary artery disease chf bental procedure coronary artery bypass graft aortic and mitral valve replacement sda
+paroxymal atrial fibrillation atrioventricular junction ablation atrioventricular node ablation
+gastrointestinal bleed
+rectal cancer
+chest pain telemetry
+chest pain
+sepsis
+hemolytic anemia
+intraparanchymal hemorrhage
+chest pain with left arm numbness
+stroke telemetry
+metastatic renal cell carcinoma chemotherapy interleukin hd il 
+septic shock pneumonia
+urinary tract infection pyelonephritis
+pneumonia
+rib fx s p fall
+pneumonia
+upper gi bleed
+fever
+blunt trauma
+brain mass
+sepsis
+r o myocardial infarction
+gastrointestinal bleed
+perforated diverticulitis
+pancreatic mass sda
+coronary artery disease coronary artery bypass graft sda
+renal failure
+subdural hematoma
+chronic bilateral pleural effusion sda
+left occipital tumor sda
+left carotid stenosis
+overdose
+cervical spine fracture
+acute ant mi
+coronary artery disease mr coronary artery bypass graft mitral valve replacement sda
+cerebral aneurysm sda
+stroke tia
+subdural hemorrhage
+intracranial hemorrhage
+upper gi bleed
+pancreatitis
+seizure
+cad mitral regurgitation coronary artery bypass graft w avr
+carotid stenosis bypass axillo bifemoral graft right carotid carotid bypass graft
+mitral valve insuffiecieny coronary artery bypass graft with mvr aortic valve replacement sda
+chest pain
+intracranial hemorrhage
+seizure
+end stage liver disease
+anasarca telemetry
+mitral valve insufficiency mitral valve repair replace with concomitant maze procedure sda
+tracheobronchomalacia sda
+spinal cord injury
+coronary artery disease
+altered mental status
+right renal mass
+blunt trauma
+brian tumor sda
+myocardial infarction cath
+iliac artery stenosis sda
+myasthenia gravis
+sepsis
+exertional angina cath
+altered mental status
+copd exacerbation pneumonia
+s p motor vehicle accident
+hypotension
+lower gastrointestinal bleed
+mitral regurgitation minimally invasive mitral valve repair vs replacement sda
+mitral valve disorder aortic and mitral valve replacement thoracoscopic maze procedure bronchoscopy flexible diagnostic sda
+l l lumbar stenosis sda
+ventral hernia skin laxity abdomen breasts sda
+symptomatic carotid stenosis
+back pain
+diarrhea
+congestive heart failure subdural hematoma
+head mass
+lower gastrointestinal bleed
+spinal detrusor hyperreflexia
+pseudoaneurysm
+coronary artery disease coronary artery bypass graft with mvr sda
+dehydration
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease coronary artery bypass graft cath
+motor vehicle accident with unspecified injuries
+hepatic encephalopathy
+melena
+fever
+ rd degree heart block
+recurrent carotid stenosis left carotid angiogram left stent placement
+flare of ulcerative cholitis status post vats procedure
+ascending cholangitis
+severe gerd sda
+pneumonia
+aortic stenosis cardiac cath
+vocal cord lesion
+mr mitral valve replacement sda
+subdural hemorrhage
+liver failure telemetry
+mitral valve mass
+vt with acid firing
+head bleed telemetry
+aortic stenosis bental procedure
+pneumonia
+subarachnoid hemorrhage
+failure to thrive r o mi
+st segment elevation myocardial infarction cath
+crohn s sda
+acute renal failure
+diabetic ketoacidosis
+pedal edema hypokalemia
+congestive heart failure
+abdominal pain
+blunt trauma telemetry
+crd coronary artery bypass graft sda
+paratonsillar abscess
+pre op liver
+s p motor vehicle accident
+pleural effusion
+newborn
+low hct
+coronary artery disease
+lower gastrointestinal bleed
+lower gi bleed
+retroperitoneal hemorrhage
+bilateral subdural hematoma
+chronic obst pulm disease
+coronary artery disease coronary artery bypass graft sda
+upper gi bleed
+sepsis
+aortic valve insufficiency coronary artery bypass graft with avr sda
+mitral stenosis mitral valve replacement sda
+pulmonar edema
+arterial insufficiency
+congestive heart failure
+aphasia
+stemi cardiac cath
+multifocal pneumonia copd hyperglycemia
+subarachnoid hemorrhage
+coronary artery disease coronary artery bypass graft mvr sda
+end stage renal disease
+hyperbilirubinemia
+inability to swallow
+lower gastrointestinal bleed
+cardiac arrest
+hypotension atrial fibrillation telemetry
+shortness of breath
+brain metastasis sda
+status post motor vehicle accident with injuries
+acute st segment myocardial infarction
+polysubstance aabuse
+fever telemetry
+prematurity
+small bowel obstruction
+coronary artery disease cath
+stroke telemetry transient ischemic attack
+fever neutropenia
+coronary artery disease coronary artery bypass graft sda
+unresponsive found down
+st elevated myocardial infarction
+pre op avr mvr cath
+aortic aneurysm cath
+chest pain
+intraparenchymal hemorrhage
+right sided heart failure congenital heart disease
+subdural hematoma
+respiratory failure
+upper gi bleed
+cad atrial myxoma coronary artery bypass graft myxoma excision sda
+meningioma
+post operative bleeding
+congestive heart failure transcatheter aortic valve implant tavi percutaneous approach
+necrotising pancreatitis
+seizure rhabdomyolsis fever
+acute renal insufficiency hypoxia
+congestive heart failure
+cellulitis left lower extremity ulcer
+unresponsive
+right lung lesion radio frequency ablation right lung w biopsy sda
+mandible fracture
+minimally invasive oval
+congestive heart failure r o mi
+l basal ganglia bleed
+heart disease
+acute pancreatitis
+congestive heart failure
+aortic stenosis cath
+recurrent atrial tachycardia pulmonary vein isolation remote west sda
+left renal stone
+s p appy large leg pe
+head bleed
+abdominal pain
+abdominal pain
+diabetic ketoacidosis
+coronary arterty bypass
+tracheobroncho malacia sda
+acute renal failure diabetic ketoacidosis
+pleural effusion
+coronary artery disease recurrent chest pain dyspnea renal insufficiency right and left heart catheterization
+v tach cardioversion
+altered mental status
+open wound s p moh s surgery
+sepsis
+subdural hemorrhage
+stroke telemetry transient ischemic attack
+lower gi bleed
+c disc herniation
+chest pain coronary artery disease left heart cath
+chest pain
+acute renal failure
+acute coronary syndrome
+respiratory failure
+femur fractures
+gastrointestinal bleed
+right parietal hemorrhage
+hepatorenal syndrome hemetemsis
+syncope telemetry
+hip fracture
+lacerated spleen status post motor vehicle accident with injuries
+angina ett cath
+fall
+csf leak
+gastrointestinal bleed
+s p cardiac arrest
+pneumonia
+ischemic ulceration left foot
+stroke tia
+stroke right mca
+atrial fibrillation bilateral thoracoscopic mini maze procedure with left atrial appendage resection
+pancreatitis gall stones
+unstable angina
+osteomyelitis
+kidney transplant
+chest pain
+congestive heart failure cath
+abdominal pain
+polytrauma
+abdominal pain
+spinal tumor sda
+chest pain hypertension coronary artery disease cath
+choledoco cyst ercp east remote g i st 
+subarachnoid hemorrhage
+mitral valve prolapse mitral valve replacement heart port minimally invasive sda
+hypotension bradycardia
+renal failure
+coronary artery disease
+sepsis
+back pain
+seizures
+stroke telemetry transient ischemic attack
+stroke transient ischemic attack
+intracranial hemorrhage
+congestive heart failure
+altered mental status
+infected left leg
+non q mi cath
+dehydration nausea w vomiting vre
+chest pain
+weakness
+coronary artery disease cath
+atrial fibrillation
+esophageal reflux sda
+mital valve replacement
+coronary artery disease coronary artery bypass graft sda
+fever hypotention telemetry
+coronary artery disease coronary artery bypass graft sda
+overdose
+cardiac arrest
+rash
+mono
+lung cancer sda
+acute renal failure
+shortness of breath
+pneumonia
+hypertension cellulitis chf
+coronary artery disease coronary artery bypass graft sda
+septic meningitis
+cervical myelopathay sda
+lower gastrointestinal bleed
+coronary artery disease avr acending aorta coronary artery bypass sda
+mr mitral valve replacement sda
+dyspnea cath
+chest pain telemetry
+aortic valve disorder aortic valve replacement sda
+acute mental status changes respiratory distress
+fever s p chemo
+coronary artery disease
+congestive heart failure
+cocaine od
+sepsis
+necrotising pancreatitis
+stemi
+intractable epilepsy sda
+endocarditis
+abdominal aortic aneurysm
+congestive heart failure
+chronic renal failure sda
+hemoptysis
+dyspnea
+septic shock
+cardiac arrest
+coronary artery disease
+encephalopathy
+fall
+coronary artery disease hypertension cath
+brain mass
+rhabdomyolysis compartment syndrome
+coronary artery disease coronary artery bypass graft sda
+left foot cellulitis
+tia cerebral stenosis telemtry
+congestive heart failure coronary artery bypass graft mitral valve replacement
+hypoxia telemetry
+chest pain
+coronary artery disease
+stroke telemetry transient ischemic attack
+st elevated myocardial infarction
+pancreatic pseudocyst
+hyponatremia urinary tract infection
+ulcer left foot sda
+recurrent pleural effusions
+severe hypertrophic cardiomyopathy septal ethanol ablation
+hepatitis seizure d o
+acute renal failure
+urinary tract infection pyelonephritis
+gastrointestinal bleed
+right sided paralysis
+respiratory failure
+bradycardia
+shortness of breath
+r o myocardial infarction chest pain
+aortic dissection
+congestive heart failure
+intracranial hemorrhage
+aortic stenosis aortic valve replacement redo mitral valve replacement bental procedure sda
+upper gi bleed
+cholecystitis
+abdominal pain
+incarcerated hernia
+coronary artery disease coronary artery bypass graft
+fever hypotension
+gastrointestinal bleed
+mitral valve insufficency mitral valve replacement tricoustid valve replacement sda
+pneumonia
+asthma
+right knee osteoarthritis sda
+s p fall cervical spin fracture
+sepsis
+spinal stenosis sda
+coronary artery disease
+coronary artery disease coronary artery bypass graft sda
+abdominal aortic aneurysm sda
+intracranial hemorrhage
+sepsis
+coronary artery disease new atrial fibrillation
+intracranial hemorrhage
+unstable angina
+coronary artery disease coronary artery bypass graft sda
+tracheobronchoplasty epidural catheter
+aortic stenosis aortic and mitral valve replacement sda
+svc syndrome
+pancreatitis biliary stricture sda
+gastrointestinal bleed
+sepsis
+ischemic colitis
+infected foot
+diabetic ketoacidosis cva fever etiology unknown
+right paracostasl tumor sda
+mr mitral valve replacement minimally invasive approach sda
+liver transplant eval
+small bowel obstruction
+coronary artery disease carotid angiography
+coronary artery disease coronary artery bypass graft sda
+rule out guillain barre syndrome telemetry
+renal cancer sda
+sepsis
+st elevated myocardial infarction
+trachebronchialmalacia sda
+clotted av graft
+hemoptesis respiratory failure leukemia
+pneumonia
+coronary artery disease cath
+endocarditis mitral regurgitation
+chronic renal failure sda
+cabg
+stroke telemetry transient ischemic attack
+s p mpotor vehicle accident
+lf side rib fracture s p fall 
+s p motor vehicle accident
+subarachnoid hemorrhage
+gastrointestinal bleed
+vt arrest
+coronary artery disease coronary artery bypass graft sda
+gastrointestinal bleed
+sepsis
+lactic acidosis
+abdominal pain
+pannus ulcers
+hydrocephalus sda
+lower gi bleed
+post ercp
+weakness
+coronary artery disease
+shortness of breath
+coronary artery disease
+cellulitis
+esophageal obstruction
+coronary artery disease cath
+subdural hematoma
+right upper quadrant pain
+epilepsy sda
+cerebrovascular accident
+s p kidney tx pre op pancreas tx
+upper gi bleed
+coronary artery disease
+critical aortic stenosis s p pneumonectomy
+crani
+dehydration
+arthymia telemetry
+upper gi bleed
+shortness of breath
+confusion
+gastrointestinal bleed
+stab wound to chest
+status post motor vehicle accident multiple trauma
+pericardial effusion
+coronary artery disease coronary artery bypass graft sda
+upper gi bleed
+pneumonia
+right hip fracture
+upper gastrointestinal bleed
+aortic stenosis coronary artery bypass graft avr sda
+abdominal pain
+esophageal ca sda
+a fib rvr
+hypercarbic respiratory failure
+uti pyelonephritis
+lower extremity fractures
+pulmonary embolism
+brain mass
+pancreatitis
+cellulitis
+respiratory failure
+coronary artery disease angina left anterior descending coronary artery intervention
+stroke tia
+hemoptysis
+hypotension l fracture
+pneumonia telemetry
+chest pain telemetry
+diabetic ketoacidosis renal failure rule out myocardial infarction telemetry
+aortic stenosis aortic valve replacement
+respiratory distress lung cancer
+mets ca pleural effusion
+pneumonia
+ehrilichiosis vs choledocholithiasis
+brain tumor sda
+torsades
+hypotension
+retroperitoneal bleed
+hypoxia intracranial hemorrhage
+peripheral vascular disease shortness of breath chest heaviness ischemia hypertension diabetes cath
+encephalitis
+pneumonia
+acute renal failure
+brian tumor sda
+gastrointestinal bleed
+respiratory failure pneumonia
+dilated ascending aorta bentall procedure
+coronary artery disease
+aortic stenosis aortic valvuloplasty sda
+acute renal failure pericardial effusion chole
+colonic inertia sda
+non healing ulcer left leg
+hypertensive urgency chest pain
+respiratory failure
+right kidney tumor sda
+coronary artery disease
+atrial fibrilation bilateral thoracoscopic mini maze procedure
+tamponade pleural effusion
+symptomatic aaa
+brain tumor sda
+s p mva lx iph
+partial small bowel obstruction
+stroke telemetry transient ischemic attack
+st elevated myocardial infarction
+intracranial hemorrhage
+pulmonary embolis hypotension
+hypotension
+acute choleycystitis
+respiratory acidosis
+pulmonary hypertension
+ugib abdominal pain
+chest pain
+coronary artery disease cath
+chest pain
+bowel obstruction
+urinary tract infection pyelonephritis
+esophageal performation
+st elevated myocardial infarction
+dehydration
+coronary artery disease cath
+congestive heart disease
+mandibular mass
+distal femur fracture
+hyponatremia
+stroke telemetry transient ischemic attack
+acute leukemia
+abdominal pain
+chest pain
+perineal abscess
+fever
+upper gi bleed
+coronary artery disease
+brain tumor sda
+pneumonia
+seizures overdose
+coronary artery disease coronary artery bypass graft sda
+left hip fracture
+coronary artery disease coronary artery bypass graft sda
+ventral hernia sda
+coronary artery disease coronary artery bypass graft sda
+perforated diverticulum
+traumatic subarachnoid hemorrhage rt hip fracture
+ventricular tachycardia
+splenic laceration
+osteomyelitis
+metastatic colon cancer to liver sda
+aortic stenosis aortic valve replacement sda
+hip fx
+upper gi bleed
+hip fracture
+newborn
+metastatic renal carcinoma 
+st elevation mi v fib arrest cath
+sepsis
+carotid stenisis carotid stent
+status post esiphagogastroduodenoscopy
+right anterior cerebral artery stroke
+pneumonia hypotension
+hypotension
+coronary artery disease coronary artery bypass graft sda
+seizure
+intracranial hemorrhage
+gastroparesis with long standing g tube sda
+acute subdural hematoma
+cerebral vascular accident hypercarbia
+acute leukemia neutropenia
+hct drop
+pneumonia mental status change
+chest pain shortness of breath
+thrombocytopenia
+coronary artery disease
+pancreatitis
+infected kidney stone pyelonephritis
+brain tumor right sda
+cellulitis
+l hip fracture rf anemia
+small bowel obstruction
+enterocutaneous fistula
+hypotension failure to thrive
+exertional dyspnea
+stroke telemetry telemetry
+pancreatitis
+sepsis
+hepatitis c liver failure ascites
+pneumonia
+intracranial hemorrhage telemetry
+coronary artery disease cardiac cath
+stroke transient ischemic attack
+angioedema
+ischemic colitis
+ingestion of foreign body
+chronic renal failure
+urinary tract infection pyelonephritis
+weakness
+left carotid stenosis sda
+fever
+intracranial hemorrhage
+abdominal aortic aneurysm
+urinary tract infection pyelonephritis
+coronary artery disease
+acute coronary syndrome
+copd flare
+coronary artery disease
+hydrocephalus
+blunt trauma
+thoracic aneurysm resection aneurysm thoracic sda
+visceral artery aneurysm sda
+aortic stenosis aortic valve ascending aorta replacement
+acute coronary syndrome
+ aml acute myelogenous leukemia
+dehydration
+perforated bowel
+status post right colon eschemia requiring ileostomy sda
+carotid stenosis sda
+gastric cancer
+lower gi bleed
+hip pain
+shortness of breadth hypertension afibrillation mitral valve replacement redo sda
+aortic stenosis aortic valve replacement redo sda
+wide complex tachycardia
+pneumonia
+ventriculomegaly
+sepsis
+pneumonia
+chest pain elevated troponin cardiac cath
+head mass
+pleural effusions
+lower extremity cellulitis hyperkalemia renal failure
+pericardial effusion
+mitral valve disorder mitral valve replacement sda
+acute subdural hematoma telemetry
+endometrial ca sda
+cervical spondylotic myelopathy sda
+mass unspecified location
+unresponsive intubated
+altered mental status
+epidural neck hematoma
+pneumonia
+tachycardia
+coronary artery disease
+severe mitral regurgitation coronary artery disease cath sda
+newborn
+diabetic ketoacidosis
+chf chest pain
+seizure
+atrial fibrillation bilateral thoracoscopic mini maze procedure with left atrial appendage resection sda
+esophageal ca sda
+lung cancer respiratory distress
+pneumonia
+lower gastriintestinal bleed
+ vessell coronary artery disease
+blunt trauma
+flank pain
+chest pain cardiac cath
+unstable angina
+lt hip pain
+acute monocytic leukemia bone marrow transplant
+pleural effusion
+acute coronary syndrome
+unstable angina chest pain cath
+chf vs multifocal pna
+esophageal varices
+unstable angina
+hemolytic uremic syndrome
+coronary artery disease aortic valve replacement
+gi bleed
+etoh withdrawal
+intracranial hemorrhage
+subarachnoid hemorrhage
+abdominal pain
+chest pain
+preop kidney
+intracranial hemorrhage
+c spine fracture s p fall
+acute coronary syndrome
+chest pain
+stroke telemetry transient ischemic attack
+syncope
+possible mi
+subarachnoid hemorrhage
+cp cardiomyopathy rule out coronary artery disease cardiac cath
+urosepsis
+ulnar fracture
+gastropharesis sda
+sepsis
+aortic aneurysm bental procedure vs valve sparing aortic root replacement sda
+progressive angina left heart catheterization
+hyperthermia
+bradycardia cardiac arrest
+gastrointestinal bleed
+dehydration
+metastatic renal cell carcinoma interleukin chemotherapy hd il 
+anterior communicated artery aneurysm sda
+pneumonia mrsa
+spinal lesion sda
+head bleed
+pneumonia
+pleuro effusion sda
+seizures
+chest pain congestive heart failure cath
+pneumonia
+kyphosis sda
+coronary artery disease coronary artery bypass graft sda
+sepsis
+hyperkalemia
+non q mi cath
+bracheal occulison
+s p v fib arrest
+brain tumor
+hepatitis c liver failure
+struck by train
+bile leak
+shortness of breath
+r o myocardial infarction
+myocardial infarction
+ulcer right lower extremity
+congestive heart failure
+rectal mass sda
+multifocal motor neuropathy
+ped struck
+st elevated myocardial infarction
+elevated white count hallucinations
+brain tumor sda
+lower gi bleed
+s p multi stab wounds
+aortic dissection
+shortness of breath
+multiple trauma s p motorcyle accident
+unstable angina
+respiratory failure
+hypertensive emergency
+head bleed
+hd catheter line infection
+cholecystitis sda
+newborn
+cholecystitis
+chest pain
+hyponatremia
+stroke tia
+hepatic enchephalopathy
+head bleed
+pulmonary embolism
+mr mitral valve replacement heart port minimaly invasive sda
+intracranial hemorrhage
+sepsis
+coronary artery disease coronary artery bypass graftwith avr sda
+aspiration pneumonia
+coronary artery disease
+s p motor vehicle accident
+hypotension
+stroke telemetry transient ischemic attack
+end stage liver disease
+stroke telemetry
+lower gi bleed
+cholecystitis
+pneumonia fluid overload
+sepsis
+newborn
+change in mental status gastrointestinal bleed telemetry
+coronary artery disease coronary artery bypass graft sda
+unsteady gait brain mets
+congestive heart failure acute coronary syndrome cath
+severe gerd sda
+rule out myocardial infarction
+cholangitis
+gastrointestinal bleed
+htn emergency
+abdominal pain
+acute pancreatitis
+liver failure
+infected graft
+congestive heart failure
+cardiac arrest
+respiratory distress
+acute myelogenous leukemia
+gastrointestinal bleed telemetry
+congestive heart failure
+lymphoma chemo
+subdural hemorrhage
+right leg weakness
+syncope
+pelvic fracture telemetry
+vomiting r o pneumonia
+altered mental status
+congestive heart failure
+weakness anemia telemetry
+polytrauma
+pelvic mass sda
+coronary artery disease cath
+spondylolothiasis sda
+cardiac carrest
+altered mental status
+stroke telemetry transient ischemic attack
+aortic stenosis aortic valve replacement sda
+pneumonia
+epistaxis sda
+kyphosis sda
+sepsis
+pneumonia
+abd pain
+altered mental status respiratory failure
+hematemesis
+coronary artery disease
+claudication left
+congestive heart failure telemetry
+hypotension
+dehydration
+bacteremia
+bilateral infected heel ulcers
+vf arrest
+fever r o bacteremia
+altered mental status
+tips tips redo sda
+pneumonia
+congestive heart failure
+headache
+adema liver failure
+cerebral aneurysm cerebral angiogram coiling sda
+electrolyte abnormalities cancer
+upper gi bleed
+cardiogenic shock
+altered mental status
+chest pain telemetry
+overdose
+sepsis congestive heart failure
+pain control s p video assisted thoracoscopy
+acute abdomen
+upper gastrointestinal bleed
+chf pneumonia
+aaa ascending aortic arch repair replacement
+pneumonia
+tamponade
+sepsis
+pea arrest myocardial infarction
+foreign body esophagus
+coronary artery disease cath angioplasty
+arterial occlusion
+abdominal pain
+diabetic ketoacidosis
+left femur fracture
+coronary artery disease thoracoscopic ventricular lead placement left thoracotomy sda
+bacteremia altered mental status c diff
+acute coronary syndrome
+chf exacerbation
+aneurysm sda
+etoh withdrawal
+coronary artery disease
+upper gastrointestinal
+hodgkins disease bone marrow transplant
+coronary artery disease coronary artery bypass graft sda
+pneumonia
+chest pain arm numbness
+elbow fracture
+sepsis
+congestive heart failure
+brain aneurysm sda
+myocardial infarction pneumonia
+syncope telemetry s p fall
+coronary artery disease coronary artery bypass graft sda
+liver hematoma
+chest pain telemetry
+scoliosis sda
+esophageal stricture
+pneumonia
+cholangitis
+myocardial infarction congestive heart failure
+sepsis
+altered mental status
+pneumonia
+variceal bleed
+stroke telemetry transient ischemic attack
+mitral regurgitation cardiac cath
+chronic obstructive pulmonary disease
+nausea vomiting
+mental status changes hyponatremia
+chest pain
+gun shot wound
+intracranial head bleed
+stab wound
+intracranial hemorrhage
+congestive heart failure
+coronary artery disease
+congestive heart failure shortness of breath
+ischemic ulcers infected both left and right legs
+thorasic spine tumor
+coronary artery disease coronary artery bypass graft sda
+sepsis left foot ulcer
+pseudo aneurysm
+dyspnea on exertion cardiac ischemia left heart catheterization
+goiter sda
+liver laceration renal failure
+chest pain aspirin desensitization cath
+sepsis pyelonephritis hypoglycemia
+pneumonia
+fever
+upper gi bleed
+cecal volvulous
+myocardial infarction cardiogenic shock cath
+stemi
+coronary artery disease
+ovarian cancer sda
+hypertensive emergency
+cholangitis
+ascending aortic aneurysm
+weakness c diff diarrhea
+acute coronary syndrome
+coronary artery disease aortic stenosis coronary artery bypass graft with avr sda
+congestive heart failure cardiac catherization
+cardiac arrest vt ablation
+coronary artery disease coronary artery bypass graft sda
+intractable vomiting allergic reaction
+acute renal failure
+cerebellar hemorrhage
+respiratory failure
+intracranial hemmorhage
+subarachnoid hemorrhage
+vfib arrest
+cerebral vascular accident
+s p fall head laceration
+chest pain
+uti pyelonephritis
+fever
+pneumonia
+non st elevation myocardial infarction
+s p mi left heart cath
+intracranial hemorrhage
+right femur fracture
+atrial septal defect
+neutropenia hypotension
+pneumonia airway obstruction
+intracranial hemorrhage
+upper gi bleed
+pneumonia
+hypertensive urgency
+chronic mesenteric ischemia sda
+upper gi bleed
+coronary artery disease coronary artery bypass graft sda
+head injury
+gastrointestinal bleed
+portal vein thrombus
+bilateral pneumonia pleural effusion tongue mass
+altered mental status
+pnuemococcal pneumonia ards
+chest pain coronary artery disease cath
+small bowel obstruction
+right leg ischemia sda
+lymphoma
+cholangitis
+uti pyelonephritis
+vernticular tachycardia
+abdominal pain
+subdural hematoma
+abdominal aortic aneurysm
+cirrhosis
+intracranial hemorrhage
+right ureteral stone
+dens fx sda
+respiratory failure
+congestive heart failure
+chest pain cath
+pulmonay embolism
+coronary artery disease coronary artery bypass graft sda
+upper gi bleed
+cardiac arrest
+pericarditis hypotension
+edema
+coronary artery disease
+pneumonia
+altered mental status
+cornary artery disease coronary artery bypass graft with mitral valve repair vs replacement sda
+acute subdural hematoma
+bladder ca sda
+dyspnea
+brain mass
+ca of larynx sda
+pleural effusion
+coronary artery disease
+tamponade pericardial tap
+malignant melanoma seizures
+paraesophageal hernia sda
+pneumonia copd
+dyspnea
+non st segment elevation mycoardial infraction
+umbilical hernia
+colitis dehydration
+altered mental status
+severe aortic stenosis congestive heart failure severe bilateral leg pain cath
+acute subdural hematoma
+upper gi bleed
+carotid stenosis carotid angiogram and stent
+pneumonia
+end stage renal disease
+st elevation mi
+fibroids sda
+subclavian vein compression syndrome
+brain mass
+chest pain telemetry
+coronary artery disease
+altered mental status changes
+dehydration malnutrition
+fever
+acute coronary syndrome aortic valve replacement sda
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease aortic stenosis aortic valve replacement coronary artery bypass graft sda
+gastrointestinal bleed
+hyperkalemia
+aortic stenosis bental procedure redo sternotomy sda
+vf arrest
+femoral neck fracture
+aortic stenosis atrial valve replacement tissue coronary artery bypass graft
+fever shortness of breath
+defibrillator firing
+cellulitis
+abdominal pain melena
+subarachnoid hemorrhage
+stroke tia
+failure to thrive
+ascending aorta disection
+fever
+gastrointestinal bleed
+pelvic adhesions and breast cancer sda
+abdominal pain
+abdominal pain
+cardiogenic shock telemetry
+diverticulitis
+congestive heart failure
+diabetic ketoacidosis
+gi evaluation
+acute subdural hematoma
+anemia
+v tach arrest
+coronary artery disease coronary artery bypass graft sda
+abdominal wound infection
+skull fracture head injury sah
+hypoxia
+hydrocephalous
+colon carcinoma sda
+gastrointestinal bleed
+copd flare
+bilateral ankle fx new aflutter
+coronary artery disease
+pancreatic tail mass sda
+back pain
+c spine injury
+mitral regurgitation mitral valve replacement sda
+newborn
+coronary artery disease redo sternotomy avr tissue cabg x sda
+s p fall c fracture
+bowel perforation
+angina cath
+hyperkalemia
+nausea vomiting dehydration
+subarachnoid hemorrhage
+hypotension
+urosepsis
+congestive heart failure r o mi
+acute subdural hematoma
+syncope telemetry
+cirrhosis transjugular intrahepatic portacaval shunt
+hyperkalemia
+hypertension
+tongue swelling allergic reaction
+coronary artery disease mitral valve replacement redo sternotomy sda
+congestive heart failure telemetry transcatheter aortic valve implant tavi with pump stand by corevalve 
+congestive heart failure acute pulmonary edema
+s p liver tx fever malaise
+coronary artery disease minimally invasive coronary artery bypass sda
+coronary artery disease
+loewr gi bleed
+cerebral avm sda
+anemia
+cornary artery disease coronary artery bypass graft sda
+ ett cath
+atrial fibrillation
+thumb amputation
+s p cardiac arrest
+thoracic aortic aneurysm bental procedure with aortic arch replacement sda
+hyperkalemia
+blunt trauma
+syncope
+cardiac cath
+upper gastrointestinal bleed
+ischemic bowel
+upper gi bleed
+hyperkalemia
+sepsis hyperglycemia
+subarachnoid hemorrhage aneurysm
+coronary artery disease coronary artery bypass graft with avr sda
+stroke telemetry transient ischemic attack
+pneumonia congestive heart failure atrial fibrillation
+base of tongue tumor
+respiratory failure airway obstruction
+coronary artery disease coronary artery bypass graft sda
+head mass seizures
+tracheobronchomalasia sda
+arteriovenous fistula
+hemothorax rib fx
+aortic stenosis coronary artery bypass graft with avr sda
+chest pain
+abdominal aortic aneurysm
+coronary artery disease coronary artery bypass graft sda
+congestive heart failure
+esophageal ca sda
+fever
+stroke telemetry transient ischemic attack
+overdose
+polytrauma
+s p pedestrian struck
+chest pain
+avm bleed
+newborn
+ampullary mass sda
+hypotension
+syncope
+aortic dissection
+bowel obstruction
+tibial plateau fracture
+gastrointestinal bleed
+lead fracture lead extraction w reimplantation sda
+s o motor vehicle accidemt
+pneumonia
+congestive heart failure
+respiratory distress
+fever
+stroke telemetry transient ischemic attack
+ischemic foot
+newborn
+pneumonia
+cholecysitis
+altered mental status
+airway obstruction bronchoscopy w stent removal
+chest pain
+coronary artery disease coronary artery bypass graft sda
+blunt trauma
+asthma chronic obst pulm disease
+brain tumor sda
+respiratory failure
+neutropenia esophegeal cancer
+abdominal pain
+multifocal atrial tachycardia
+dyspnea
+pneumonia cellulitis
+coronary artery disease
+asthma copd exacerbation
+aortic stenosis aortic valve replacement w coronary artery bypass graft sda
+subarachnoid hemorrhage
+congestive heart failure
+pneumonia
+oa left hip sda
+gangrene of scrotum
+subarachnoid hemorrhage
+heparin infusin s p ivc filter placement
+mesenteric ischemia
+upper gi bleed
+respiratory failure
+gastrointestinal bleed pneumonia
+tracheal stenosis
+large b cell lymphoma
+intracranial hemorrhage
+lower gi bleed
+sternal wound sda
+fever origin unknown hypotension
+hepatitis
+cardiac arrest
+gi bleed sda
+st elevated myocardial infarction
+aneursym sda
+anterior communicating artery aneursym sda
+ascending aorta bental procedure sda
+cervical myelopathy
+gastrointestinal bleed
+acute renal failure congestive heart failure
+intracranial hemorrhage
+cholecystitis
+seizure
+sepsis
+pneumonia
+pneumonia abdominal distention
+brain mass
+pneumonia
+gastrointestinal bleed acute renal failure
+coronary artery disease
+anemia
+drug refractory atria fibrillation pulmonary vein isolation remote west sda
+upper gi bleed
+coronary artery disease coronary artery bypass graft sda
+lower gastrointestinal bleed
+sepsis
+necrotizing fascitis
+congestive heart failure
+altered mental status
+angioedema
+dyspnea
+pneumonia seizure fall
+ar aortic valve replacement sda
+coronary artery disease
+lower gi bleed
+coronary artery disease
+cerebral aneurysm sda
+hydronephrosis routine percutaneous nephrostomy tube change perform renal biopsy right kidney remote west 
+coronary artery disease coronary artery bypass graft
+congestive heart failure exacerbation r o mi
+ventricular tachycardia
+pneumonia
+brain tumor sda
+hypotension
+gi bleed
+hypotension telemetry
+cardiac arrest
+primary scleorsing cholangitis
+unstable angina
+myocardial infarction cath
+respiratory failure
+st elevation myocardial infarction left heart catheterization
+lung nodule left sda
+lumbar stenosis sda
+chest pain cath
+abdominal aortic aneurysm severe iliac disease sda
+acute coronary syndrome
+airway obstruction bronchoscopy rigid
+subarachnoid hemorrhage
+pneumonia
+gastrointestinal bleed
+facial trauma
+stroke telemetry
+meningitis
+upper gi bleed
+respiratory failure
+liver failure
+coronary artery disease cabg
+sepsis
+cellulitis
+aortic dissection
+coronary artery disease cath
+brain mass
+acute renal failure hyperkalemia
+hypertensive emergency
+chest pain cath
+pneumonia acute renal failure
+coronary artery disease aortic stenosis
+coronary artery disease left heart cath
+heart failure
+symtomatic fibroids sda
+lower gi bleed
+epidural hematoma
+pelvic abscess
+copd exacerbation aspiration
+influenza pneumonia
+pneumonia
+perforated diverticulitis status post hartmann procedure sda
+cirrhosis ascites
+s p fall seizure
+tremor
+lung cancer sda
+slurred speech
+septic shock
+chronic ulcerative colitis sda
+liver failure
+syncope telemetry
+s p motor vehicle accident chest trauma
+acute renal failure
+head bleed
+pancreatitis
+osteomyelitis right leg
+stridor sda
+aortic dissection
+gastrointestinal bleed
+diverticulitis sda
+rib fractures pneumothorax
+abdominal pain
+bright red blood per rectum lower gi bleed
+coronary artery disease
+asthma
+gi bleed
+back pain
+pneumonia
+congestive heart failure
+aortic stenosis aortic valve replacement
+aortic regurgitation coronary artery disease gastrointestinal bleed
+esophageal varices
+s p fall splenic laceration
+blunt trauma
+carotid stenosis
+ascending cholangitis
+sepsis
+gastrointestinal bleed
+myocardial infarction cath
+vt syncope
+pneumothorax
+aortic stenosis aortic valve replacement
+intraparenchymal hemorrhage
+chf r o mii
+atrial septal defect repair atrial septal defect limited access sda
+lower gastrointestinal bleed
+chest pain coronary artery disease cardiac cath
+liver failure
+fever
+sepsis
+pneumonia
+altered mental status
+aortic insufficiency
+coronary artery disease
+squamous cell cancer of hypo pharynx sda
+pneumonia pace maker replacement
+renal calculus
+s p motor vehicle accident
+acute renal failure
+left upper pole renal lesion sda
+upper gi bleed
+gastroparesis
+fever
+syncope telemetry
+abdominal pain
+pneumonia
+right foot ulcer w cellulitis
+aortic stenosis aortic valve replacement bental procedure sda
+brain tumor sda
+pulmonary embolism subdural hematoma
+r o pulmonary embolis femur fx
+sepsis
+coronary artery disease coronary artery bypass graft sda
+acute respiratory distress syndrome acute renal failure
+lumbar spinal stenosis sda
+spinal cord compression
+coronary artery disease
+esophageal variles bleeding
+coronary artery disease coronary artery bypass graft sda
+prolapse uterus
+gastrointestinal bleed
+asthma copd exacerbation
+subarachnoid hemorrhage
+coronary artery disease coronary artery bypass graft sda
+shortness of breath hyperkalemia telemetry
+seizure hyponatremia
+pancreatitis
+ventricular tachycardia
+upper gastrointestinal bleed
+coronary artery disease coronary artery bypass graft sda
+asthma copd exacerbation
+elevated fevers liver masses
+dyspnea
+heroin overdose ards
+back pain
+hyperkalemia heart block
+pneumonia
+sepsis renal failure
+coronary artery disease
+atrial fibrillation congestive heart failure
+gastrointestinal bleed
+leukemia pneumonia
+tracheobronchiomalacia sda
+left non healing foot ulcer
+upper gastrointestinal bleed
+seizures
+endocarditis
+intracranial bleed
+sepsis telemetry
+intracranial hemorrhage
+tracheobronchomalacia sda
+l sided pneumonia esrd
+esophageal exclusion s p repair of transesophageal fistula sda
+cirrhosis etoh withdrawal
+chest pain
+choleduodenal fistula sda
+mitral stenosis minimally invasive micro valve replacement
+sepsis
+coronary artery disease chest pain cath with intervention
+post cath
+congestive heart failure
+s p motor vehicle accident
+non ste mi
+bronchial lesion
+abdominal pain
+pneumonia
+aortic stenosis aortic valve replacement sda
+hypotension
+upper gastrointestinal bleed
+right hip oa sda
+stroke telemetry transient ischemic attack
+oa right knee sda
+hepatic encephalopathy
+sepsis
+pneumonia
+meningitis
+chest pain cath
+atrial fibrillation congestive heart failure
+esophageal cancer sda
+stridor
+myocardial infarction cath
+sepsis
+liver transplant
+pancreatic tumor
+airway obstruction
+subarachnoid hemorrhage
+respiratory failure
+chest pain
+head bleed
+thoracic aneurysm
+sepsis
+abdominal pain nausea vomiting
+weakness
+carotid stenosis sda
+antifreeze ingestion
+intercranial hemorrhage
+rectal prolapse
+trauma
+anaphylaxis
+left ankle fracture infection
+anemia
+pneumonia telemetry
+pneumosepsis
+femur fracture elbow fracture
+fever rule out myocardial infarction
+tracheomalacia rigid bronchoscopy with stent removal laser resection sda
+acute renal failure
+r o head bleed s p kidney tx
+seizure
+coronary artery disease
+trauma head injury multi fractures
+type a dissection
+mitral valve disease
+abdominal pain
+aneurysm
+s p motor vehicle accident
+unstable angina
+atrial fibrillation pneumonia
+anticoagulation
+septic shock
+rhabdomyalasis telemetry
+urinary incontinence renal calculus renal obstruction sda
+subarachnoid hemorrhage
+congestive heart failure
+pneumocystis pneumonia
+stroke telemetry transient ischemic attack
+coronary artery disease cath
+tracheal stenosis
+gangrenous right leg
+altered mental status
+sepsis
+altered mental status
+right femur fracture
+av fistula hemodynamic instability
+iliac artery aneurysm sda
+st elevation mi
+aortic tear
+seizure chest pain
+cholangitis
+chest pain non q wave myocardial infarction cardiac cath
+liver failure
+dehydration nausea anemia gi bleed
+congestive heart failure urinary tract infection
+s p motor vehicle accident
+status post c t fusion status post fall with fracture
+traumatic brain injury
+shortness of breath
+subarachnoid hemorrhage
+chest pain telemetry rule out myocardial infarction telemetry
+altered mental status
+pedestrian struck
+spontaneous bacterial peritonitis
+epidural
+nstemi chf exacerbation
+congestive heart failure biventricular icd implantation
+urinary tract infection bradycardia altered mental status
+lgib
+seizure
+post ercp
+intracranial hemorrhage
+stroke telemetry transient ischemic attack
+pneumonia
+pulmonary embolis
+av block cardiac cath
+abdominal pain
+pituitary abscess
+cerebral contusion
+stroke telemetry transient ischemic attack telemetry
+sepsis
+mitral valve insuffcency mitral valve replacement heart port minimally invasive sda
+congestive heart failure copd
+pulmonary embolus
+foramen ovale defect patent foramen ovale minimally invasive
+pancreatic tumor sda
+subdural hematoma
+intracerebral hemorrhage sah sdh
+chest pain
+abdominal aortic aneurysm
+rib fractures
+failure to thrive
+symptomatic cholelithiasis
+cad as coronary artery bypass graft aortic valve replacement sda
+jaundice pancreatic ca fever
+congestive heart failure
+coronary artery disease coronary artery bypass graft sda
+osteoarthritis left hip sda
+abdominal pain
+coronary artery disease coronary artery bypass graft mitral valve replacement sda
+s p liver transplant question rejection
+chest pain
+shock telemetry
+pelvic mass sda
+hypothermia
+hypercapnia
+abdominal pain
+constipation dehydration
+wound infection
+overdose hypotension
+coronary artery disease
+mr mitral valve replacement minimally invasive approach sda
+st changes
+coronary artery disease coronary artery bypass graft sda
+hypercalcemia
+carotid angiogram carotid angiogram
+pneumonia
+acute renal failure congestive heart failure pericardial effusion
+mitral valve insufficiency mitral valve replacement sda
+gastrointestinal bleed
+sepsis
+coronary artery disease angioplaty w stent placement of left circumflex
+bilateral pulmonary embolism
+multiple stab wounds
+pneumonia
+intracranial hemorrhage
+blunt trauma
+elevated white blood count
+congestive heart failure
+abdominal aortic aneurysm sda
+appendicitis
+mental status changes
+rectal ca gib
+coronary artery disease right heart cath
+aortic valve insuficiency aortic valve replacement mvr sda
+pleural effusion
+pneumonia
+congestive heart failure
+esophageal cancer sda
+abdominal abscess
+coronary artery disease coronary artery bypass graft sda
+acute subdural hematoma
+coronary artery disease coronary artery bypass graft sda
+newborn
+unstable angina
+chest pain hypotension
+leg wound
+aortic stenosis aortic valve replacement sda
+fever
+blunt trauma
+tachycardia hypotension pneumonia
+afib w rvr anemia pneumonia
+facial fracture orbital fracture
+pneumonia
+aortic stenosis aortic valve replacement
+coronary artery disease coronary artery bypass graft sda
+intraparenchymal hemorrhage
+coronary artery disease
+subdural hematoma
+unstable angina
+acute myocardial infarction
+coronary artery disease
+sepsis
+etoh intoxication intubated
+gunshot wounds
+laryngeal mass
+aortic insufficiency aortic valve replacement redo sda
+stroke tia
+hypotension
+pancreatitis
+chest stab wounds
+pelvic mass sda
+congestive heart failure
+pneumonia
+rectal cancer sda
+non healing ulcer right lower extremioty
+hypotension
+aortic stenosis ar aortic valve replacement mitral valve replacement sda
+mvc trauma
+coronary artery disease coronary artery bypass graft sda
+chronic obst pulm disease respiratory failure
+coronary artery disease
+ aortic dissection
+altered mental status
+question sepsis
+vomiting
+sepsis
+asthma chronic obst pulm disease
+sepsis
+congestive heart failure
+pericardial effusion
+alcohol withdrawal
+right femoral tibial stenosis
+epiglotitis
+sepsis
+congestive heart failure right heart cath swan line
+chest pain
+shunt infection
+angina cath
+aortic stenosis aortic valve replacement maze sda
+carotid stenosis sda
+claudication sda
+pv thrombosis raf pna
+fever
+wound dehiscence
+coronary artery disease aortic stenosis
+intracerebral hemorrhage
+obstruction
+subglottic stenosis
+tracheomalacia
+congestive heart failure
+coronary artery disease aortic valve ascending aorta replacement coronary artery bypass graft sda
+cardiac arrest
+pancreatitis acute renal failure diabetic keto acidosis
+coronary artery disease myocardial infarction
+angina
+cellulitis deep vein thrombosis
+asthma chronic obst pulm disease
+pnemonia
+upper gi bleed
+sepsis
+urosepsis respiratory distress
+coronary artery disease
+intramural hematoma ascending aorta
+acute coronary syndrome
+brain mass sda
+gun shot wound
+congestive heart failure
+sepsis
+st elevated myocardial infarction
+chest pain
+abdominal aortic aneurysm sda
+hyponatremia
+cholecystitis
+head bleed
+congestive heart failure
+subdural bleed
+trachealbronchomalacia sda
+pancreatitis
+pneumonia
+aspiration pneumonia
+endometrial cancer sda
+recurrent endocarditis enlarged aortic root bental procedure homograft redo sda
+s p notor vehicle accident
+unstable angina mitral regurgitation cath
+post procedure endoscopic retrograde cholangiopancreatography
+respirtory failure
+chest pain tia
+acute respiratory failure amr
+occluded av graft
+coronary artery disease coronary artery bypass graft sda
+seizures
+sepsis
+chest pain
+urosepsis
+shortness of breath
+lower gi bleed
+cellulitis left lower extremity sd
+fever
+newborn
+pneuosepsis heart failure
+edema
+coronary artery disease
+afib pharmacological nonpharmacological management afib
+hepatic encephalopathy nstemi
+atrial septal defect repair atrial septal defect limited access sda
+head trauma
+anemia
+coronary artery disease
+myocardial infarction cath
+cerebral infarction
+pancreas tx
+chest pain aortic stenosis congestive heart failure
+shock rhabdomyolsis rf sda
+fulminant hepatitis
+hyperemesis
+mitral valve insufficiency mitral valve repair replacement sda
+cervical spondylosis sda
+myasthenia gravis telemetry
+sepsis
+hemoptysis
+acute renal failure
+cellulitis sepsis
+coronary artery disease coronary artery stenting
+blunt trauma
+cervical cancer
+coronary artery disease coronary artery bypass graft sda
+dyspnea
+newborn
+descending thoracic aorta aortic valve replacement w ascending aortic graft bypass to thoracic descending aorta sda
+coronary artery disease coronary artery bypass graft sda
+upper gi bleed
+parietal bleed
+multiple sclerosis
+lower gi bleed
+intracranial hemorrhage
+cholangitis
+liver transplant rejection
+acute subdural hematoma
+aneurysym sda
+pancreatitis
+diabetes mellitus pre op pancreas transplant
+chest pain cath
+abdominal aortic aneurysm sda
+subdural hemorrhage
+neutropenia
+weakness r o meningitis 
+thoracic aneurysm
+airway obstruction bronchoscopy flexible and rigid stent removal cryo therapy
+acute subdural hematoma
+dyspnea
+liver failure
+pneumonia
+aortic stenosis mitral regurgitation aortic and mitral valve replacement
+subdural hematoma intraparenchymal hemorrhage
+coronary artery disease coronary artery bypass graft sda
+acute respiratory failure
+t spinal cord compression and cellulitis
+cholecystitis
+upper bi bled sda
+meningitis
+motor vehicle accident with unspecified injuries
+upper gi bleed telemetry
+gastrointestinal bleed
+l metastosis sda
+airway obstruction bronchoscopy rigid w y stent placement
+rule out myocardial infraction
+congestive heart failure a fib vs atrial tachucardia
+head mass
+aortic stenosis aortic valve replacement ascending aorta replacement coronary artery bypass graft
+jaundice s p ercp
+pneumonia
+trauma
+tracheal stenosis
+gastrointestinal bleed
+mitral stenosis mitral valve replacement sda
+head bleed
+ventricular tachycardia
+coronary artery disease cath
+unstable angina cath
+retroperitoneal bleed
+coronary artery disease coronary artery bypass graft homograft root replacement sda
+pneumonia
+cholangeal carcinoma sda
+fever
+head bleed
+intrahepatic biliary dilation
+depressed skull fracture
+scoliosis sda
+behydration
+complete heart block
+chf exacerbation end stage renal disease
+renal mass sda
+upper gi bleed
+hypotension
+fever
+stroke telemetry transient ischemic attack
+aortic stenosis aortic valve replacement sda
+anemia methicillin resistant staph aureus
+occluded celiac artery sda
+lower gastrointestinal bleed
+renal failure
+new cva
+upper gi bleed
+pancreatic mass sda
+copd exacerbation
+metastatic sarcoma superior venal cav syndrome
+meningitis
+bleeding from dialysis catheter
+valproate overdose
+type a dissection
+intracranial hemorrhage
+coronary artery disease coronary artery bypass graft
+coronary artery disease
+lung cancer sda
+cad and mitral stenosis coronary artery bypass graft with mvr sda
+kyphosis sda
+abdominal pain
+acute renal failure
+atrial fibrillation atrial fibrillation ablation
+hypoxia morbid obesity
+acute cholecystitis
+esophageal ca sda
+stemi
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease cardiac cath
+chronic aspiration dysphagia sda
+colon cancer sda
+cord compression
+newborn
+pneumonia
+pneumonia cellulitis
+splenic laceration seizure tongue laceration
+sepsis
+seizures
+subdural hematoma
+intraparenchymal hemorrhage
+endocarditis
+distal bile duct tumor pancreatic ca sda
+cold foot
+urinary tract infection altered mental status
+pleural effusion
+gi bleed
+cardiogenic shock
+shortness of breath cath renal angiogram
+upper gi bleed
+sepsis
+ rd degree heart block aortic vegetation
+pneumonia
+end stage renal diesease dialysis catheter placement
+upper gi bleed
+acute coronary disease
+hypertensive emergency
+ascites
+cardiac tamponade
+pneumonia
+retroperitoneal bladder rupture
+sepsis
+aortic stenosis avr coronary artery bypass graft sda
+gastrointestinal bleed
+aortic stenosis aortic valve replacement
+large villous adenoma sda
+congestive heart failure
+congestive heart failure
+cholangitis ercp
+chest pain telemetry
+chest pain left heart catheterization
+gastrointestinal bleed
+kypho scoliosis spinal stenosis sda
+acute coronary syndrome
+hypothermia hypoglycemia
+ste myocardial infarction
+abdominal pain
+right lung cancer
+coronary artery disease
+respiratory distress
+gastrointestinal bleed
+asthma copd exacerbation trabeculectomy phaco left eye
+syncope telemetry
+intracranial hemorrhage gastrointestinal bleed
+blunt trauma
+sepsis
+aortic stenosis coronary artery bypass graft with avr sda
+cardiac arrest
+left hip fracture
+gastrointestinal bleed chest pain telemetry shortness of breath
+sepsis
+head injury
+gi bleed
+ms changes
+pneumonia
+sob telemetry
+pneumonia
+pancreatitis
+free air abdomen
+liver failure
+trauma
+smoke inhalation
+pneumonia
+hemothorax
+congestive heart failure
+vtach catherization
+respiratory distress pneumonia
+pneumoperitoneum
+right ankle infection
+recurrent breast cancer right axilla chest sda
+coronary artery disease
+pedestrian struck
+mental status change
+aortic stenosis aortic valve replacement sda
+gastrointestinal bleed
+pineal region tumor sda
+coronary artery disease cath
+liver failure
+intraparenchymal hemorrhage
+wound infection telemetry
+pneumonia
+aortic dissection
+sepsis
+chest pain
+pancreatitis
+subarachnoid hemorrhage
+cholangitis
+pneumonia chf
+dementia falls
+intracranial hemorrhage
+uti urinary retention
+cryptogenic cirrhosis
+fall
+coronary artery disease congestive heart failure cath
+ampulary adenoma sda
+coronary artery disease
+coronary artery disease
+subdural hematoma
+pancreatitis
+splenic laceration
+pneumonia
+overdose
+upper gi bleed
+intracranial hemorrhage
+thrombocytopenia
+crash injury forearm
+urosepsis
+abdominal pain
+respiratory failure
+subarachnoid hemorrahage
+anemia
+abdominal pain
+pmeumonia
+fever
+esophageal ca sda
+myocardial infarction
+chr sda
+coronary artery disease
+status epilepticus
+ sternal wound infection
+anomolous rca
+pneumonia
+aortic stenosis aortic valve replacement ascending aortic aneurysm repair sda
+hypoxic pulmonary hypertension
+disc degeneration lumbar spine sda
+stemi cath
+bullous lung disease
+pneumonia
+crohns stricture of colon sda
+tracheal stenosis amyloidsis suspension laryngoscopy sda
+abdominal pain
+coronary artery disease coronary artery bypass graft sda
+upper respiratory infection pyelonephritis
+seizure
+s p liver tx nausea vomiting abdominal pain
+s p bka gangrene left foot sda
+pneumonia congestive heart failure
+pneumonia telemetry
+abdominal pain
+chest pain
+sepsis
+copd exacerbation
+endocarditis pericardial effusion
+ventricular tachycardia
+congestive heart failure
+hemothorax
+fever
+severe as aortic valve replacement sda
+sepsis
+chest pain
+urinary tract infection altered mental status
+altered mental status
+cardiac arrest
+ca of tongue sda
+lower gi bleed
+intracranial hemorrhage
+coronary artery disease coronary artery bypass graft with maze left atrial appendage ligation sda
+non st elevation myocardial infarction syncope cardiac catheterization
+knee pain
+fluid overload
+asthma copd exacerbation
+aortic stenosis aortic valve replacement sda
+exercional chest pain cath
+abd wound
+living adult liver donor sda
+aortic stenosis aortic valve replacement cabg sda
+leukemia sepsis
+cerebralvascular accident
+chronic obst pulm disease bilat pneumonia
+subarachnoid hemorrhage telemetry
+congestive heart failure
+cerebral vascular accident
+bladder cancer sda
+newborn
+sepsis
+intracranial hemorrhage
+coronary artery disease
+hypoxia
+hypotension
+aortic stenosis aortic valve replacement redo sda
+weakness
+newborn
+overdose
+melanoma left wrist sda
+brain mass sda
+non st elevation mi
+pneumonia
+hypotension
+coronary artery disease off pump coronary artery bypass aortic valve replacement
+coronary artery disease right and left heart cath
+lt scrotal abcess
+disseminated zoster
+urinary tract infection pyelonephritis
+pleural effusion
+nausea vomiting
+gangrene l leg
+colon ca of cecum sda
+altered mental status
+acute coronary syndrome
+ coronary artery bypass graft sda
+hypoxia benzo overdose
+left knee osteoartrosis unspecificed rather generalized or localized involving lower leg sda
+myelodysplastic syndrome
+middle cerebral artery aneurysm
+dyspnea
+coronary artery disease cath subclavian intervation
+lynphoma tuberculosis
+ esophageal fb poss mediastinitis
+aortic valve disease coronary artery bypass graft with avr sda
+gastrointestinal bleed
+brain tumor sda
+pericardial effusion
+pneumonia deep vein thrombosis acute renal failure
+lower gastrointestinal bleed
+s p motor vehicle accident
+abdominal pain
+fever
+crushing injury right leg
+liver mass back pain
+fever s p liver transplant
+chest pain
+cervical spine fracture
+aortic regurgitation aortic valve replacement sda
+fever cellulitis
+stemi
+chest pain
+gastrointestinal bleed
+aortic stenosis aortic valve replacement with homograft sda
+esophageal cancer sda
+pneumonia
+coronary artery disease coronary artery bypass graft sda
+aortic valve stenosis aortic valve replacement w maze
+dystonia s p g tube placement
+urinary tract infection acute renal failure
+pneumonia hypotension
+altered mental status
+upper gi bleed
+coronary artery disease coronary artery bypass graft left ventricular out flow tract mass resection
+newborn
+mitral regurgitation chf
+pmeumonia
+hematuria
+diverticulitis
+sepsis
+chest pain cath
+acute renal failure
+coronary artery disease cath
+liver failure
+lymphoma
+myocardial infarction
+gun shot wound
+pencardial effusion hypoxia
+mitral stenosis mitral valve replacement minimally invasive sda
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease cath
+shortness of breath
+arterioveous malformation
+mi cath
+right hand ischemia sda
+chest pain
+neck pain cord compression on mr
+intracranial hemorrhage
+cholecithiasis
+dehydration
+hypoxia
+short gut syndrome tunnelled catheter
+congestive heart failure
+tachy brady syndrome atrial flutter electrophysiologic study ablation pacemaker implant
+lymphoma
+fibroid bleed
+vfib arrest
+pre op liver transplant
+gastrointestinal bleed
+sepsis
+rretropertonal hematoma fever
+left heel ulcer
+brain tumor
+small bowell obstruction uti
+complete heart block
+dyspnea
+st elevated myocardial infarction
+fever
+cerebral vascular accident
+pancreas transplant
+anemia
+coronary artery disease
+weakness
+gastrointestinal bleed
+chest pain
+cholecystitis
+acute myelogenous leukemia fever neutropenia r o tooth infection
+increasing leg weakness
+abdominal pain
+coronary artery disease coronary artery bypass graft sda
+gastrointestinal bleed
+abdominal pain
+pneumonia
+rectal ca sda
+congestive heart failure
+coronary artery disease coronary artery bypass graft sda
+diabetic ketoacidosis
+hypotension
+bilateral ankle fracture
+aortic stenosis right and left heart cath
+stab wound
+hepatic encephalopathy
+colon cancer
+aneurysm sda
+respiratory failure
+claudication sda
+shortness of breath rule out myocardial infarction telemetry
+s p cardiac arrest
+left frontal lobe mass ataxia
+pnemonia altered mental status
+hypertension chest pain
+arterial thrombosis
+wolff parkinson white syndrome
+thyroid cancer sda
+weakness
+coronary artery disease cath
+inferior stemi
+pulmonary embolus
+coronary artery disease coronary artery bypass graft avr sda
+compression fracture
+airway stenosis
+respiratory failure
+anemia
+brain mass
+altered mental status
+gastrointestinal bleed myocardial infarction
+lower gastrointestinal bleed
+hyperglycemia
+gastrointestinal bleed
+coronary artery disease
+aortic stenosis coronary artery disease coronary artery bypass graft aortic valve replacement sda
+hypernatremia
+biliary colic sda
+coronary artery disease coronary artery bypass graft sda
+non st segment elevation myocardial infarction
+pneumonia
+chest pain
+perirenal bleed hematoma
+syncope
+pneumonia
+liver lacteration
+altered mental status
+sigmoid volvulus
+pericardial abscess
+intraparital hemorrhage
+unstable angina cath
+aortic stenosis coronary artery bypass graft with avr mitral valve replacement sda
+intracranial hemorrhage
+coronary artery disease
+peripheral vascular disease aa runoffs
+seizures multiple sclerosis
+thrombosis of the av fistula
+acute subdural hematoma
+pancreatitis
+pericardial drain
+svc syndrome venous recanalization sda
+liver failure
+coronary artery disease coronary artery bypass graft sda
+abdominal pain
+congestive heart failure
+pulmonary edema
+chest pain
+fever
+chronic obst pulm disease
+congestive heart failure
+complete heart block
+intra abdominal abscess
+cholycystitis
+sepsis
+altered mental status
+heart failure
+gall stones sda
+spinal mass
+acute respiratory distress syndrome
+congestive heart failure
+chronic obstructive pulmonary disease respiratory failure
+lower gi bleed
+facial trauma
+massive ascites
+spinal epidural abcess
+hypotension
+coronary artery disease coronary artery bypass graft sda
+chest pain
+mitral stenosis mitral valve replacement sda
+subdural hematoma
+cerebral bleed
+weakness
+bile duct cancer sphincterotomy
+carotid stenosus elevated creatnine l sda
+renal hemorrhage
+subdural hemorrhage
+acute subdural hematoma
+asthma exacerbation
+hip fracture
+aotric valve disease
+liver failure
+adrenal mass ventral hernia sda
+thoracic aneurysm without rupture aortic valve replacement sda
+hypertensive urency
+coronary artery disease coronary artery bypass graft sda
+altered mental status
+retroperitoneal hematoma
+leg edema cellulitis
+motor vehicle accident with unspecified injuries
+sepsis
+weakness
+respiratory failure
+epidural hematoma
+s p mva rule out myocardial infarction
+ovarian cancer sda
+acute cholecystitis
+gi bleed
+pneumonia
+pneumonia
+ischemic left foot diabetes mellitus
+copd flare
+influenza like illness
+thoraco abdominal aortic aneurysm sda
+mr mitral valve replacement sda
+liver cancer severe mucusitis
+abdominal aortic aneurysm
+congestive heart failure
+diabetic ketoacidosis telemetry
+acute coronary syndrome telemetry
+phlegmasia
+pneumonia dehydration
+subdural hematoma
+congestive heart failure
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease
+altered mental status
+hemoptysis
+abdominal aortic aneurysm sda
+gastrointestinal bleed
+coronary artery disease cath
+congestive heart failure cardiac cath
+aneurysm sda
+upper gi bleed
+acute coronary syndrome
+aortic stenosis
+hip fracture
+chest pain
+perforated bowel
+hypotension etoh withdrawel
+non st segment elevation myocardial infarction
+aortic stenosis aortic valve replacement maze procedure
+aortic disection
+sepsis
+sepsis
+osteoarthrits bilateral knees sda
+pancreas failure
+hypertension
+sepsis
+intra abdominal hemorrhage
+acute myocardial infarction
+chest pain coronary artery disease left heart catheterization
+right hip osteoarthritis sda
+upper gastrointestinal bleed
+fever likely line sepsis
+pneumonia
+subarachnoid hemorrhage
+unstable angina cath
+respiratory failure
+colostomy prolapse rectal stricture sda
+subarachnoid hemorrhage
+subarachnoid hemorrhage
+febrile syndrome dialysis
+chest pain
+coronary artery disease
+chronic neuronal dysplasia bowel
+pancreatic mass sda
+pneumonia boop
+airway obstruction
+endocarditis
+cerebral contusion
+food impaction
+pulmonary embolis
+stab wound to neck
+diabetic ketoacidosis brain mass
+abdominal pain
+subdural hematoma
+degenerative joint disease bilateral knees sda
+mr aortic stenosis afib aortic valve replacement mitral valve replacement maze procedure sda
+liver failure
+deep tissue infection
+upper gi bleed
+chest pain cath
+osteoarthritis bilateral knees sda
+congestive heart failure
+coronary artery disease coronary artery bypass graft sda
+ peritonitis
+aortic stenosis aortic valve replacement sda
+gastrointestinal bleed
+cerebral vascular accident telemetry
+seziure
+aortic stenosis
+hypotension
+chest pain acute mi cath
+coronary artery disease
+non st segment elevation myocardial infarction
+aortic stenosis aortic valve replacement sda
+non healing leg ulcer
+respiratory failure
+sepsis
+nausea w vomiting diarrhea fever etiology unknown
+infected kidney stone
+skull fracture
+pneumonia
+coronary artery disease cath
+bile duct tumor sda
+upper gi bleed
+morbid obesity sda
+congestive heart failure
+sepsis
+seizure
+cardiac arrest
+thoracic metastatic tumor sda
+angina chest pain cath
+subdural hemorrhage s p assault
+esophageal cancer airway obstruction
+complete heart block coronary artery disease renal disease
+intracranial hemorrhage
+respiratory arrest
+overdose
+head trauma
+abdominal pain
+seizures
+rule out bowel perforation
+altered mental status
+upper gi bleed
+chest pain cath
+rectal prolapse
+cellulitis
+cholangioliolitis
+leukemia
+resp failure hypotension pneumonia
+mitral valve endocarditis mitral valve replacement heart port minimally invasive
+lower gi bleed
+intracranial hemorrhage
+abdominal pain
+lethargy
+fungal pneumonia
+motor vehicle accident with unspecified injuries
+non ischemic idiopathic cardiomyopathy
+aspiration pneumonia
+chest pain
+right leg cellulitis
+atrial septal defect repair atrial septal defect redo w right atrial mass excision sda
+pleural effusion
+liver transplant
+pneumonia
+congestive heart failure aortic stenosis corevalve aortic valve replacement
+pneumonia
+myocardial infarction pulmonary edema
+shortness of breath
+mr mitral valve replacement heart port minimally invasive sda
+aortic regurgitation aortic valve replacement redo bental procedure coronary artery bypass graft with mvr
+mitral regurgitation cath
+hepatic encephalopathy
+hepato renal failure
+gastrointestinal bleed
+upper gi bleed
+peripheral edema
+sepsis
+coronary artery disease coronary artery bypass graft sda
+trauma
+intractable epilepsy sda
+pneumonia
+neuroleptic malignant syndrome
+upper gi bleed
+hardware infection
+ascending aneurysm ascendiong aorta hemi arch replacement w deep hyperthermic circulatory arrest sda
+brain stem cva
+carotid stenosis sda
+respiratory arrest
+st elevated myocardial infarction
+flank pain hypotension
+esophageal cencer sda
+pericardial effusion telemetry
+rash
+stroke telemetry transient ischemic attack
+cervical spine instability
+s t elevation myocardial infarction cardiac cath
+st elevation mi cath
+upper gi bleed
+sdhs
+cirrhosis common bile duct stone
+aortic stenosis aortic and mitral valve replacement redo coronary artery bypass graft
+cholangio carcinoma
+pneumonia
+qwave mi telemetry
+mitral stenosis redo mvr coronary artery bypass graft sda
+myocardial infarction cardiac catherization
+pulmonary embolism
+shortness of breath
+abdominal aortic aneurysm abdominal aortic aneurysm repair sda
+coronary artery disease coronary artery bypass graft withradial artery sda
+esophageal ca sda
+chest pain
+abdominal aortic aneurysm sda
+subdural hematoma
+atrial fibrillation bilateral thoracoscopic mini maze procedure with left atrial appendage resection sda
+congestive heart failure
+cholangitis
+aicd firing
+coronary artery disease
+fevers confusion
+bradycardia
+non st elevation myocardial infarction
+stemi
+infection
+sepsis
+s p cva failure to thrive
+sepsis
+subdural hematoma
+fever
+pituitary tumor sda
+acute coronary syndrome
+myocardial infarction cath
+congestive heart failure
+s p mvc syncope
+cardiomyopathy ep study
+carotid stenosis sda
+coronary artery disease coronary artery bypass graft sda
+liver failure
+blunt trauma
+hyponatremia brain mass
+gastrointestinal bleed
+avr aortic valve replacement rd case sda
+abdominal aortic aneurysm sda
+intracranial hemorrhage
+right lung cancer sda
+cellulitis and sepsis
+skull fracture subarachnoid hemorrhage
+coronary artery disease coronary artery bypass graft with avr left atrial appendage ligation
+status epilepticus
+hypotension bradycardia
+acute bilateral sdh
+gi bleed
+intracranial hemorrhage
+subarachnoid hemorrhage
+chest pain cath
+aortic stenosis aortic valve replacement
+coronary artery disease elevated troponin
+pneumonia mental status changes
+intracranial hemorrhage
+acute renal failure
+drug refractory atrial fibrillation pulmonary vein isolation remote west sda
+respiratory distress
+head bleed
+tachycardia
+pericardial effusion
+subarachnoid hemorrhage
+abdominal pain
+rule out myocardial infarction telemetry
+tracheal stenosis sda
+coronary artery disease
+upper gi bleed
+hypoglycemia
+respiratory failure
+tracheal stenosis
+occipital tumor sda
+head injury
+new onset afib leg pain hypoxia
+thoracic aortic aneurysm sda
+intracranial hemorrhage respiratory failure
+gastrointestinal bleed
+thoracic aneurysm thoraco abdominal aneurysm repair sda
+sepsis
+lower gi bleed
+small bowel obstruction
+osteomyelitis
+coronary artery disease cardiac cath
+fever
+cardiomyopathy
+esophageal food impaction
+abdominal pain
+aortic valve disorder re do sternotomy bental procedure sda
+upper gastrointestinal bleed
+sepsis
+chronic obst pulm disease
+multiple icd charges
+chest pain
+coronary artery disease
+seizure
+urosepsis
+rapid afib
+endometritis
+altered mental status
+sepsis
+hypotension
+severe cad tricuspid valve replacement sda
+ankle fracture
+intracranial hemorrhage
+coronary artery disease coronary artery bypass graft sda
+brain mass sda
+lower gi bleed
+status post motor vehicle accident with injuries
+recurrent vt ep study
+pneumonia
+s p motor vehicle accident
+hnnk altered mental status
+upper gi bleed
+urinary tract infection acute renal failure
+leg cellulitis spinal muscular atrophy
+benign prostatic hypertrophy sda
+bladder ca
+stroke telemetry transient ischemic attack
+t spine hardware exposed
+coronary artery bypass graft
+coronary artery disease
+tracheobronchomalacia
+liver transplant
+type a aortic dissection
+heart failure
+pancreatic mass sda
+aortic stenosis aortic valve replacement sda
+lower gi bleed
+cbd stone
+hypotension
+aneurysm sda
+s p motor vehicle accident
+coronary artery disease coronary artery bypass graft
+overdose suicidal ideation
+acetaminophen toxicity
+shortness of breath
+coronary artery disease cath
+mva head bleed
+small bowel obstruction
+chest pain
+subarachnoid hemorrhage
+pericardial effusion
+angina
+stroke
+aortic stenosis coronary artery bypass graft with avr sda
+overdose
+acute renal failure neutropenia cellulitis
+perforation
+chest pain
+urinary tract infection pyelonephritis
+s p mvc subarachnoid hemorrhage
+polytrauma facial trauma
+sepsis
+abdominal pain
+coronary artery disease stress test left heart cath
+superventricular tachycardia non hodgkins lymphomaweakness
+intracranial hemorrhage
+coronary artery disease cath
+right hip fracture sda
+vertebral artery occlusion
+myocardial infarction cath
+neck pain epidural abscess
+thoracic aortic aneursym sda
+urosepsis
+ttp vs hus
+incarcerated hernia
+pancreatitis abdominal pain
+non st segment elevation myocardial infarction
+avr mvr
+scoliosis sda
+left elbow fx sda
+meningioma
+myocardial infarction telemetry
+pelvic fracture
+abdominal pain
+myocardial infarction
+febrile neutropenia sepsis
+mr aortic valve replacement heart port minimally invasive sda
+lower gastrointestinal bleed
+incarcerated mental hernia
+chest pain
+lower gi bleed
+congestive heart failure respiratory failure
+altered mental status
+cholangitis failed ercp
+prostate cancer
+motor vehicle accident injuries telemetry
+new mass
+leukemia
+tracheal stenosis sob bronchoscopy rigid
+hyperkalemia
+pancreatitis
+chest pain
+coronary artery disease coronary artery bypass graft with mvr lvad
+duodenal ulcer
+aortic stenosis aortic valve replacement sda
+hypotension chest pain
+pulmonary hypertension mitral stenosis
+pulmonary edema cardiogenic shock right heart cath
+lower gib
+hemoperitoneum
+carotid artery stenosis carotid angiogram
+sepsis
+parkinson s disease sda
+anemia
+acute renal failure
+newborn
+asthma chronic obst pulm disease
+weakness
+seizure
+coronary artery disease coronary artery bypass graft sda
+fever unknown origin
+pancreatitis
+fever
+post arrest
+congestive heart failure exacerbation
+bradycardia altered mental status telemetry
+multiple stab wounds
+esophage ca sda
+sepsis
+carotid stenosis sda
+newborn
+congestive heart failure
+ventral hernia sda
+pneumonia altered mental status
+gastrointestinal bleeding
+hepatorenal syndrome
+aspirin overdose
+gastrointestinal bleed
+bladder cancer sda
+sepsis
+pulmonary edema cath
+blunt trauma
+pneumonia
+bowel obstruction
+congestive heart failure
+congestive heart failure
+breast cancer ftt
+coronary artery disease
+unstable angina cath
+intracranial hemorrhage
+coronary artery disease
+osteoarthritis bilateral knees sda
+acquired right breast deformity sda
+intracranial hemorrhage
+intracranial hemorrhage
+obstruction
+weakness
+cardiomyopathy
+altered mental status
+popliteal aneurysm left sda
+st elevated myocardial infarction
+necrotizing fasceitis
+stroke tia
+pneumonia
+shortness of breath
+respiratory failure r o tb
+stomach ca sda
+congestive heart failure
+elevated inr hyperkalemia
+failed total hip replacement sda
+sepsis
+subdural hemorrhage
+respiratory distress
+aortic valve disorder aortic valve replacement ascending aorta replacement sda
+l fracture sda
+ascending sinus venus repair anomaly pulmonary vein ascending aortic valve replacement sda
+sternal lesion sternal biopsy
+acute renal failure
+arteriovenous malformation sda
+ugib
+hypotension
+cirrhosis
+stemi
+acute subdural hematoma
+fournier ganggrene
+mitral regurg rheumatic heart disease right heart cath
+diabetic ketoacidosis
+brain tumor sda
+altered mental status
+coronary artery disease coronary artery bypass graft sda
+syncope
+chest pain
+subglottic stenosis
+acom aneurysm sda
+aortic stenosis aortic valve replacement replacment ascending aorta sda
+hypotension
+coronary artery disease
+chest pvd
+gangrene right foot
+stroke
+ped struck
+stroke telemetry transient ischemic attack
+subarachnoid hemorrhage
+altered mental status
+ ett unstable angina cath
+bladder cancer sda
+coronary artery disease coronary artery bypass graft sda
+sepsis renal failure
+cholangitis
+cervical myelopathy sda
+aortic valve replacement
+brain mass
+coronary artery disease coronary artery bypass graft w mvr sda
+chest pain telemetry hypoxia
+sepsis icd lead infection
+left temporal lesion sda
+hypotension
+carcinoid tumor sda
+resp distress
+pancreatitis
+s p kidney transplant elevated creotine
+swallowed plastic spoon
+mitral stenosis mitral valve replacement sda
+neoplasm of heart atrial myxoma removal tricusip valve repair mitral valve rapair pulmonary embolectomy sda
+lumbar stenosis sda
+acending aorta route replacement vs david procedure sda
+lower gi bleed
+metastatic lung ca
+respiratory insufficiency sda
+brain tumor sda
+gastrointestinal bleed
+coronary artery disease off pump coronary artery bypass endoscopic left chest sda
+mitral stenosis mitral valve replacement tri cuspid valve replacement sda
+pulmonary embolis
+sepsis
+hyponatremia
+stroke telemetry transient ischemic attack
+failure to thrive telemetry
+hypotension
+altered mental status
+ischemic colitis
+pneumonia
+non q wave myocardial infarction
+aneurysm sda
+s p blunt trauma to head
+lower gi bleed
+stroke
+liver mass sda
+nephrolithiasis renal insufficiency
+blunt trauma
+stroke telemetry transient ischemic attack
+mental status changes
+lung nodle sda
+diabetic ketoacidosis
+ wks abd pain
+cp fever
+incarcerated hernia
+atrial fibrillation pharmacological non pharm mgmt afib ablation remote west sda
+hypotension
+airway edema
+aortic stenosis cath
+pneumonia
+rectal cancer sda
+chest pain
+scrotal abscess
+status epilepticus
+cellulitis
+subglottic stenosis sda
+narcotic overdose
+leukemia
+intercranial bleed
+stroke telemetry transient ischemic attack
+weakness telemetry
+coronary artery disease coronary artery bypass graft sda
+upper gi bleed
+brain tumor sda
+urosepsis
+asthma copd exacerbation
+plasma cell leukemia fever
+pharyngeal swelling
+chest pain cath
+osteomyelitis ankle fracture
+decompensated congestive heart failure
+respiratory distress diarrhea
+right hip pain sda
+variceal bleed telemetry
+right frontal brain tumor n sda
+pancreas transplant
+right ankle infection
+septic shock
+mental status changes
+gastrointestinal bleed
+coronary artery disease coronary artery bypass graft sda
+tracheostomy
+acute subdural hematoma
+hyponatremia
+coronary artery disease coronary artery bypass graft with avr sda
+chest pain cardiac cath
+asthma copd exacerbation
+renal cancer pericardial fluid
+sepsis
+right ankle equinus sda
+bilateral lower extremity gangrene
+pericardial effusion
+coronary artery disease coronary artery bypass graft with avr sda
+esophageal ca sda
+s p cardiac arrest
+upper gi bleed
+abdominal aortic aneurysm
+acalculus cholecystitis
+upper gastrointestinal bleed
+uppper gi bleed
+bronchial stenosis
+upper gastrointestinal bleed
+cerebral aneurysm
+pneumonia
+complete heart block
+congestive heart failure
+coronary artery disease coronary artery bypass graft sda
+ischemic left foot telemetry
+gastrointestinal bleed
+coronary artery disease
+carotid disease left sda
+aortic dissection
+chest pain positive stress test cath
+aortic stenosis
+sepsis ugib
+dysphagia sda
+coronary artery disease pericardial window w of pleural effusion
+hypertension
+acute subdural hematoma
+percarditis pericardectomy sda
+esophageal ca sda
+pathological fractures to spine
+chest pain
+carotid stenosis carotid angio
+cardiac arrest
+altered mental status
+hypoxia seizures
+pontine bleed
+hypoxia
+angina cath
+fevers
+abdominal pain
+renal cell carcinoma sda
+hematoma
+pmeumonia
+coronary artery disease sda
+hypotension
+neurosaicoiodosis
+newborn
+metastatic melanoma
+non q wave mi
+hypotension
+small bowel obstruction
+pneumonia
+shortness of breath telemetry
+osteomyelitis left foot sda
+unstable angina
+copd exacerbation
+brain mets sda
+fever
+upper gi bleed
+aortic valve disease left and right heart catheterization
+coronary artery disease cp
+trauma
+pneumonia pleural effusion
+cardiac schemia abnormal eletrocardiogram left heart cath
+concussion
+hypoxia shortness of breath
+splenomegaly sda
+asthma copd exacerbation
+intracranial hemorrhage
+acute coronary syndrome
+tachycardia
+abdominal pain
+s p exploratory laparotomy
+liver failure
+coronary artery disease
+aortic stenosis aortic and mitral valve replacement sda
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease coronary artery bypass graft sda
+paratracheal mass sda
+septic knee pneumonia
+abdominal pain pancreatitis
+renal failure anasarca
+ovarian cancer sda
+mitral regurgitation mitral valve replacement w right thoractomy maze
+wound infection
+pancreatitis
+diverticulitis
+cerebral aneurysm sda
+alcoholic hepatitis
+ventricular tachycardia heart failure ventricular tachycardia ablation remote west sda
+ascites
+hemoptysis
+liver failure
+s p motor vehicle accident
+pneumonia
+acute subdural hematoma
+fever of unknown origin
+right sided weakness
+respiratory failure ards
+cellulitis
+fever diarrhea dehydration
+coronary artery disease cath
+pulmonary embolis
+chest pain coronary disease hypertension left heart catheterization
+congestive heart failure
+portal vein thrombosis
+sepsis
+sepsis
+pelvic mass ovarian ca sda
+aortic stenosis cath
+coronary artery disease mitral regurgitation
+femur fracture
+peripheral disease angioplasty stent placement cath
+coronary artery disease
+cholangitis cholecystitis
+failure to thrive anema
+abdominal pain fever
+deep vein thrombosis
+brain tumor sda
+abdominal pain
+congestive heart failure telemetry thorascopic vs left thoracotomy left ventricular epicardial lead placement automatic internal cardiac defibrillator permanent pacemeker generator change
+fever
+drug refractory atrial fibrillation pulmonary vein isolation remote west 
+osteoarthritis leftknee sda
+pancreatitis
+lower gi bleed
+bowel obstruction
+respiratory failure hypotension
+coronary artery disease cath
+coronary artery disease
+back pain
+hematemesis
+perforated gastric ulcer
+intracranial hemorrage
+liver abscess
+hypertension chest pain coronary artery bypass graft sda
+s p motor vehicle accident
+hypotension
+chf pneumonia
+coronary artery disease coronary artery bypass graft sda
+irregular rhythm
+gastrointestinal bleed common variable immunodeficiency
+sepsis
+urosepsis
+pulmonary artery stenosis pulmonary artery resection and repair sda
+asthma copd exacerbation
+lung cancer respiratory failure
+abdominal pain cirrhosis
+mitral regurgitation
+cervical traction
+sepsis
+lower gi bleed
+r o cva chest pain
+altered mental status
+non st elevation myocardial infarction acute coronary syndrome chest pain left heart catheterization
+pancreatic mass sda
+renal cell carcinoma bronchoscopy with pdt
+pedestrian struck
+chest pain
+pre op liver tx
+pneumonia
+fever
+aortic valve disease aortic valve replacement homograft sda
+acute respiratory failure
+hypotension jaundice
+pneumonia
+acute coronary syndrome cath
+coronary artery disease coronary artery bypass graft with avr sda
+liver failure
+pneumonia
+hypotension
+dyspnea renal failure
+volume overload
+left ventricular aneurysm coronary artery disease
+syncope telemetry
+stroke telemetry
+cholangitis
+encephalopathy
+inguinal hernia repair
+ciirrhosis renal failure
+aortic valve disorder aortic valve replacement coronary artery bypass graft sda
+status post colectomy renal failure sepsis
+coronary artery disease myocardial infarction cardiac cath
+angina inferior ischemia cardiac cath
+gastrointestinal bleed
+chest pain cath
+hepatorenal syndrome cirrhosis
+coronary artery disease coronary artery bypass graft sda
+billiary obstruction
+respiratory failure
+small bowel obstruction
+chest pain non q wave mi
+epidural hematoma
+low o saturation acute myeloid leukemia
+stroke telemetry ich
+upper gastrointestinal bleed
+right shoulder dislocation ulnar nerve involvement
+mental status changes
+gastrointestinal bleed
+coronary artery disease
+depressed skull fracture
+gi bleed
+myocardial infarction cath
+dica hematemesis
+gastrointestinal bleed
+c spine fracture
+pneumonia acute renal failure mental status changes
+coronary artery disease cath
+fever mental status changes
+sepsis
+pneumonia
+mitral insufficiency mitral valve repair vs replacement sda
+laryngeal edema
+biliary colic
+cellulitis
+hypotension unstable angina
+c spine fracture
+heart block
+s p motor vehicle accident
+congestive heart failure telemetry transcatheter aortic valve implant tavi with pump stand by corevalve 
+chest pain
+sepsis
+respiratory failure left lower lobe collapse
+tracheo bronchomalacia
+upper gastrointestinal bleed
+aortic stenosis aortic valve replacement redo sda
+subarachnoid hemorrhage telemetry
+coronary artery disease coronary artery bypass graft with mvr vs replacement sda
+fever cough
+pneumonia
+thoracic aneurysm sda
+st segment elevation myocardial infarction diabetic ketoacidosis
+subdural hematoma
+hematoma of chest
+right frontal sinus fracture
+pneumonia
+c spine fx
+unresponsive
+coronary artery disease coronary artery bypass graft sda
+hypercarbic respiratory failure pulseless electrical
+mvr tvr
+respiratory failure
+encephalophathy
+upper gi bleed
+left hip osteoarthritis sda
+liver failure
+ischemic foot
+rectal ca sda
+pneumonia
+motor vehicle accident
+gastrointestinal bleeding
+cholecystitis
+intracranial hemorrhage
+subarachnoid hemorrhage
+abdominal pain
+av fistuala sda
+s p liver nausea vomiting diarrhea
+aortic insufficiency bental procedure sda
+gangrene left foot
+coronary artery disease coronary artery bypass graft sda
+coronary artery disease sarcoidosis coronary artery bypass graft lymph node biopsy location p m will cb sda
+pneumonia renal failure
+st elevation mi
+chest pain usa
+foreign body in esophagus
+chest pain cath
+cerebellar tumor sda
+unstable angina asthma bronchitis
+dissecting ascending aortic aneurysm
+failed total hip right sda
+mitral valve replacement mitral valve replacement
+endocarditis tricuspid valve replacement
+atrial mass right excision atrial mass right sda
+acute myocardial infarction pneumonia congestive heart failure
+headache
+stroke telemetry transient ischemic attack
+ weeks twins preclampsia
+dyspnea hemoptysis hiv
+altered mental status
+coronary artery disease
+ventricular tachycardia ventricular tachycardia ablation remote west sda
+sepsis telemetry
+acute mi
+hypotension line sepsis renal failure
+head mass uti
+aortic enteric fistula
+positive ett cath
+lung ca sda
+hyperglycemia
+upper gi bleed
+pneumonia
+resp failure
+encephalopathy
+ascites abdominal pain
+sternotomy wound infection
+upper gi bleed
+morbid obesity sda
+stroke tia
+rhabdo telemetry
+upper gastrointestinal bleed
+subdural hematoma
+chf arf stroke
+cirrhosis ascites
+abdominal pain
+angio ademia
+acute renal failure
+altered mental status
+chronic immune demyelinating polyneuropathy
+sympromatic fibroids sda
+newborn
+coronary artery disease
+sternal fracture rib fracture lacerations
+cold left foot
+dyspnea
+new brain mass
+r o pericarditis urosepsis
+altered mental status
+pancreatic ca sda
+upper gi bleed
+bradycardia dyspnea
+s p cardiac arrest
+carotid stenosis r sda
+frontal tumor sda
+incarcerated hernia
+ventricular tachycardia
+cholecystitis cardiomyopathy
+status post cardiac arrest
+respiratory arrest
+upper gi bleed
+thoracic aortic aneurysm
+altered mental status
+sepsis
+angioedema telemetry
+head injury
+tracheal bronchial malacia sda
+fever acute lymphatic leukemia
+abdominal aortic aneurysm
+cardiac arrest iph
+cholangitis
+weakness
+small bowel obstruction
+small bowel obstruction
+newborn
+spleniclymphoma sda
+aortic insufficiency bental procedure sda
+pleural effusion sda
+essential tremor sda
+electrolyte imbalance
+acute coronary syndrome diabetic ketoacidosis
+heart failure
+infected right foot 
+coronary artery disease coronary artery bypass graft sda
+respiratory failure septic shock
+abdominal aortic aneurysm sda
+ruptured aaa
+congestive heart failure s p avr
+sepsis
+pneumonia
+colon cancer
+upper gatrointestinal bleeding
+severe aortic stenosis s p cabg cath
+pain control
+esophageal ca sda
+v fib arrest
+chest pain left heart cath
+hypoxia hypotension
+status epilepticus
+cholangitis
+encephalopathy
+cholangitis bile duct obstruction
+congestive heart failure
+gastrointestinal bleed
+nstemi acute spine fracture
+pneumonia
+duodenal perforation
+aortic stenosis aortic valve replacement
+b blocker benzo od
+hypercarbic respiratory failure
+hypernatremia fevers
+coronary artery disease coronary artery bypass graft sda
+ascending aorta replacement ascending aorta hemi arch coronary artery bypass graft with avr sda
+upper gi bleed
+ekg changes
+cholangitis
+head bleed open skull fracture
+polysubstance overdose
+lung ca sda

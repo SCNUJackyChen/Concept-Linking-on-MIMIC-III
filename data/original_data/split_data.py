@@ -140,24 +140,47 @@ def split_data(src_file, un_repeat, add_dia, add_desc, add_text, add_father, fat
     print('处理并写出数据完成\n')
 
 
-# 写diagnosis--disease全数据
-full_file = os.path.abspath('.') + '\\processed_data\\diagnosis-2-disease-filter.csv'
-out_path = os.path.abspath('.') + '\\split_data\\dia--dis\\full'
-split_data(full_file, False, True, False, False, False, True, 100, out_path)
+src_path = os.path.abspath('.') + '\\processed_data\\'
+tgt_path = os.path.abspath('.') + '\\split_data\\'
+disease_or_procedure = 'procedure'
 
-# 写diagnosis--disease top50数据
-full_file = os.path.abspath('.') + '\\processed_data\\diagnosis-2-disease-filter-50.csv'
-out_path = os.path.abspath('.') + '\\split_data\\dia--dis\\top50'
-split_data(full_file, False, True, False, False, False, True, 100, out_path)
+if disease_or_procedure == 'disease':
+    # 写diagnosis--disease全数据
+    full_file = src_path + 'diagnosis-2-disease-filter.csv'
+    out_path = tgt_path + 'dia--dis\\full'
+    split_data(full_file, False, True, False, False, False, True, 100, out_path)
 
-# 写diagnosis+description--disease 全数据
-full_file = os.path.abspath('.') + '\\processed_data\\diagnosis-2-disease-filter.csv'
-out_path = os.path.abspath('.') + '\\split_data\\dia-desc--dis\\full'
-split_data(full_file, False, True, True, False, False, True, 100, out_path)
+    # 写diagnosis--disease top50数据
+    full_file = src_path + 'diagnosis-2-disease-filter-50.csv'
+    out_path = tgt_path + 'dia--dis\\top50'
+    split_data(full_file, False, True, False, False, False, True, 100, out_path)
 
-# 写diagnosis+description--disease top50数据
-full_file = os.path.abspath('.') + '\\processed_data\\diagnosis-2-disease-filter-50.csv'
-out_path = os.path.abspath('.') + '\\split_data\\dia-desc--dis\\top50'
-split_data(full_file, False, True, True, False, False, True, 100, out_path)
+    # 写diagnosis+description--disease 全数据
+    full_file = src_path + 'diagnosis-2-disease-filter.csv'
+    out_path = tgt_path + 'dia-desc--dis\\full'
+    split_data(full_file, False, True, True, False, False, True, 100, out_path)
 
-# TODO 写diagnosis--procedure的全数据、top5数据、+description数据
+    # 写diagnosis+description--disease top50数据
+    full_file = src_path + 'diagnosis-2-disease-filter-50.csv'
+    out_path = tgt_path + 'dia-desc--dis\\top50'
+    split_data(full_file, False, True, True, False, False, True, 100, out_path)
+else:
+    # 写diagnosis--procedure 全数据
+    full_file = src_path + 'diagnosis-2-procedure-filter.csv'
+    out_path = tgt_path + 'dia--pro\\full'
+    split_data(full_file, False, True, False, False, False, True, 100, out_path)
+
+    # 写diagnosis--procedure top50数据
+    full_file = src_path + 'diagnosis-2-procedure-filter-50.csv'
+    out_path = tgt_path + 'dia--pro\\top50'
+    split_data(full_file, False, True, False, False, False, True, 100, out_path)
+
+    # 写diagnosis+description--procedure 全数据
+    full_file = src_path + 'diagnosis-2-procedure-filter.csv'
+    out_path = tgt_path + 'dia-desc--pro\\full'
+    split_data(full_file, False, True, True, False, False, True, 100, out_path)
+
+    # 写diagnosis+description--procedure top50数据
+    full_file = src_path + 'diagnosis-2-procedure-filter-50.csv'
+    out_path = tgt_path + 'dia-desc--pro\\top50'
+    split_data(full_file, False, True, True, False, False, True, 100, out_path)

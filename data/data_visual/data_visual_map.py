@@ -64,5 +64,5 @@ class InputTargetLengthVisual(object):
         显示柱状图和直方图
         :return: 显示输入序列和目标序列长度的直观柱状图和长度统计直方图及概率图
         """
-        self._bar_map()  # TODO 针对长度直方图因数据过多导致画图较慢较卡的情况，考虑采用seaborn模块画图
+        # self._bar_map()  # TODO 针对长度直方图因数据过多导致画图较慢较卡的情况，考虑采用seaborn模块画图
         self._his_map()
