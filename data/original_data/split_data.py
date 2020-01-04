@@ -129,7 +129,7 @@ def split_data(src_file, un_repeat, add_dia, add_desc, add_text, add_father, fat
     with open(out_path + '\\infer-con.txt', mode='w', encoding='utf-8') as infer_con:  # 写测试concept数据
         for idx, i in enumerate(infer_y):
             infer_con.write(i[0])
-            if idx != len(val_infer_y) - 1:
+            if idx != len(infer_y) - 1:
                 infer_con.write('\n')
     with open(out_path + '\\infer-father.txt', mode='w', encoding='utf-8') as infer_father:  # 写测试concept父概念数据
         for idx, i in enumerate(infer_y):
