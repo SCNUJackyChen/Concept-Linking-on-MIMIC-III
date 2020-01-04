@@ -2,20 +2,23 @@
 
 r"""
 - 连接MIMIC-III Postgres数据库;
-- 从数据库检索指定的数据
+- 从数据库检索指定的数据 diagnosis--disease
 - 保存在本地.csv文件夹
 """
 
 import psycopg2
 import csv
-from tqdm import *
+from tqdm import tqdm
 import re
 import locale
 import decimal
 from decimal import Decimal
-from ICD_9_Ontology import ICD_9_Ontology
 import csv
 import os
+import sys
+sys.path.append(os.path.abspath('..'))
+from data.original_data.ICD_9_Disease.ICD_9_Ontology import ICD_9_Ontology
+from data.original_data.ICD_9_Disease.Concept import Concept
 
 
 class Diagnosis2Diseases(object):

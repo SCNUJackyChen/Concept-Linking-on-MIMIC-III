@@ -12,7 +12,7 @@ from sklearn.model_selection import KFold, train_test_split
 from functools import reduce
 import sys
 sys.path.append('..')
-from data_visual.data_visual_map import InputTargetLengthVisual
+from data.data_visual.data_visual_map import InputTargetLengthVisual
 
 un_repeat = False  # 是否对输入序列进行去重
 add_dia = True  # 是否对diagnosis文本加入diagnosis

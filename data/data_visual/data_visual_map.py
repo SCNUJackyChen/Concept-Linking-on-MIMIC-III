@@ -23,7 +23,7 @@ class InputTargetLengthVisual(object):
     def _bar_map(self):
         """
         输入、目标序列长度分布对比柱状图
-        :return:
+        :return: 二者长度对比柱状图
         """
         x = [i for i in range(self.seq_len)]
         plt.bar(x, self.input, label='diagnosis text length', color='blue', width=0.8, alpha=0.5)
@@ -62,7 +62,7 @@ class InputTargetLengthVisual(object):
     def show(self):
         """
         显示柱状图和直方图
-        :return:
+        :return: 显示输入序列和目标序列长度的直观柱状图和长度统计直方图及概率图
         """
-        # self._bar_map()
+        self._bar_map()  # TODO 针对长度直方图因数据过多导致画图较慢较卡的情况，考虑采用seaborn模块画图
         self._his_map()
