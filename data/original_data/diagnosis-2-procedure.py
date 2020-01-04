@@ -2,7 +2,7 @@
 
 r"""
 - 连接MIMIC-III Postgres数据库;
-- 从数据库检索指定的数据
+- 从数据库检索指定的数据 diagnosis--procedure
 - 保存在本地.csv文件夹
 """
 
@@ -13,9 +13,12 @@ import re
 import locale
 import decimal
 from decimal import Decimal
-from ICD_9_procedure import ICD_9_Procedure, Concept
 import csv
 import os
+import sys
+sys.path.append(os.path.abspath('..'))
+from data.original_data.ICD_9_Procedure.ICD_9_procedure import ICD_9_Procedure
+from data.original_data.ICD_9_Procedure.Concept import Concept
 
 
 class Diagnosis2Procedure(object):

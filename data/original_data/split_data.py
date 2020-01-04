@@ -1,7 +1,7 @@
 # coding=utf-8
 
 r"""
-对于处理过的数据拆分为训练（父概念）、验证（父概念）和测试（父概念）数据
+对于处理过的数据拆分为训练（父概念）、验证（父概念）和测试（父概念）数据，包括diagnosis--disease和diagnosis--procedure
 """
 
 import csv
@@ -159,3 +159,5 @@ split_data(full_file, False, True, True, False, False, True, 100, out_path)
 full_file = os.path.abspath('.') + '\\processed_data\\diagnosis-2-disease-filter-50.csv'
 out_path = os.path.abspath('.') + '\\split_data\\dia-desc--dis\\top50'
 split_data(full_file, False, True, True, False, False, True, 100, out_path)
+
+# TODO 写diagnosis--procedure的全数据、top5数据、+description数据
