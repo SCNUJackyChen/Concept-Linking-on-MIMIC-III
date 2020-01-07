@@ -69,19 +69,16 @@ def candidate_con_4_dia(infer_dia, infer_dia_repeat_k, train_con, k:int,
     print('读写完毕')
 
 
-k = 25
+k = 25  # 候选的概念条数。按照full和full的总条数比例关系，大概为2:1，所以full=50， full=25
+print('候选概念的个数为{}'.format(k))
 src_path = os.path.abspath('..') + '\\data\\original_data\\split_data\\'
-train_con = src_path + 'dia-desc--dis\\full\\train-con.txt'  # 训练的concept文件
-infer_dia = src_path + '\\dia-desc--dis\\full\\infer-dia.txt'  # 测试的diagnosis文件
-infer_dia_repeat_k = src_path + 'dia-desc--dis\\full\\infer-dia-repeat-' + str(k) + '.txt'  # 重复写k次的测试dia文件
-infer_candi_k_con = src_path + 'dia-desc--dis\\full\\infer-candi-' + str(k) + '-con.txt'  # k个候选的concept文件
-infer_candi_k_pro = src_path + 'dia-desc--dis\\full\\infer-candi-' + str(k) + '-pro.txt'  # k个候选concept的相似度文件
+train_con = src_path + 'dia--dis\\full\\train-con.txt'  # 训练的concept文件
+infer_dia = src_path + '\\dia--dis\\full\\infer-dia.txt'  # 测试的diagnosis文件
+infer_dia_repeat_k = src_path + 'dia--dis\\full\\infer-dia-repeat-' + str(k) + '.txt'  # 重复写k次的测试dia文件
+infer_candi_k_con = src_path + 'dia--dis\\full\\infer-candi-' + str(k) + '-con.txt'  # k个候选的concept文件
+infer_candi_k_pro = src_path + 'dia--dis\\full\\infer-candi-' + str(k) + '-pro.txt'  # k个候选concept的相似度文件
 bio_nlp = os.path.abspath('.') + '\\BioNLP-word-embedding.bin'  # 预训练的BioNLP词向量
+write_path = train_con.split('split_data\\')[1].split('\\t')[0]
+print('当前的数据类型为:', write_path)
 
 candidate_con_4_dia(infer_dia, infer_dia_repeat_k, train_con, k, infer_candi_k_con, infer_candi_k_pro, bio_nlp)
-
-
-
-
-
-
