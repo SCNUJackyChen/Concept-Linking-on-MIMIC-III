@@ -37,6 +37,7 @@ class MatchingModel():
                 self.concepts.append(row[1])
         self.concepts = [c.split() for c in list(set(self.concepts))]
         if self.rewrite_mode == True:
+            # for procedure data set, the following 2 file paths should be replaced
             self.con_dic = dict(pd.read_csv('top50-con-dic.csv'))
             self.dic = dict(pd.read_csv('top50-dic.csv'))
             for key, value in self.con_dic.items():
