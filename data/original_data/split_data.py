@@ -142,23 +142,23 @@ def split_data(src_file, un_repeat, add_dia, add_desc, add_text, add_father, fat
 
 src_path = os.path.abspath('.') + '\\processed_data\\'
 tgt_path = os.path.abspath('.') + '\\split_data\\'
-disease_or_procedure = 'procedure'
+disease_or_procedure = 'disease'
 
 if disease_or_procedure == 'disease':
     # 写diagnosis--disease全数据
-    full_file = src_path + 'diagnosis-2-disease-filter.csv'
-    out_path = tgt_path + 'dia--dis\\full'
-    split_data(full_file, False, True, False, False, False, True, 100, out_path)
+    # full_file = src_path + 'diagnosis-2-disease-filter.csv'
+    # out_path = tgt_path + 'dia--dis\\full'
+    # split_data(full_file, False, True, False, False, False, True, 100, out_path)
 
     # 写diagnosis--disease top50数据
-    full_file = src_path + 'diagnosis-2-disease-filter-50.csv'
-    out_path = tgt_path + 'dia--dis\\top50'
-    split_data(full_file, False, True, False, False, False, True, 100, out_path)
+    # full_file = src_path + 'diagnosis-2-disease-filter-50.csv'
+    # out_path = tgt_path + 'dia--dis\\top50'
+    # split_data(full_file, False, True, False, False, False, True, 100, out_path)
 
     # 写diagnosis+description--disease 全数据
-    full_file = src_path + 'diagnosis-2-disease-filter.csv'
-    out_path = tgt_path + 'dia-desc--dis\\full'
-    split_data(full_file, False, True, True, False, False, True, 100, out_path)
+    # full_file = src_path + 'diagnosis-2-disease-filter.csv'
+    # out_path = tgt_path + 'dia-desc--dis\\full'
+    # split_data(full_file, False, True, True, False, False, True, 100, out_path)
 
     # 写diagnosis+description--disease top50数据
     full_file = src_path + 'diagnosis-2-disease-filter-50.csv'
