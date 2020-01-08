@@ -42,7 +42,7 @@ class MatchingModel():
             self.dic = dict(pd.read_csv('top50-dic.csv'))
             for key, value in self.con_dic.items():
                 self.con_dic[key] = np.array(value)
-            for key, value in self.con_dic.items():
+            for key, value in self.dic.items():
                 self.dic[key] = np.array(value)
             length = len(self.con_dic)
             X = np.ndarray(shape=(length, 200))
